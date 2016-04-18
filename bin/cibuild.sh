@@ -8,7 +8,7 @@ gem install --conservative bundler
 bundle install
 
 # run jekyll hyde (lint)
-bundle exec jekyll hyde
+echo "bundle exec jekyll hyde"
 
 # Run jekyll build
 bundle exec jekyll build
