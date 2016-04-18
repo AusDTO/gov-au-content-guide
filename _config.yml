@@ -28,3 +28,6 @@ prose:
     - /bin
     - /fonts
     - /_posts
+
+exclude:
+  - vendor/

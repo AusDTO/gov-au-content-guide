@@ -1,16 +1,9 @@
-ruby '2.3.0'
-
 source 'https://rubygems.org'
+ruby '2.2.3'
 
-gem 'bourbon'
+gem 'bundler'
 gem 'jekyll'
-gem 'neat'
 gem 'rack-jekyll'
-gem 'rack-ssl'
-gem 'slim'
+gem 'puma'
+
 gem 'titleize'
-
-
-group :development do
-  gem 'puma'
-end
