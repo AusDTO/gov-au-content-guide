@@ -1,0 +1,24 @@
+---
+machine:
+  ruby:
+    version: 2.2.3
+
+dependencies:
+  pre:
+    - "curl -v -L -o cf-cli_amd64.deb 'https://cli.run.pivotal.io/stable?release=debian64&source=github'"
+    - sudo dpkg -i cf-cli_amd64.deb
+    - cf -v
+
+test:
+  override:
+    - ./bin/cibuild.sh
+  post:
+    - cf login -a $CF_API_STAGING --skip-ssl-validation -u $CF_USER_STAGING -p $CF_PASSWORD_STAGING
+    - cf target -o design-guides -s development
+    - cf a
+
+deployment:
+  development:
+    branch: master
+    commands:
+      - ./bin/cideploy.sh
