@@ -1,22 +1,17 @@
-<footer class="site-footer">
+<!--VENDOR SCRIPTS -->
 
-  <div class="wrapper">
+<!--CUSTOM SCRIPTS -->
+<script src="{{ "/js/accordion.js" | prepend: site.baseurl }}"></script>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+<script>
+  smoothScroll.init();
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+$(function(){
+  $("a").each(function(){
+    if ($(this).attr("href") == window.location.pathname){
+      $(this).addClass("current");
+    }
+  });
+});
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
-
-</footer>
+</script>
