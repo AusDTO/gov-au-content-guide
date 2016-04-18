@@ -5,48 +5,5 @@
     <p>Content Design Guide v1.0</p>
   </div>
 </header>
-<div class="navigation-wrapper">
-  <nav class="primary" role="navigation">
-    <div class="wrapper">
-      <ul class="navigation-menu">
-        <li class="nav-link">
-          <a href="/index.html">A-Z</a>
-        </li>
 
-      </ul>
-    </div>
-  </nav>
-</div>
 <div class="content">
-  <nav class="secondary">
-    <ul>
-      <a>
-        <li class="nav-item">
-          Overview
-        </li>
-      </a>
-      <a>
-        <li class="nav-item">
-          Purpose
-        </li>
-      </a>
-      <a>
-        <li class="nav-item">
-          A-Z
-        </li>
-      </a>
-      <li>
-        <ul class="sub-nav">
-          {% for entry in site.entries %}
-          <a href="#{{ entry.path | entry_file }}">
-            <li class="nav-item">
-              {% if entry.menu_link %}
-              {{ entry.menu_link }}
-              {% else %}
-              {{ entry.path | entry_heading }}
-              {% endif %}
-            </li>
-          </a>
-          {% endfor %}
-          </ul></li></ul></nav>
-  <div class="main-content">
