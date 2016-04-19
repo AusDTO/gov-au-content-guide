@@ -6,3 +6,4 @@ gem 'jekyll'
 gem 'rack-jekyll'
 gem 'puma'
 
+gem 'titleize'

@@ -5,7 +5,60 @@ layout: default
 {% include navigation.html %}
 <div class="content">
   {% include sidebar-nav.html %}
-  <div class="main-content">
+  <div class="main-content" id="commentable-area">
+    <h1 class="page-heading">A-Z</h1>
+    <hr>
+    <p class="intro">
 
+    </p>
+    <a class="js-accordion-open-all" href='javascript:void(0)'> Open all</a>
+    <a class="js-accordion-close-all" href='javascript:void(0)'> Close all</a>
+    {% assign prev_letter = "Z" %}
+    {% for entry in site.entries %}
+    {% assign letter = {{entry.path | entry_heading | first_letter }}%}
+
+    {% if prev_letter != letter %}
+    {% if prev_letter != 'Z' %}
+    </li>
+    </ul>
+    </li>
+    </ul>
+    {% endif %}
+    <ul class="accordion">
+      <li class="accordion-heading">
+        <a class="js-accordion-trigger" href='javascript:void(0)'><h2 id="{{letter}}">{{letter}}</h2></a>
+        <ul class="submenu">
+          <li>
+
+            {% endif %}
+
+            <h3>{{ entry.path | entry_heading }}</h3>
+            <div id="{{ entry.path | entry_file }}" class="commentable-section" data-section-id="{{ entry.path | entry_file }}">
+              {{ entry.output}}
+            </div>
+
+
+            {% assign prev_letter = letter %}
+            {% endfor %}
+          </li>
+        </ul>
+      </li>
+    </ul>
   </div>
 </div>
+
+<link href="css/default-theme.min.css" type="text/css"/>
+<link href="css/side-comments.min.css" type="text/css"/>
+<script type="text/javascript" src="js/side-comments.min.js"></script>
+<script>
+  $(document).ready(function() {
+    var SideComments = require('side-comments');
+    /*sideComments = new SideComments('#commentable-area', {
+      id: 1,
+      avatarUrl: "http://f.cl.ly/items/0s1a0q1y2Z2k2I193k1y/default-user.png",
+      name: "You"
+    }, []);*/
+
+
+  });
+</script>
