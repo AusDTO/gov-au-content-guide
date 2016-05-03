@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="ugd-into">
+  <div class="wrapper">
+    <h1>{{ site.title }}</h1>
+    <p class="index-description">{{ site.description }}</p>
+    <div class="row">
+      <a class="button button-blue" href="/az-guide.html", type="button">A to Z Style Guide</a>
+      <a class="button button-download" href="/writing-for-web.html">Writing for the Web</a>
+      <small>An introduction</small>
+    </div>
+  </div>
+</div>
+
+<div class="overview">
+  <div class="wrapper">
+    <div class="about">
+
+      <h1>{{ page.title }}</h1>
+      {{ page.abstract | markdownify }}
+
+      <div class="structure-overview">
+        <div class"az-guide-intro">
+          <h2>page.title from A to Z index</h2>
+          <p>page.abstract from az-guide.md</p>
+        </div>
+        <div class="writing-intro">
+          <h2>page.title from Writing for the Web</h2>
+          <p>page.abstractfrom writing-for-the-web.md</p>
+        </div>
+      </div>
+    </div>
+
+    {{ content }}
+
+  </div>
+</div>
