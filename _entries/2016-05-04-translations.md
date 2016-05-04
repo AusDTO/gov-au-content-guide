@@ -1,3 +1,5 @@
+---
+---
 ## Translations
 
 Content written in plain English is easier to translate (and read). But translating is not just about the words, it’s also about capturing the meaning of what you are communicating within the context of a culture.
