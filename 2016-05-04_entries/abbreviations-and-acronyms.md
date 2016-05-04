@@ -30,17 +30,11 @@ Most acronyms for companies or organisations are uppercase with the exception of
 Don’t use full stops in acronyms eg ATM not A.T.M.
 
 Contractions
-
 Dates
-
 Naming conventions
-
 Numbers
-
 Punctuation
-
 Symbols and characters
-
 Weights and measures
 
 
