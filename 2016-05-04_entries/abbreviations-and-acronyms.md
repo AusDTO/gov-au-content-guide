@@ -2,6 +2,8 @@
 menu_link: Abbreviations
 published: true
 ---
+## Abbreviations and acronyms
+
 Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers 
 eg 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW.
 
@@ -29,6 +31,8 @@ Most acronyms for companies or organisations are uppercase with the exception of
 
 Don’t use full stops in acronyms eg ATM not A.T.M.
 
+Links
+
 - Contractions
 - Dates
 - Naming conventions
@@ -36,6 +40,3 @@ Don’t use full stops in acronyms eg ATM not A.T.M.
 - Punctuation
 - Symbols and characters
 - Weights and measures
-
-
-
