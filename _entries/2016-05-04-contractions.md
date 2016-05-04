@@ -1,7 +1,9 @@
 ## Contractions
 
 When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
-Be aware that low-literacy users, or people from non-English speaking backgrounds, may find contractions difficult to understand. 
+
+Be aware that low-literacy users, or people from non-English speaking backgrounds, may find contractions difficult to understand.
+
 Always consider the context eg don’t use them in forms.
 
 - don’t (do not)
