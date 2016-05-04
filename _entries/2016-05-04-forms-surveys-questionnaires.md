@@ -3,7 +3,7 @@
 ## Forms, surveys & questionnaires
 
 
-**Forms**
+### **Forms**
 
 Forms must be written using simple language in plain English.
 
@@ -61,3 +61,26 @@ A good question has no ambiguity and is accompanied by a short explanation of wh
 Links
 
 - Design Guide
+
+### Surveys & questionnaires
+
+Make sure they are accessible. Keep them short and relevant.
+
+Use the title to remind the user what they are being asked about.
+
+**For example**
+
+Title: School canteen survey
+
+Brief description: Have your say about our proposed new canteen menu.
+
+Indicate how how long it will take to complete. 
+
+Questions are deceptively hard to write. 
+
+A good question has no ambiguity and is accompanied by a short explanation of why you are asking it. When using an open-ended question consider how you are going to report on that data.
+
+Links
+- Design Guide
+
+
