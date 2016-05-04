@@ -2,11 +2,13 @@
 Aboriginal and Torres Strait Islander peoples are not 1 homogenous group consisting of a diverse range of cultures. Both Aboriginal and Torres Strait Islander peoples are 2 distinct cultural groups. English is a second, third or even fourth language for many First Australians.
 
 **Do not use**
+
 Aboriginals, Aborigine - these words are associated with colonisation and assimilation and are distressing to many people.
 ATSI – never use the acronym ATSI. This is considered disrespectful and degrading.
 Aboriginal and/or Torres Strait Islander Australians
 
 **Instead use**
+
 Aboriginal and Torres Strait Islander peoples (note the plural)
 Aboriginal peoples (note the plural)
 Torres Strait Islander peoples (note the plural)
@@ -24,11 +26,11 @@ Indigenous should always be capitalised.
 
 **Correct spelling of cultural terms**
 
-On Country
-Sorry Business
-Men’s Business
-Women’s Business
-Traditional Owners or Traditional Custodians
+- On Country
+- Sorry Business
+- Men’s Business
+- Women’s Business
+- Traditional Owners or Traditional Custodians
 
 Inclusivity
 
