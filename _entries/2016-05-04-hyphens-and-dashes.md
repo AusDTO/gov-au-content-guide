@@ -20,4 +20,4 @@ Use em dashes without a space on either side (—) when adding an idea to a sent
 
 - In Microsoft Word: hold down the [Alt] key and type 0151
 - On Mac:  hold down [option] key and the hyphen key [-]
-- Google Doc: go to Insert then Special characters.
+- Google Doc: go to Insert then Special characters
