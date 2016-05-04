@@ -29,8 +29,6 @@ What you need to complete this form
 
 If you are collecting personal details, preface with a sentence to reassure them. 
 
-If you need to direct the user 
-
 **For example**
 
 We will not collect, use or store your personal data for any purpose other than as stated in this form. See our privacy statement.
@@ -51,6 +49,7 @@ Use the title to remind the user what they are being asked about.
 **For example**
 
 Title: School canteen survey
+
 Brief description: Have your say about our proposed new canteen menu.
 
 Indicate how how long it will take to complete. 
