@@ -6,5 +6,3 @@ Links
 
 - Accessibility
 - Video
-
-
