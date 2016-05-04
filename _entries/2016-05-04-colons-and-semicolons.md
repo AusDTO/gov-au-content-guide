@@ -1,3 +1,5 @@
+---
+---
 ## Colons and semicolons
 
 Use a colon to lead into a bulleted list after a sentence fragment. Don’t use semicolons at the end of each point.
