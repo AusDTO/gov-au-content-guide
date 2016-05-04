@@ -2,7 +2,6 @@
 ---
 ## Phone numbers
 
-
 Use the following spacing formats, except in forms:
 
 - 6271 1000 (phone numbers within local area)
