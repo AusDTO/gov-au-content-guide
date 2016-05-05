@@ -43,7 +43,9 @@ Links
 - Voice
 
 [Designing inclusive services guide](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
-[Australian Network on Disability - Inclusive language](http://www.and.org.au/pages/inclusive-language.html)
-[People with Disability - Guide to reporting disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
-[Arts Access Australia - Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)
 
+[Australian Network on Disability - Inclusive language](http://www.and.org.au/pages/inclusive-language.html)
+
+[People with Disability - Guide to reporting disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
+
+[Arts Access Australia - Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)
