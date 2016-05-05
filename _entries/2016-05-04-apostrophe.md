@@ -16,5 +16,3 @@ Links
 - Abbreviations and acronyms
 - Contractions
 - Punctuation
-
-
