@@ -14,6 +14,7 @@ Call the form something which explains the task and add a short description.
 **For example**
 
 Title: School enrolment form
+
 Brief description: Enrol your child in a NSW public school
 
 Be helpful. If extra documents are required to complete the form, offer a list under a subheading. 
@@ -82,5 +83,3 @@ A good question has no ambiguity and is accompanied by a short explanation of wh
 
 Links
 - Design Guide
-
-
