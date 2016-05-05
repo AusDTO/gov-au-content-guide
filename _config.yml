@@ -6,7 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: GOV.AU Content Style Guide
+title: Content Style Guide
+description: >
+  GOV.AU content meets our users’ needs. It works for everyone, regardless of
+  ability. We aim for the fewest and clearest words possible to explain what
+  people need to know.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
