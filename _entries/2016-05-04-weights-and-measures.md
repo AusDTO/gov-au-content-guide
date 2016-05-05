@@ -20,4 +20,4 @@ Use the percentage sign with a number eg 3%. Otherwise use per cent not percent.
 
 Links
 
-- Abbreviations
+[Abbreviations](_entries/2016-05-04-abbreviations-and-acronyms.md "Abbreviations")
