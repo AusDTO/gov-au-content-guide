@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: writing-guide
 title: Writing for the Web
 abstract: "This is the abstract for the Writing for the Web section. It is used to populate a blurb on the content guide homepage."
 ---

@@ -1,0 +1,15 @@
+<nav class="secondary">
+  <ul>
+    <li class="nav-item">
+      {% for guide in site.guides %}
+      <a href="#{{ guide.path | guide_file }}">
+        {% if guide.menu_link %}
+          {{ guide.menu_link }}
+        {% else %}
+          {{ guide.path }}
+        {% endif %}
+      </a>
+      {% endfor %}
+    </li>
+  </ul>
+</nav>
