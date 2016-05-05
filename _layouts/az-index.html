@@ -11,8 +11,6 @@ layout: default
     <p class="intro">
 
     </p>
-    <a class="js-accordion-open-all" href='javascript:void(0)'> Open all</a>
-    <a class="js-accordion-close-all" href='javascript:void(0)'> Close all</a>
     {% assign prev_letter = "Z" %}
     {% for entry in site.entries %}
     {% assign letter = {{entry.path | entry_heading | first_letter }}%}
