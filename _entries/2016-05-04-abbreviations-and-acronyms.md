@@ -7,7 +7,7 @@ published: true
 Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers 
 eg 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW.
 
-Do not use punctuation for eg, ie and etc 
+Do not use punctuation for eg, ie and etc. 
 
 But when starting a sentence use ‘For example … ’ and ‘That is …’
 
