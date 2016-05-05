@@ -8,41 +8,21 @@ layout: default
   {% include sidebar-nav.html %}
   <div class="main-content" id="commentable-area">
     <h1 class="page-heading">{{ page.title }}</h1>
-    <p class="intro">
 
-    </p>
-    <a class="js-accordion-open-all" href='javascript:void(0)'> Open all</a>
-    <a class="js-accordion-close-all" href='javascript:void(0)'> Close all</a>
     {% assign prev_letter = "Z" %}
     {% for entry in site.entries %}
-    {% assign letter = {{entry.path | entry_heading | first_letter }}%}
-
-    {% if prev_letter != letter %}
-    {% if prev_letter != 'Z' %}
-    </li>
-    </ul>
-    </li>
-    </ul>
+      {% assign letter = {{entry.path | entry_heading | first_letter }}%}
+        {% if prev_letter != letter %}
+        {% if prev_letter != 'Z' %}
+      {% endif %}
     {% endif %}
-    <ul class="accordion">
-      <li class="accordion-heading">
-        <a class="js-accordion-trigger" href='javascript:void(0)'><h2 id="{{letter}}">{{letter}}</h2></a>
-        <ul class="submenu">
-          <li>
 
-            {% endif %}
+    <div id="{{ entry.path | entry_file }}" class="commentable-section" data-section-id="{{ entry.path | entry_file }}">
+      {{ entry.output}}
+    </div>
 
-            <div id="{{ entry.path | entry_file }}" class="commentable-section" data-section-id="{{ entry.path | entry_file }}">
-              {{ entry.output}}
-            </div>
-
-
-            {% assign prev_letter = letter %}
-            {% endfor %}
-          </li>
-        </ul>
-      </li>
-    </ul>
+    {% assign prev_letter = letter %}
+    {% endfor %}
   </div>
 </div>
 
