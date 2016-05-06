@@ -1,5 +1,5 @@
 ---
-title: Pre-writing checklist
+title: Optimise your content for the web
 abstract: "A list to consider before writing at all"
 ---
 
