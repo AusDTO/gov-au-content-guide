@@ -11,6 +11,15 @@
 
     {% include footer.html %}
 
+    <script src="js/inlineDisqussions.js"></script>
+    <link rel="stylesheet" href="css/inlineDisqussions.css" type="text/css"/>
+    <script>
+      disqus_shortname = 'govaucontent';
+      jQuery(document).ready(function() {
+      jQuery("p").inlineDisqussions();
+      });
+    </script>
+
   </body>
 
 </html>
