@@ -57,11 +57,6 @@ var disqus_url;
         disqussionNotesHandler(i, $(this));
       });
 
-      // Display comments count.
-      if (settings.displayCount) {
-        loadDisqusCounter();
-      }
-
       // Hide the discussion.
       $('html').click(function(event) {
         if($(event.target).parents('#disqussions_wrapper, .main-disqussion-link-wrp').length === 0) {
