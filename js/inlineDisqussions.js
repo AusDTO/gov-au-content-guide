@@ -97,6 +97,15 @@ var disqus_url;
       'left': settings.position == 'right' ? node.offset().left + node.outerWidth() : node.offset().left - a.outerWidth()
     });
 
+    //update the css when the window changes
+    jQuery (window).resize(function() {
+      document.getElementsByClassName('disqussion')
+      a.css({
+        'top': node.offset().top,
+        'left': settings.position == 'right' ? node.offset().left + node.outerWidth() : node.offset().left - a.outerWidth()
+      });
+    });
+
     node.attr('data-disqus-identifier', identifier).mouseover(function() {
         a.addClass("hovered");
     }).mouseout(function() {
