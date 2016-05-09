@@ -1,9 +1,7 @@
 ---
-menu_link: Abbreviations
-published: true
+title: "Abbreviations and acronyms"
+related: [punctuation, government-naming]
 ---
-
-## Abbreviations and acronyms
 
 Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers, eg:
 
