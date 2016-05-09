@@ -10,7 +10,8 @@ Make sure that it’s up to date and projects an ideal experience of interacting
 
 Links
 
-- Structuring a web page
-- Call-to-action
-- Buttons
+[Structuring a page](/_entries/2016-05-04-structuring-a-page.md "Structuring a page")
 
+[Calls-to-action](/_entries/2016-05-04-calls-to-action.md "Calls-to-action")
+
+[Buttons](/_entries/2016-05-04-buttons.md "Buttons")
