@@ -11,8 +11,12 @@ This approach to writing gives all users a good experience, regardless of abilit
 
 Links
 
-- Accessibility
-- Alt text
-- Headings & subheadings
-- Links
-- Plain English
+[Accessibility](/_entries/2016-05-04-accessibility.md "Accessibility")
+
+[Alt text](/_entries/2016-05-04-alt-text.md "Alt text")
+
+[Headings and subheadings](/_entries/2016-05-04-headings-and-subheadings.md "Headings and subheadings")
+
+[Links](/_entries/2016-05-04-links.md "Links")
+
+[Plain English](/_entries/2016-05-04-plain-english.md "Plain English")
