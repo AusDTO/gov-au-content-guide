@@ -1,7 +1,6 @@
 ---
 ---
-## Forms, surveys & questionnaires
-
+## Forms, surveys and questionnaires
 
 ### **Forms**
 
@@ -39,9 +38,12 @@ Forms should be tested for usability and accessibility.
 If a form is to be printed, scanned or emailed, provide a contact support phone number alongside a PDF download.
 
 Links
-- Design Guide
-- PDFs
-- Surveys & questionnaires
+
+Design Guide
+
+[PDFs](/_entries/2016-05-04-pdfs.md "PDFs")
+
+[Surveys and questionnaires](/_entries/2016-05-04-surveys-and-questionnaires.md "Surveys and questionnaires")
 
 Make sure they are accessible. Keep them short and relevant.
 
@@ -61,9 +63,9 @@ A good question has no ambiguity and is accompanied by a short explanation of wh
 
 Links
 
-- Design Guide
+Design Guide
 
-### Surveys & questionnaires
+### Surveys and questionnaires
 
 Make sure they are accessible. Keep them short and relevant.
 
@@ -82,4 +84,5 @@ Questions are deceptively hard to write.
 A good question has no ambiguity and is accompanied by a short explanation of why you are asking it. When using an open-ended question consider how you are going to report on that data.
 
 Links
-- Design Guide
+
+Design Guide
