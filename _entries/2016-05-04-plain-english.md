@@ -98,6 +98,8 @@ Always choose the shorter, plain English word, term, sentence and paragraph over
 
 Links
 
-- Screen readers
-- Tone
-- Voice
+[Screen readers](/_entries/2016-05-04-screen-readers.md "Screen readers")
+
+[Tone](/_entries/2016-05-04-tone.md "Tone")
+
+[Voice](/_entries/2016-05-04-voice.md "Voice")
