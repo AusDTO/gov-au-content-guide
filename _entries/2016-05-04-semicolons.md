@@ -23,4 +23,4 @@ The National Broadband Network offers a new age of productivity; innovation; and
 
 Links
 
-- Colons
+[Colons](/_entries/2016-05-04-colons-and-semicolons.md "Colons")
