@@ -8,7 +8,7 @@ Aboriginal and Torres Strait Islander peoples are not 1 homogenous group consist
 **Do not use**
 
 - Aboriginals, Aborigine - these words are associated with colonisation and assimilation and are distressing to many people.
-- ATSI – never use the acronym ATSI. This is considered disrespectful and degrading.
+- ATSI -- never use the acronym ATSI. This is considered disrespectful and degrading.
 - Aboriginal and/or Torres Strait Islander Australians
 
 **Instead use**
@@ -36,6 +36,8 @@ Indigenous should always be capitalised.
 - Women’s Business
 - Traditional Owners or Traditional Custodians
 
+---
+
 Links
 
--Inclusivity
+- Inclusivity
