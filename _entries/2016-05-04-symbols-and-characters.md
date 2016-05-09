@@ -13,6 +13,8 @@ Use the @ symbol in email addresses and Twitter/Instagram handles only.
 
 Links
 
-- Abbreviations
-- Ampersands
-- Temperature
+[Abbreviations](/_entries/2016-05-04-abbreviations-and-acronyms.md "Abbreviations")
+
+[Ampersands](/_entries/2016-05-04-ampersands.md "Ampersands")
+
+[Temperature](/_entries/2016-05-04-temperature.md "Temperature")
