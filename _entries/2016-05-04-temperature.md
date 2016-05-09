@@ -10,4 +10,4 @@ A temperature of 2C is about the same as 36F.
 
 Links
 
-- Symbols & characters
+[Symbols & characters](/_entries/2016-05-04-symbols-and-characters.md "Symbols & characters")
