@@ -12,7 +12,8 @@ Where a PDF version needs to be made available in multiple languages, publish th
 
 Links
 
-- Plain English
-- PDFs
-- Screen readers
+[Plain English](/_entries/2016-05-04-plain-english.md "Plain English")
 
+[PDFs](/_entries/2016-05-04-pdfs.md "PDFs")
+
+[Screen readers](/_entries/2016-05-04-screen-readers.md "Screen readers")
