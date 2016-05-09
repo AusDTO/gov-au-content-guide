@@ -26,9 +26,12 @@ Ensure your calls-to-action are visually prominent, user-friendly terms.
 
 Links
 
-- Lists
-- Paragraphs
-- Plain English
-- Tone
-- Voice
+[Lists](/_entries/2016-05-04-lists.md "Lists")
 
+[Paragraphs](/2016-05-04-paragraphs.md "Paragraphs")
+
+[Plain English](/_entries/2016-05-04-plain-english.md "Plain English")
+
+[Tone](/_entries/2016-05-04-tone.md "Tone")
+
+[Voice](/_entries/2016-05-04-voice.md "Voice")
