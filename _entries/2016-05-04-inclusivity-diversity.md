@@ -1,6 +1,6 @@
 ---
 ---
-## Inclusivity & diversity
+## Inclusivity and diversity
 
 When preparing content for people who have come to Australia from non-English speaking countries, you should recognise cultural diversity and specific needs — while not stereotyping or making assumptions.
 
