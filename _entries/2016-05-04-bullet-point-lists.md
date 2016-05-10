@@ -1,9 +1,7 @@
 ---
 title: Bullet point lists"
-related:
+related: [lists]
 ---
-
-## Bullet point lists
 
 Bullet point lists break up the page and help with readability.
 
@@ -25,9 +23,3 @@ For full sentences, use a capital letter at the start of each point and end with
 >
 > - The director will host a community morning tea.
 > - The awareness week booklet will be launched.
-
----
-
-Links
-
-- Lists
