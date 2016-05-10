@@ -1,6 +1,6 @@
 ---
 ---
-## Hyphens & dashes
+## Hyphens and dashes
 
 ### Hyphens
 
@@ -16,12 +16,16 @@ Use when the second word is ‘up’ eg meet-up, or when the first and second wo
 
 ### Em dashes
 
-Use em dashes without a space on either side (—) when adding an idea to a sentence or instead of starting a new sentence.
+Use em dashes without a space on either side (-) when adding an idea to a sentence or instead of starting a new sentence.
 
 **For example**
 
 27% of Australians were born overseas–another 2.5% identify as being of Aboriginal and/or Torres Strait Islander origin.
 
-- In Microsoft Word: hold down the [Alt] key and type 0151
-- On Mac:  hold down [option] key and the hyphen key [-]
-- Google Doc: go to Insert then Special characters
+**On PC:** hold down the [Alt] key and type '0151'
+
+**On Mac:** hold down [option] key and the hyphen key [-]
+
+**In a Google document:** go to the 'Insert' menu, choose 'Special characters' then search 'Categories' choose 'Punctuation' then choose 'Dash/Connector' and select 'EM DASH'
+
+**In a Microsoft Word document:** go to the 'Insert' menu, choose 'Symbols' then at the 'Special Characters' tab choose [–].
