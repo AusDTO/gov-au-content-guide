@@ -1,15 +1,18 @@
 ---
+title: "Languages"
+related: [inclusivity-and-diversity, pdfs, plain-english, screen-readers, translations]
 ---
+
 ## Languages
+
+Fill me in! :)
+
+---
 
 Links
 
-[Inclusivity and diversity](/_entries/2016-05-04-inclusivity-diversity.md "Inclusivity and diversity")
-
-[PDFs](/_entries/2016-05-04-pdfs.md "PDFs")
-
-[Plain English](/_entries/2016-05-04-plain-english.md "Plain English")
-
-[Screen readers](/_entries/2016-05-04-screen-readers.md "Screen readers")
-
-[Translations](/_entries/2016-05-04-translations.md "Translations")
+- [Inclusivity and diversity](#inclusivity-diversity "Inclusivity and diversity")
+- [PDFs](#pdfs "PDFs")
+- [Plain English](#plain-english "Plain English")
+- [Screen readers](#screen-readers "Screen readers")
+- [Translations](#translations "Translations")

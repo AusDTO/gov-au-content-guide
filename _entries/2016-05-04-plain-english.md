@@ -1,5 +1,8 @@
 ---
+title: "Plain English"
+related:
 ---
+
 ## Plain English
 
 Plain English is clear and easy to understand by everyone regardless of ability.
@@ -95,6 +98,7 @@ Always choose the shorter, plain English word, term, sentence and paragraph over
 | with reference to, with regard to, with respect to                                                              | about, regarding                           |
 | [use for any department in general]                                                                             | department                                 |
 
+---
 
 Links
 

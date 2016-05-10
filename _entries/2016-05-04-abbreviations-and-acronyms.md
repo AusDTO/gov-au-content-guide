@@ -1,5 +1,5 @@
 ---
-title: "Abbreviations and acronyms"
+title: "Abbreviations & acronyms"
 related: [punctuation, government-naming]
 ---
 

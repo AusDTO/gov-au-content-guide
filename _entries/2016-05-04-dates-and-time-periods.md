@@ -1,6 +1,6 @@
 ---
 title: "Dates and time periods"
-related:
+related: [time]
 ---
 
 ## Dates and time periods
