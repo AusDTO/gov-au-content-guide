@@ -1,9 +1,7 @@
 ---
 title: "Error messages"
-related:
+related: [audience]
 ---
-
-## Error messages
 
 Error messages should have a polite, sympathetic tone that helps the user understand what to do next.
 
@@ -23,8 +21,6 @@ Personalise the message with an apology and redirect the page back to the homepa
 
 > Sorry this page no longer exists. Please return to the homepage.
 
----
-
-Links
+### Other links
 
 - Design Guide

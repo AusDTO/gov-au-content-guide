@@ -1,9 +1,7 @@
 ---
 title: "Weights & measures"
-related: [abbreviations-acronyms]
+related: [abbreviations-and-acronyms]
 ---
-
-## Weights & measures
 
 Spell out when not using a number.
 
@@ -20,9 +18,3 @@ Abbreviate when using a number and allow a space between.
 Abbreviate in headings, tables and graphics, with or without a number
 
 Use the percentage sign with a number eg *3%*. Otherwise use *per cent* not *percent*.
-
----
-
-Links
-
-[Abbreviations](_entries/2016-05-04-abbreviations-and-acronyms.md "Abbreviations")

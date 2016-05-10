@@ -3,8 +3,6 @@ title: "Forms, surveys & questionnaires"
 related: [pdfs, surveys-questionnaires]
 ---
 
-## Forms, surveys & questionnaires
-
 ### Forms
 
 Forms must be written using simple language in plain English.
@@ -58,10 +56,6 @@ Questions are deceptively hard to write.
 
 A good question has no ambiguity and is accompanied by a short explanation of why you are asking it. When using an open-ended question consider how you are going to report on that data.
 
----
-
-Links
+### Other links
 
 - Design Guide
-- [PDFs](/_entries/2016-05-04-pdfs.html "PDFs")
-- [Surveys and questionnaires](/_entries/2016-05-04-surveys-and-questionnaires.md "Surveys and questionnaires")

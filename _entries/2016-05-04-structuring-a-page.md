@@ -3,8 +3,6 @@ title: "Structuring a page"
 related: [lists, paragraphs, plain-english, tone, voice]
 ---
 
-## Structuring a page
-
 Before you write anything, plan the structure of content for your webpage.
 
 **Write a clear title and lead summary**
@@ -27,14 +25,6 @@ Break up long sentences with lists, making it easier for your reader to understa
 
 Ensure your calls-to-action are visually prominent, user-friendly terms.
 
----
+### todo/issues
 
-Links
-
-- [Lists](/entries/2016-05-04-lists.html "Lists")
-- [Paragraphs](entries/2016-05-04-paragraphs.html "Paragraphs")
-- [Plain English](/_entries/2016-05-04-plain-english.html "Plain English")
-- [Tone](/entries/2016-05-04-tone.html "Tone")
-- [Voice](/_entries/2016-05-04-voice.html "Voice")
-
-This page needs restructuring via proper headings?
+- does this page need restructuring via headings?

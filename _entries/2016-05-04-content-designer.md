@@ -3,12 +3,8 @@ title: "Content designer"
 related:
 ---
 
-## Content designer
-
 Fill me in! :)
 
----
-
-Links
+### Other links
 
 - Writing for the web

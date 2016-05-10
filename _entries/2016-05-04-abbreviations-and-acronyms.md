@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations & acronyms"
-related: [punctuation, government-naming]
+related: [contractions, dates, government-naming, naming-conventions, numbers, punctuation, symbols-and-characters, weights-and-measures]
 ---
 
 Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers, eg:
@@ -34,15 +34,3 @@ Most acronyms for companies or organisations are uppercase with the exception of
 Don’t use full stops in acronyms eg
 
 > ATM not A.T.M.
-
----
-
-Links
-
-- Contractions
-- Dates
-- Naming conventions
-- Numbers
-- Punctuation
-- Symbols and characters
-- Weights and measures

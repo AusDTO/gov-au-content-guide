@@ -1,6 +1,6 @@
 ---
 title: "Accessibility"
-related: [google-docs, pdfs, screen-readers]
+related: [documents, google-docs, headings-and-subheadings, multimedia, pdfs, screen-readers, seo-and-metadata]
 ---
 
 Content must be designed to be readily navigated, scanned and understood by all users regardless of ability.
@@ -19,15 +19,6 @@ All government information must be available to all online users.
 - Provide alt text for images
 - Provide transcripts and captions for video and audio
 
----
-
-Links
+### Other links
 
 - Design Guide
-- Documents
-- Google Docs
-- Headings & subheadings
-- Multimedia (audio and video)
-- PDFs
-- Screen readers
-- SEO & metadata

@@ -1,9 +1,7 @@
 ---
 title: "Headings & subheadings"
-related:
+related: [links]
 ---
-
-## Headings & subheadings
 
 Headings are the first words users read to check the relevance of content before they commit to reading it.
 
@@ -31,9 +29,6 @@ Use an initial capital then lower case (sentence casing), eg *Common tax mistake
 
 Content should only have 1 top level (H1) heading. Be careful with the number of headings beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels (H2 and H3).
 
----
-
-Links
+### Other links
 
 - Design Guide
-- Links

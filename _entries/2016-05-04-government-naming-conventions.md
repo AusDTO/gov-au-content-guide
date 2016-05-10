@@ -1,9 +1,7 @@
 ---
 title: "Government naming conventions"
-related:
+related: [capitalisation, titles]
 ---
-
-## Government naming conventions
 
 ### Government
 
@@ -84,10 +82,3 @@ When space is limited, such as in a table or to avoid lengthy repetitions, use c
 > Tasmania -- Tas.
 > - Victoria -- Vic.
 > - Western Australia -- WA
-
----
-
-Links
-
-- Capitalisation
-- Titles

@@ -1,8 +1,6 @@
 ---
 title: "Exclamation marks"
-related:
+related: [punctuation]
 ---
-
-## Exclamation marks
 
 Don’t use them.

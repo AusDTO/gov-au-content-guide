@@ -1,16 +1,6 @@
 ---
 title: "Multimedia"
-related:
+related: [accessibility, video]
 ---
-
-## Multimedia
 
 Fill me in! :)
-
----
-
-Links
-
-[Accessibility](/_entries/2016-05-04-accessibility.md "Accessibility")
-
-[Video](/_entries/2016-05-04-video.md "Video")

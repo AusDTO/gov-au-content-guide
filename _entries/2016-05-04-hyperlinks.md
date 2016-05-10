@@ -1,9 +1,7 @@
 ---
 title: "Hyperlinks"
-related:
+related: [links]
 ---
-
-## Hyperlinks
 
 ### Consider placement
 
@@ -49,9 +47,6 @@ Include a hyperlink with any emails, without including the ‘mailto:’ prefix.
 
 > [belinda.blogs@dto.com.au](#)
 
----
-
-Links
+### Other links
 
 - Design Guide
-- Links

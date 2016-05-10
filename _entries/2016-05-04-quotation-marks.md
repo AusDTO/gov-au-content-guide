@@ -3,8 +3,6 @@ title: "Quotation marks"
 related: [punctuation]
 ---
 
-## Quotation marks
-
 As a general rule use single quotation marks.
 
 **For example**

@@ -1,6 +1,6 @@
 ---
 title: "Google Docs"
-related:
+related: [documents]
 ---
 
 ## Google Docs

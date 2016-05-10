@@ -1,9 +1,7 @@
 ---
-title: "Inclusivity & diversity"
+title: "Inclusivity and diversity"
 related: [aboriginal-torres-strait-islander-people, accessibility, languages, tone, voice]
 ---
-
-## Inclusivity and diversity
 
 When preparing content for people who have come to Australia from non-English speaking countries, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
 
@@ -37,9 +35,7 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 - religious affiliations
 - values or philosophical differences.
 
----
-
-Links
+### Other links
 
 - [Aboriginal and Torres Strait Islander People](#and-torres-strait-islander-peoples "Aboriginal and Torres Strait Islander People")
 - [Accessibility](#accessibility "Accessibility")

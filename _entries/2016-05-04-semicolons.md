@@ -1,9 +1,7 @@
 ---
 title: "Semicolons"
-related: [colons]
+related: [colons, punctuation]
 ---
-
-## Semicolons
 
 Don’t use. Start a new sentence or create a list of similar ideas or topics or use *ie* instead.
 
@@ -22,9 +20,3 @@ Don’t use. Start a new sentence or create a list of similar ideas or topics or
 **Not this**
 
 > The National Broadband Network offers a new age of productivity; innovation; and global connection for Australians.
-
----
-
-Links
-
-[Colons](/_entries/2016-05-04-colons-and-semicolons.md "Colons")

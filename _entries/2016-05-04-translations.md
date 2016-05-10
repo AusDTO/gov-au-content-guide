@@ -1,6 +1,6 @@
 ---
 title: "Translations"
-related: [plain-english, pdfs, screen-readers]
+related: [audience, plain-english, pdfs, screen-readers, voice]
 ---
 
 ## Translations
@@ -12,13 +12,3 @@ If your content needs to be translated, best practice is for this to be undertak
 See also [Multicultural Language Services Guidelines](https://www.dss.gov.au/settlement-and-multicultural-affairs/programs-policy/multicultural-access-and-equity/multicultural-access-and-equity-resources)
 
 Where a PDF version needs to be made available in multiple languages, publish them alongside a plain English version in HTML. All PDFs need to be made accessible.
-
----
-
-Links
-
-[Plain English](/_entries/2016-05-04-plain-english.md "Plain English")
-
-[PDFs](/_entries/2016-05-04-pdfs.md "PDFs")
-
-[Screen readers](/_entries/2016-05-04-screen-readers.md "Screen readers")

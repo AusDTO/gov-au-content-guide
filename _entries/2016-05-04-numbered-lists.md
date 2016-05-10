@@ -1,16 +1,12 @@
 ---
 title: "Numbered lists"
-related:
+related: [bullet-point-lists, lists]
 ---
-
-## Numbered lists
 
 Use bullet points instead of numbered lists.
 
 Use numbered steps to guide a user through a process.
 
----
+### todo/issues
 
-Links:
-
-- numbers?
+- duplicate content (lists/bullet-point-lists) & rewording?

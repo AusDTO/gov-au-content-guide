@@ -1,16 +1,10 @@
 ---
 title: "SEO & metadata"
-related:
+related: [accessibility, metadata]
 ---
-
-## SEO & metadata
 
 Fill me in (maybe also separate out?).
 
-Pssst: SEO is snakeoil!
+### todo/issues
 
----
-
-Link
-
-- Optimise your content for search
+- would be neat covering (between entries) SEO, metadata, a11y, and machine-readability?

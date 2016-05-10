@@ -3,10 +3,6 @@ title: "Hyphens and dashes"
 related: [em-dashes]
 ---
 
-## Hyphens and dashes
-
-### Hyphens
-
 Use hyphens when 2 or more words form an adjective eg a first-class experience.
 
 Don’t use hyphens when joining an adverb to a noun eg *highly intelligent*.
@@ -29,10 +25,3 @@ Use em dashes without a space on either side (--) when adding an idea to a sente
 - On Mac: hold down `option` key and the hyphen key `-`
 - In Markdown notation use a double hyphen (`--`)
 - Google Doc: go to Insert then Special characters
-
-***
-
-Links
-
-- em dashes
-- ?
