@@ -1,15 +1,6 @@
 ---
 title: "Ampersands"
-related:
+related: [punctuation, symbols-and-characters]
 ---
-
-## Ampersands
 
 Fill me in! :)
-
----
-
-Links
-
-- Punctuation
-- Symbols and characters

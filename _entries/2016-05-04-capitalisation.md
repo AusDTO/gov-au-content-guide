@@ -1,9 +1,7 @@
 ---
 title: "Capitalisation"
-related:
+related: [titles, government-naming-conventions]
 ---
-
-## Capitalisation
 
 Capital letters are hard to read. Keep them to a minimum.
 
@@ -30,10 +28,3 @@ Places that are descriptive eg *south-east NSW*. Further examples:
 > The intranet, not the Intranet
 >
 > wi-fi not wifi, WiFi or Wi-fi
-
----
-
-Links
-
-- Government naming conventions
-- Titles

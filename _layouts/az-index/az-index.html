@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% include navigation.html %}
+
+<div class="content">
+  {% include sidebar-nav-az.html %}
+  <div class="main-content">
+    {% assign current_letter = page.path | replace: "az-indexes/", "" | first_letter %}
+
+    <h1 class="page-heading">{{ current_letter | capitalize }}</h1>
+
+    {% for entry in site.entries %}
+    {% assign letter = {{entry.path | entry_heading | first_letter }}%}
+
+    {% if current_letter == letter %}
+
+    <div id="{{ entry.path | entry_file }}" class="entry" data-section-id="{{ entry.path | entry_file }}">
+      <h2>{{ entry.title }}</h2>
+
+      {{ entry.output }}
+
+    </div>
+
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+</div>
+<script src="/js/inlineDisqussions.js"></script>
+<link rel="stylesheet" href="/css/inlineDisqussions.css" type="text/css"/>
+<script>
+  disqus_shortname = 'govaucontent';
+  jQuery(document).ready(function() {
+    jQuery("p").inlineDisqussions();
+  });
+</script>

@@ -1,9 +1,7 @@
 ---
 title: "Accessibility"
-related:
+related: [google-docs, pdfs, screen-readers]
 ---
-
-## Accessibility
 
 Content must be designed to be readily navigated, scanned and understood by all users regardless of ability.
 
