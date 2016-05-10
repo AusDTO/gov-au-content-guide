@@ -1,5 +1,5 @@
 ---
-layout: az-index
+layout: az-index/az-overview
 title: A to Z Style Guide
 abstract: "This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage."
 ---

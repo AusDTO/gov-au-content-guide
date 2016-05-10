@@ -1,0 +1,39 @@
+<nav class="secondary">
+  <ul>
+    <a href="/az-guide.html">
+      <li class="nav-item">
+        Overview
+      </li>
+    </a>
+
+    {% assign prev_letter = "Z" %}
+    {% for entry in site.entries %}
+    {% assign letter = {{entry.path | entry_heading | first_letter }}%}
+    {% if letter != prev_letter %}
+
+    {% if prev_letter != 'Z' %}
+    </li>
+    </ul>
+    {% endif %}
+
+    <a href="/az-indexes/{{ letter }}.html">
+      <li class="nav-item">
+        {{ letter }}
+      </li>
+    </a>
+
+    <li>
+      <ul class="sub-nav" id="{{ letter }}-index">
+      {% assign prev_letter = letter %}
+    {% endif %}{% comment %} closes if letter != prev_letter {% endcomment %}
+
+        <a href="#{{ entry.path | entry_file }}">
+          <li class="nav-item">
+            {{ entry.path | entry_heading }}
+          </li>
+        </a>
+
+    {% endfor %}
+
+  </ul>
+</nav>
