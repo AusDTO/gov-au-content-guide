@@ -1,5 +1,8 @@
 ---
+title: "Contractions"
+related:
 ---
+
 ## Contractions
 
 When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
@@ -16,16 +19,16 @@ Always consider the context eg don’t use them in forms.
 - we’ll (we will)
 - we’re (we are).
 
-Contractions that include the first and last letter of a word don’t need a full stop. 
+Contractions that include the first and last letter of a word don’t need a full stop.
 
 **For example**
 
-- Dept
-- Pty Ltd
-- Dr
+> - Dept
+> - Pty Ltd
+> - Dr
+
+---
 
 Links
 
--Naming conventions
-
-
+- Naming conventions

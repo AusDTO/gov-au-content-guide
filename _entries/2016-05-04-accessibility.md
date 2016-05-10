@@ -1,5 +1,8 @@
 ---
+title: "Accessibility"
+related:
 ---
+
 ## Accessibility
 
 Content must be designed to be readily navigated, scanned and understood by all users regardless of ability.
@@ -10,7 +13,7 @@ All government information must be available to all online users.
 
 ### Accessibility tips
 
-- Use hierarchical headings (H1, H2, H3, H4) for page structure with meaningful text
+- Use hierarchical headings (`H1`, `H2`, `H3`, `H4`) for page structure with meaningful text
 - Use bulleted lists where possible
 - Write link text that makes sense out of context
 - Make sure there is sufficient contrast between any text and the background
@@ -18,14 +21,15 @@ All government information must be available to all online users.
 - Provide alt text for images
 - Provide transcripts and captions for video and audio
 
+---
+
 Links
+
 - Design Guide
 - Documents
 - Google Docs
 - Headings & subheadings
-- Multimedia (audio and video) 
+- Multimedia (audio and video)
 - PDFs
 - Screen readers
 - SEO & metadata
-
-
