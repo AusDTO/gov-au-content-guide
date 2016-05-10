@@ -12,38 +12,58 @@ Avoid discriminatory language that treats some people differently from others.
 
 ### Preferred terms
 
-- People with disability — not people with a disability, or disabled or handicapped people
-- Intellectually impaired, not intellectually disabled
-- Hearing impaired not deaf
-- Visually impaired not blind
-- Older people or seniors not pensioners, old-age pensioners or the aged
-- Young people not youth or juveniles
+People with disability — not people with a disability, or disabled or handicapped people
+
+Intellectually impaired, not intellectually disabled
+
+Hearing impaired not deaf
+
+Visually impaired not blind
+
+Older people or seniors not pensioners, old-age pensioners or the aged
+
+Young people not youth or juveniles
 
 ### Diversity
 
 Speak to the person (in plain English, without jargon) rather than speaking to their difference. This avoids getting caught up in semantics and is respectful of:
 
-- cultural differences
-- differences in socioeconomic background
-- differences in educational levels and systems
-- generational differences
-- gender roles
-- perceptions of social and support concepts
-- political impacts on life events
-- pre and post effects of wars
-- religious affiliations
-- values or philosophical differences.
+cultural differences
 
-Links
+differences in socioeconomic background
 
-- Aboriginal and Torres Strait Islander People
-- Accessibility
-- Languages
-- Tone
-- Voice
+differences in educational levels and systems
 
-- [Designing inclusive services guide](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
-- [Australian Network on Disability - Inclusive language](http://www.and.org.au/pages/inclusive-language.html) 
-- [People with Disability - Guide to reporting disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
-- [Arts Access Australia - Advice on Disability Language](http://www.artsaccessa
-ustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)
+generational differences
+
+gender roles
+
+perceptions of social and support concepts
+
+political impacts on life events
+
+pre and post effects of wars
+
+religious affiliations
+
+values or philosophical differences.
+
+**Links**
+
+[Aboriginal and Torres Strait Islander People](_entries/2016-05-04-aboriginal-and-torres-strait-islander-peoples.md "Aboriginal and Torres Strait Islander People")
+
+[Accessibility](_entries/2016-05-04-accessibility.md "Accessibility")
+
+[Languages](_entries/2016-05-04-languages.md "Languages")
+
+[Tone](_entries/2016-05-04-tone.md "Tone")
+
+[Voice](_entries/2016-05-04-voice.md "Voice")
+
+[DTO Design guides - Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services/ "DTO Design guides - Inclusive Services")
+
+[Australian Network On Disability - Inclusive Language](http://www.and.org.au/pages/inclusive-language.html "Australian Network On Disability - Inclusive Language")
+
+[People with disability - Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html "People with disability - Guide to Reporting Disability")
+
+[Arts Access Australia - Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language "Arts Access Australia - Advice on Disability Language")
