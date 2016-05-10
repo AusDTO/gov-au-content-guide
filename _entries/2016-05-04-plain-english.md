@@ -1,9 +1,7 @@
 ---
 title: "Plain English"
-related:
+related: [screen-readers, tone, voice]
 ---
-
-## Plain English
 
 Plain English is clear and easy to understand by everyone regardless of ability.
 
@@ -97,13 +95,3 @@ Always choose the shorter, plain English word, term, sentence and paragraph over
 | whether or not                                                                                                  | whether                                    |
 | with reference to, with regard to, with respect to                                                              | about, regarding                           |
 | [use for any department in general]                                                                             | department                                 |
-
----
-
-Links
-
-[Screen readers](/_entries/2016-05-04-screen-readers.md "Screen readers")
-
-[Tone](/_entries/2016-05-04-tone.md "Tone")
-
-[Voice](/_entries/2016-05-04-voice.md "Voice")

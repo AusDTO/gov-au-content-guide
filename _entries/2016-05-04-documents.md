@@ -1,9 +1,7 @@
 ---
 title: "Documents"
-related:
+related: [diversity, google-docs, pdfs, publications]
 ---
-
-## Documents
 
 Word documents should never be published on the web as a standalone piece of information.
 
@@ -15,12 +13,11 @@ The Microsoft Word format does not currently conform to WCAG 2.0 when viewed on 
 
 Learn how to make [Microsoft Word](http://www.finance.gov.au/blog/2012/09/06/video-and-transcripts-microsoft-accessibility-training-sessions/) and [Google Docs](https://support.google.com/docs/answer/6199477?hl=en) accessible.
 
----
+### Other links
 
-Links
+- to wcag 2.0 overview page?
+- to wcag 2.0 standard?
 
-- Google Docs
-- PDFs
-- Publications
-- Diversity
-- to wcag 2.0 site?
+### todo/issues
+
+- 'WCAG 2.0' is not defined.

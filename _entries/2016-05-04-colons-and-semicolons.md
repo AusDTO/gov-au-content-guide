@@ -1,9 +1,7 @@
 ---
 title: "Colons and semicolons"
-related:
+related: [lists, punctuation]
 ---
-
-## Colons and semicolons
 
 Use a colon to lead into a bulleted list after a sentence fragment. Don’t use semicolons at the end of each point.
 
@@ -32,10 +30,3 @@ You can use a colon in a sentence fragment (but bullet lists are more accessible
 **For example**
 
 > The community reported they were considering: green solutions, cultural festivals, bush-regeneration programs.
-
----
-
-Links
-
-- Lists
-- Punctuation

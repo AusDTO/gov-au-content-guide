@@ -1,9 +1,7 @@
 ---
 title: "Phone numbers"
-related:
+related: [numbers]
 ---
-
-## Phone numbers
 
 Use the following spacing formats, except in forms:
 
@@ -29,9 +27,3 @@ Please contact us on <a href="tel:+61262711000">02 6271 1000</a>
 ```
 
 This is treated as an callable number by many mobile devices.
-
----
-
-Links
-
-- foobar
