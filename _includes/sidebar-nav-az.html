@@ -27,7 +27,7 @@
       {% assign prev_letter = letter %}
     {% endif %}{% comment %} closes if letter != prev_letter {% endcomment %}
 
-        <a href="{{ site.baseurl }}{{ letter | downcase }}.html#{{ entry.path | entry_file }}">
+        <a href="{{ site.baseurl }}/az-indexes/{{ letter | downcase }}.html#{{ entry.path | entry_file }}">
           <li class="nav-item">
             {{ entry.title }}
           </li>
