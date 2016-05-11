@@ -21,4 +21,4 @@ Simpler, clearer and faster government information is our goal.
 
 ## Please give feedback
 
-We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking. To comment you will need to set up a free account with Disqus - a commenting platform. You can also join our [Content Design in Government Google Group.](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government "Content Design in Government Google Group.")
+We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking. To comment you will need to set up a free account with [Disqus - a commenting platform](https://disqus.com "Disqus"). You can also join our [Content Design in Government Google Group.](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government "Content Design in Government Google Group.")
