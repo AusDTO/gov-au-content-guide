@@ -1,5 +1,5 @@
 ---
-title: "Colons and semicolons"
+title: "Colons & semicolons"
 related: [lists, punctuation]
 ---
 

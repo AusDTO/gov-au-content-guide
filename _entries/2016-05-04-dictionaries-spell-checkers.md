@@ -1,5 +1,5 @@
 ---
-title: "Dictionaries and spell checkers"
+title: "Dictionaries & spell checkers"
 related: [government-naming-conventions, spelling]
 ---
 
