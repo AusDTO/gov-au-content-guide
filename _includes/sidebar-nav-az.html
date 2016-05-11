@@ -27,7 +27,7 @@
       {% assign prev_letter = letter %}
     {% endif %}{% comment %} closes if letter != prev_letter {% endcomment %}
 
-        <a href="#{{ entry.path | entry_file }}">
+        <a href="{{ site.baseurl }}{{ letter }}.html#{{ entry.path | entry_file }}">
           <li class="nav-item">
             {{ entry.path | entry_heading }}
           </li>

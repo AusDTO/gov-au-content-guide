@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -13,7 +14,7 @@ description: >
   people need to know.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 collections:
 - entries
