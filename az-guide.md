@@ -1,7 +1,7 @@
 ---
 layout: az-index/az-overview
-title: A to Z Style Guide
+title: About the A to Z guide
 abstract: "This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage."
 ---
 
-This page should be the overview page for the A-Z style guide. The content here will load when accessing the top level page of the A to Z guide ("Overview").
+This is the about page of the A to Z guide. The content here lives inside `/az-guide.md` and is ready for editing! :)
