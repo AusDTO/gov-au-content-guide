@@ -1,6 +1,6 @@
 ---
-title: Bullet point lists
-related: 
+title: "Bullet point lists"
+related:
   - lists
 published: true
 ---
