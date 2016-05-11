@@ -1,5 +1,5 @@
 ---
-title: "Aboriginal and Torres Strait Islander peoples"
+title: "Aboriginal & Torres Strait Islander peoples"
 related: [inclusivity]
 ---
 

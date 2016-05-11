@@ -1,5 +1,5 @@
 ---
-title: "Hyphens and dashes"
+title: "Hyphens & dashes"
 related: [em-dashes]
 ---
 

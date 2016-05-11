@@ -1,5 +1,5 @@
 ---
-title: "Dates and time periods"
+title: "Dates & time periods"
 related: [time]
 ---
 
