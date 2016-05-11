@@ -1,5 +1,5 @@
 ---
-title: Bullet point lists"
+title: "Bullet point lists"
 related: [lists]
 ---
 
