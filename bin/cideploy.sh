@@ -5,4 +5,4 @@ set -e
 # Output the commands we run
 set -x
 
-cf push content-style-guide -b staticfile_buildpack -p ./_site -i 1
+cf push gov-au-content-guide -b staticfile_buildpack -p ./_site -i 1

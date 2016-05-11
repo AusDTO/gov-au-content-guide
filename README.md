@@ -4,7 +4,7 @@ Content guidelines for GOV.AU
 
 It is very much a **work-in-progress** and not ready for general use.
 
-It can be accessed at http://content-style-guide.apps.staging.digital.gov.au/
+It can be accessed at http://gov-au-content-guide.apps.staging.digital.gov.au/
 
 This will remain **password protected** until the content guide is ready for general release.
 
