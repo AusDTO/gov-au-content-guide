@@ -1,7 +1,24 @@
 ---
-layout: az-index/az-overview
+layout: "az-index/az-overview"
 title: About the A to Z guide
-abstract: "This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage."
+abstract: This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage.
+published: true
 ---
 
-This is the about page of the A to Z guide. The content here lives inside `/az-guide.md` and is ready for editing! :)
+## About A to Z
+
+This A to Z directory covers style, grammar and spelling conventions.
+
+It is an early release and not complete.
+
+New topics will be added over time based on interest and feedback.
+
+We’ve included practical examples which we plan to extend.
+ 
+We have deliberately written this information to be minimal and precise.
+
+Simpler, clearer and faster government information is our goal.
+
+## Please give feedback
+
+We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking. To comment you will need to set up a free account with Disqus - a commenting platform. You can also join our [Content Design in Government Google Group.](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government "Content Design in Government Google Group.")
