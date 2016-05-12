@@ -1,9 +1,7 @@
 ---
 title: "SEO & metadata"
 related: 
-  - accessibility
-  - metadata
+  - "optimise-your-content-for-search"
 published: true
 ---
 
-Optimise your content for search 
