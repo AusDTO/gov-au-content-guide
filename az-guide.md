@@ -7,7 +7,7 @@ published: true
 
 ## What is this?
 
-This A to Z directory covers style, grammar and spelling conventions.
+This draft A to Z directory covers style, grammar and spelling conventions.
 
 It is an early release and not complete.
 
