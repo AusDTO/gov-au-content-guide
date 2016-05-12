@@ -1,0 +1,82 @@
+$fontface-serif: Georgia, Times, "Times New Roman", serif;
+$fontface-sans: "Open Sans", Verdana, Geneva, sans-serif;
+$fontface-mono: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+
+
+body {
+  // Richard Rutter's font sizing trick, setting 16px to 10px.
+  // From here we can set fonts at a multiple of 10 in either ems or rems.
+  font-size: 62.5%;
+  line-height: 1.8;
+  font-family: $fontface-sans;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 6em;
+
+  &.page-heading {
+    font-family: "OpenSans-Light";
+    font-weight: normal;
+    font-size: 6em;
+  }
+}
+
+h2 {
+  font-size: 4.8em;
+  color: #53D4EF;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 3.6em;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 2.4em;
+  font-weight: normal;
+}
+
+h5 {
+  font-size: 2.1em;
+  font-weight: normal;
+}
+
+h6 {
+  font-size: 1.8em;
+  font-weight: normal;
+}
+
+hr {
+  border-bottom: 2px solid black;
+  padding-top: 0.5em;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+
+blockquote {
+  font-family: $fontface-serif;
+  color: #000000;
+  padding-left: 1em;
+}
+
+ul, ol {
+  font-size: 1.6em;
+  color: #000000;
+  margin-bottom: 0.5em;
+
+  li {
+    margin-bottom: 0.5em;
+  }
+}
+
+p {
+  font-size: 1.7em;
+  margin-bottom: 1em;
+}

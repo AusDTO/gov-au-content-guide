@@ -1,0 +1,594 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// This file contains styles specific to the style guide itself. Styles placed here are not imported into the downloadable files.
+
+@charset "utf-8";
+
+// UI-Core partials.
+//
+// Calls from `sass_dir` (defaults to `_sass`), and some gems.
+//
+
+@import "normalize";
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
+@import "grid";
+@import "accessibility";
+@import "forms";
+@import "typography";
+@import "code-syntax";
+@import "tables";
+@import "colours";
+
+// Colours.
+//
+// Might be worth pushing these into (custom) partials?
+//
+// Note: some colours might be pushed to ui-core.
+
+$dto-desat-blue: #244A61;
+$dto-colour: #015a96;
+$dto-light-gray: #F3F3F3;
+
+// Core grid and page
+
+$large-screen: em(860);
+$medium-screen: em(769);
+$tiny-screen: em(320);
+
+body {
+  margin: 0;
+}
+
+header { }
+
+footer { }
+
+main {
+  // because some browsers don't set this as a block element --
+  // html5shiv should take care of this for IE.
+  display: block;
+}
+
+section { }
+
+article { }
+
+div.content {
+  @include outer-container;
+  text-align: left;
+}
+
+// Guide homepage
+div#guide-hero {
+  background-color: $dto-light-gray;
+  height: 100vh;
+  width: 100vw;
+
+  h1 {
+    color: white;
+    font-size: 7.2em;
+    font-weight: bold;
+  }
+
+  p.guide-description {
+    font-size: 4.8em;
+    margin: 0;
+    padding-top: 1em;
+  }
+}
+
+// Custom UI elements
+//
+// Some of this may be abstracted into partials and/or ui-core.
+
+.button {
+  border: none;
+  height: 5em;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.50);
+
+  &:hover {
+    background-color: #13365e;
+    color: white;
+  }
+}
+
+//.button-download::before {
+//  color: black;
+//  content: '\f019';
+//  font-family: 'FontAwesome';
+//  position: relative;
+//  right: 17px;
+//}
+
+// style guide header
+
+header {
+  background-color: $dto-desat-blue;
+  color: white;
+  height: 8em;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  top: 0;
+
+  .wrapper {
+    & > * {
+      display: inline-block;
+    }
+
+    p {
+      font-size: 24px;
+      letter-spacing: 0px;
+      line-height: 80px;
+      margin: 0;
+    }
+  }
+}
+
+#govau-logo {
+  color: #fff;
+  font-size: 40.5px;
+  text-decoration: none;
+}
+
+#star {
+  background-image: url("../images/star.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 53px;
+  margin-left: 13px;
+  position: relative;
+  top: 14px;
+  width: 53px;
+
+  & + p {
+    padding-left: 94px;
+  }
+}
+// end style guide header
+
+// style guide navigation
+
+nav.primary {
+  background: #F0F3F5;
+  height: 65px;
+  position: fixed;
+  top: 80px;
+  width: 100%;
+  z-index: 100;
+
+  @include media(max-width $large-screen) {
+    background: transparent;
+  }
+
+  ul {
+    clear: both;
+    display: none;
+    margin: 0 auto;
+    max-width: 64em;
+    overflow: visible;
+    -webkit-padding-start: 0;
+    -webkit-transform-style: preserve-3d; // stop webkit flicker
+    width: 100%;
+    z-index: 99999;
+
+    &.show {
+      display: block;
+    }
+
+    @include media ($large-screen) {
+      display: block;
+    }
+
+    @include media (max-width $large-screen) {
+      max-width:100%;
+    }
+  }
+
+  @include media (max-width $large-screen) {
+    .nav-link:not(.current) {
+      background: #F0F3F5;
+    }
+  }
+
+  .nav-link {
+    display: inline-block;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0;
+    text-align: right;
+    width: 100%;
+    z-index: 9999;
+
+    @include media($large-screen) {
+      display: inline;
+      margin-left: -0.5%;
+    }
+
+    @include media (max-width $large-screen) {
+      &:not(.current){
+        border-bottom: 4px solid transparent;
+      }
+
+      &:hover {
+        background: darken(#F0F3F5, 3%);
+        border-bottom: 4px solid #244A61;
+      }
+    }
+
+    a {
+      color: #244A61;
+      font-size: 16px;
+      line-height: 65px;
+      padding: 20px 40px;
+      text-decoration: none;
+
+      @include media (max-width $large-screen) {
+        padding-left: calc(100vw - 130px);
+        width: 130px;
+      }
+
+
+      @include media (min-width $large-screen) {
+        &:hover {
+          background: darken(#F0F3F5, 3%);
+          border-bottom: 4px solid #244A61;
+          text-shadow: 1px 0 0 black;
+        }
+      }
+    }
+  }
+}
+
+.current {
+  a {
+    background: rgba(155,154,155,0.08);
+    border-bottom: 4px solid #244A61;
+    text-shadow: 1px 0 0 black;
+  }
+
+  @include media (max-width $large-screen) {
+    background: darken(#F0F3F5, 3%);
+    border-bottom: 4px solid #244A61;
+    text-shadow: 1px 0 0 black;
+
+    a {
+      background: transparent;
+      border-bottom: transparent;
+      text-shadow: 1px 0 0 transparent;
+    }
+  }
+}
+
+.navigation-menu {
+  margin: 0;
+}
+
+.navigation-wrapper {
+  position: relative;
+  top: 6px;
+  z-index: 999;
+
+  .mobile-menu {
+    color: #fff;
+    display: block;
+    float: right;
+    font-size: 24px;
+    line-height: 80px;
+    margin: 0;
+    padding-right: 15px;
+    position: fixed;
+    right: 15px;
+    text-decoration: none;
+    top: 6px;
+
+    @include media ($large-screen) {
+      display: none;
+    }
+  }
+}
+
+// end style guide navigation
+
+// style guide secondary navigation
+
+nav.secondary {
+  @include span-columns(3);
+  margin-top: 228px;
+
+  @media (max-width: 999px) {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+
+    li.nav-item {
+      border-left: 2px solid white;
+      border-top: 1px solid rgba(34,44,53,0.20);
+      line-height: 1.8;
+      padding-top: 0.75em;
+      padding-left: 16px;
+
+      &:hover, &:active {
+        background: #F0F3F5;
+        border-left: 2px solid black;
+        color: #000000;
+        letter-spacing: 0.07px;
+        text-shadow: 1px 0 0 black;
+      }
+    }
+  }
+
+  ul.sub-nav {
+    padding-left: 0;
+
+    li {
+      padding-left: 35px;
+    }
+
+    &:last-child {
+      border-bottom: 1px solid rgba(34,44,53,0.20);
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: #000000;
+
+    &:hover, &:active, &:visited {
+      color: #000000;
+      text-decoration: none;
+    }
+  }
+}
+// end style guide secondary navigation
+
+// style guide info panel
+.accordion {
+  $base-line-height: 1.5em !default;
+  $base-spacing: 1.5em !default;
+  $base-font-color: white !default;
+  $accordion-menu-background: #232D35;
+  $accordion-menu-sub-background: #F0F3F5;
+  $accordion-menu-list-padding: ($base-spacing / 2) $gutter;
+
+  background-color: $accordion-menu-background;
+  margin: 0 0 $base-spacing 0;
+  padding: 0;
+  position: relative;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+
+    &.accordion-heading {
+      padding-bottom: 0;
+    }
+
+    &.accordion-heading:after {
+      color: white;
+      content: '\f078';
+      font-family: 'FontAwesome';
+      font-size: 15px;
+      right: 15px;
+      top: 14px;
+      position: absolute;
+    }
+
+    > a {
+      color: #FFFFFF;
+      display: block;
+      font-family: OpenSans-Bold;
+      font-size: 20px;
+      padding: $accordion-menu-list-padding;
+      text-decoration: none;
+    }
+
+    &:last-child {
+      border: none;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  ul.submenu {
+    display: none;
+
+    li {
+      background-color: $accordion-menu-sub-background;
+      padding: 20px;
+    }
+  }
+
+  li.accordion-heading.is-expanded {
+    display: block;
+    padding-bottom: 0;
+
+    &:after {
+      transform: rotate(-180deg);
+    }
+  }
+}
+// end style guide info panel
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 78em;
+
+  @media (max-width: 999px) {
+    margin: 0 15px 0 15px;
+  }
+}
+
+.main-content {
+  @include span-columns(9);
+  margin-top: 120px;
+
+  @include media(max-width 53.75em) {
+    margin-top: 0;
+  }
+
+  h2:before {
+    display: block;
+    content: " ";
+    margin-top: -195px;
+    height: 185px;
+    visibility: hidden;
+
+    @media (max-width: 999px) {
+      @include span-columns(12);
+      margin-left: 15px;
+      margin-right: 15px;
+
+      &:last-child {
+        margin-right: 15px;
+      }
+    }
+  }
+}
+
+.entry {
+  margin-bottom: 2em;
+
+  h2 {
+    font-weight: normal;
+  }
+}
+
+.line-height {
+  margin: auto;
+  width:658px;
+  padding-top: 48px;
+  padding-bottom: 52px;
+}
+
+.font-variations {
+
+  p {
+    font-size: 32px;
+    color: #000000;
+    letter-spacing: 2.8px;
+    line-height: 40px;
+  }
+
+  h4 {
+    font-family: OpenSans;
+    font-size: 14px;
+    color: rgba(34,44,53,0.60);
+    letter-spacing: 0.03px;
+  }
+
+  p:nth-child(2) {
+    font-family: OpenSans-Bold;
+  }
+
+  p:nth-child(4) {
+    font-family: OpenSans;
+  }
+
+  p:nth-child(6) {
+    font-family: OpenSans-Light;
+  }
+}
+
+.font-examples {
+
+  span {
+    font-size: 140px;
+    color: black;
+
+    &:first-child {
+      font-family: OpenSans-Bold;
+    }
+
+    &:nth-child(2){
+      font-family: OpenSans;
+      padding-left: 30px
+    }
+
+    &:nth-child(3){
+      font-family: OpenSans-Light;
+      padding-left: 30px
+    }
+  }
+}
+
+.display-type-1 {
+  font-family: OpenSans-Bold;
+  font-size: 58px;
+  color: #000000;
+  line-height: 68px;
+}
+
+.display-type-2 {
+  opacity: 0.93;
+  font-family: OpenSans;
+  font-size: 58px;
+  color: #000000;
+  line-height: 68px;
+}
+
+.display-type-heading {
+  font-family: OpenSans;
+  font-size: 36px;
+  color: #000000;
+  line-height: 40px;
+}
+
+.colour-swatches {
+  @include outer-container;
+
+  .colour-swatch {
+    @include span-columns(2 of 9);
+
+    color: #000000;
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    font-family: OpenSans-Bold;
+    font-size: 17px;
+    height: 100%;
+    margin-bottom: 20px;
+    min-height: 216px;
+    padding: 7px;
+
+    @include media($tablet) {
+      @include span-columns(3);
+    }
+
+    @include media($mobile) {
+      @include span-columns(4);
+    }
+  }
+
+  .colour {
+    border: 1px solid #FFFFFF;
+    height: 126px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin:0;
+  }
+}
+
+$color_names: 'primary-colour', 'secondary-colour', 'low-light-colour', 'high-light-colour', 'text-default-colour', 'secondary-brand-colour', 'sucess-colour', 'error-colour', 'secondary-contrast-colour';
+$color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-colour, $text-default-colour, $secondary-brand-colour, $sucess-colour, $error-colour, $secondary-contrast-colour;
+
+@each $name in $color_names {
+  $i: index($color_names, $name);
+  .#{$name} {
+    background-color: nth($color_vars, $i);
+  }
+}
