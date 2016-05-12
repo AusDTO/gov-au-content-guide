@@ -9,7 +9,7 @@ published: true
 
 ## Does this content meet a user need?
 
-User needs can be functional or emotional (we care about both). Sometimes they’re created needs (created by things that the government needs them to do). Content always needs to address the user's main needs so they can act on what we're asking them to do and solve their problem quickly and efficiently.
+User needs can be functional or emotional (we care about both). Sometimes they’re created needs (created by things that the government needs them to do). Content always needs to address the user's main needs so they can act on what we're asking them to do so they can solve their problem quickly and efficiently.
 
 In order to understand user needs it helps to actually meet users and observe how they are currently solving the problem your information intends to improve within the right context. [Read about Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/ "Read about Discovery")
 
