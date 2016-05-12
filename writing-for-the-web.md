@@ -11,6 +11,8 @@ Content must be user-focused, readable (scannable) and accessible across all dev
 
 Much has been written on this topic and can be researched on the web. 
 
+Doing web writing training is also important, even if you have been a writer or editor for many years.
+
 We have provided an overview of the key things you need to be thinking about.
 
 
