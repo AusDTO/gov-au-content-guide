@@ -1,9 +1,15 @@
 ---
 title: "Inclusivity & diversity"
-related: [aboriginal-and-torres-strait-islander-peoples, accessibility, languages, tone, voice]
+related: 
+  - "aboriginal-and-torres-strait-islander-peoples"
+  - accessibility
+  - languages
+  - tone
+  - voice
+published: true
 ---
 
-When preparing content for people who have come to Australia from non-English speaking countries, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
+When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
 
 Avoid jargon and limit contractions.
 
