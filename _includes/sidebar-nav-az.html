@@ -1,10 +1,10 @@
 <nav class="secondary">
-  <ul>
-    <a href="/az-guide.html">
-      <li class="nav-item">
-        About the A to Z guide
-      </li>
-    </a>
+   <ul>
+    <li class="nav-item">
+      <a href="/az-guide.html">
+      About the A to Z guide
+      </a>
+    </li>
 
     {% assign prev_letter = "Z" %}
     {% for entry in site.entries %}
@@ -12,28 +12,26 @@
     {% if letter != prev_letter %}
 
     {% if prev_letter != 'Z' %}
-    </li>
     </ul>
     {% endif %}
 
-    <a href="/az-indexes/{{ letter | downcase }}.html">
-      <li class="nav-item">
+    <li class="nav-item">
+      <a href="javascript:void(0)" class="js-accordion-trigger">
         {{ letter }}
-      </li>
-    </a>
-
-    <li>
-      <ul class="sub-nav" id="{{ letter }}-index">
+      </a>
+      <ul class="sub-nav submenu" id="{{ letter }}-index">
       {% assign prev_letter = letter %}
     {% endif %}{% comment %} closes if letter != prev_letter {% endcomment %}
-
+      <li class="nav-item">
         <a href="{{ site.baseurl }}/az-indexes/{{ letter | downcase }}.html#{{ entry.path | entry_file }}">
-          <li class="nav-item">
-            {{ entry.title }}
-          </li>
-        </a>
+          {{ entry.title }}
+          </a>
+        </li>
 
     {% endfor %}
 
   </ul>
+    </li>
+
+
 </nav>
