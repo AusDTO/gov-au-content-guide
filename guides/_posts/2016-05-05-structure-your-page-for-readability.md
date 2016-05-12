@@ -18,7 +18,7 @@ Don't waste the reader's time by burying what's most relevant to their needs at 
 
 Headings are signposts in text and navigational aids. Readers use headings to scan content and to gauge the relationship between and importance of sections of text.
 
-When designing the flow of information on a web page structure your content with hierarchical headers (H1, H2, H3, H4). Use meaningful text and keywords in headers and links
+When designing the flow of information on a web page structure your content with hierarchical headers (H1, H2, H3). Use meaningful text and keywords in headers and links
 
 **Limit levels**
 
