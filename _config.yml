@@ -45,6 +45,7 @@ prose:
     - /Gemfile
     - /Gemfile.lock
     - /.ruby-version
+    - /.gitignore
     
 exclude:
   - vendor/
