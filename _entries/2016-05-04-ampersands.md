@@ -1,6 +1,9 @@
 ---
-title: "Ampersands"
-related: [punctuation, symbols-and-characters]
+title: Ampersands
+related: 
+  - punctuation
+  - "symbols-and-characters"
+published: true
 ---
 
-Fill me in! :)
+
