@@ -1,6 +1,14 @@
 ---
-title: "Accessibility"
-related: [documents, google-docs, headings-and-subheadings, multimedia, pdfs, screen-readers, seo-and-metadata]
+title: Accessibility
+related: 
+  - documents
+  - "google-docs"
+  - "headings-and-subheadings"
+  - multimedia
+  - pdfs
+  - "screen-readers"
+  - "seo-and-metadata"
+published: true
 ---
 
 Content must be designed to be readily navigated, scanned and understood by all users regardless of ability.
@@ -18,7 +26,3 @@ All government information must be available to all online users.
 - Use dot, dashes and patterns in graphs in addition to colour for differentiating different data
 - Provide alt text for images
 - Provide transcripts and captions for video and audio
-
-### Other links
-
-- Design Guide
