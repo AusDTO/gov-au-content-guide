@@ -4,8 +4,9 @@ title: Writing for the Web
 abstract: This is the abstract for the Writing for the Web section. It is used to populate a blurb on the content guide homepage.
 published: true
 ---
+## What is this section?
 
-**An overview of the key things you need to be thinking about when preparing information for the web.**
+**This section is an overview of the key things you need to be thinking about when preparing information for the web.**
 
 Writing for the web is different to writing for print. 
 
