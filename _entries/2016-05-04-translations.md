@@ -3,8 +3,6 @@ title: "Translations"
 related: [audience, plain-english, pdfs, screen-readers, voice]
 ---
 
-## Translations
-
 Content written in plain English is easier to translate (and read). But translating is not just about the words, it’s also about capturing the meaning of what you are communicating within the context of a culture.
 
 If your content needs to be translated, best practice is for this to be undertaken by [NAATI-accredited translators](https://www.naati.com.au/) and independently checked by another accredited translator.
