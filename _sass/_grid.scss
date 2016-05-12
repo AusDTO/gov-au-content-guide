@@ -1,0 +1,128 @@
+.grid {
+  p {
+    text-align: center;
+  }
+
+  div {
+    background-color: #E9E9E9;
+    height: 66px;
+  }
+}
+
+#grid {
+  h1 {
+    color: #232D35;
+    font-size: 24px;
+    text-align: center;
+  }
+
+  p {
+    color: #000000;
+    font-size: 18px;
+  }
+}
+
+section {
+  @include outer-container;
+  padding-bottom:83px;
+}
+
+.one {
+  @include span-columns(1);
+}
+
+.three {
+  @include span-columns(3);
+}
+
+.four {
+  @include span-columns(4);
+}
+
+.six {
+  @include span-columns(6);
+}
+
+.twelve{
+  @include span-columns(12);
+}
+
+.gutter {
+  @include span-columns(1);
+  height: 30px;
+
+
+  img {
+    left: -20px;
+    position: relative;
+  }
+}
+
+.large-desktop {
+  display: none;
+
+  @media (min-width: 1200px) {
+    display: block;
+  }
+}
+
+.desktop {
+  display: none;
+
+  @media (min-width: 1000px)and (max-width: 1199px) {
+    display: block;
+  }
+}
+
+.tablet {
+  display: none;
+
+  @media (min-width: 768px)and (max-width: 999px) {
+    display: block;
+  }
+}
+
+.mobile {
+  display: none;
+
+  @media (max-width: 767px) {
+    display: block;
+  }
+}
+
+section.gutters{
+  padding-bottom: 43px;
+}
+
+.border {
+  border-bottom: 1px dashed #EB008B;
+  margin-bottom: 42px;
+
+  img {
+    &:first-child {
+      left:0;
+      position: relative;
+      top: 20px;
+    }
+
+    &:last-child {
+      float:right;
+      position: relative;
+      top: 20px;
+    }
+  }
+}
+
+.grid-info-left {
+  @include span-columns(2);
+}
+
+.grid-info-centre {
+  @include span-columns(8);
+  text-align: center;
+}
+
+.grid-info-right {
+  @include span-columns(2);
+  text-align:right;
+}

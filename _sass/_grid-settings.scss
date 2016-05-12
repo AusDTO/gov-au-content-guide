@@ -1,0 +1,13 @@
+@import "bourbon"; // or "bourbon" when in Rails
+@import "neat-helpers"; // or "neat-helpers" when in Rails
+
+$column: 62px;
+$gutter: 20px;
+$fg-gutter: $gutter;
+$grid-columns: 12 !default;
+$max-width: 1200px;
+$visual-grid: false;
+$large-desktop: new-breakpoint(min-width 1200px 12);
+$desktop: new-breakpoint(min-width 1000px 12);
+$tablet: new-breakpoint(max-width 768px 8);
+$mobile: new-breakpoint(max-width 420px 4);
