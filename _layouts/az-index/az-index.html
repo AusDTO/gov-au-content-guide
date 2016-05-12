@@ -9,7 +9,7 @@ layout: default
   <div class="main-content">
     {% assign current_letter = page.path | replace: "az-indexes/", "" | first_letter %}
 
-    <h1 class="page-heading">{{ current_letter | capitalize }}</h1>
+    <h1 class="page-heading">Index: {{ current_letter | capitalize }}</h1>
 
     {% for entry in site.entries %}
     {% assign letter = {{entry.path | entry_heading | first_letter }}%}
