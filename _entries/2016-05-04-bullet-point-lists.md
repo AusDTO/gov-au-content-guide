@@ -1,6 +1,9 @@
 ---
-title: Bullet point lists"
-related: [lists]
+title: "Bullet point lists\""
+related: 
+  - lists
+  - "bullet-point-lists"
+published: true
 ---
 
 Bullet point lists break up the page and help with readability.
