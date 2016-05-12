@@ -1,6 +1,8 @@
 ---
-title: "Quotation marks"
-related: [punctuation]
+title: Quotation marks
+related: 
+  - punctuation
+published: true
 ---
 
 As a general rule use single quotation marks.
@@ -17,4 +19,8 @@ Double quotation marks should be used when using a quote within a quote:
 
 ### Colloquial expressions
 
-Use single quote marks for enclosing and emphasising an unusual expression eg *The DTO runs ‘in-flight’ assessments on transformation projects*.
+Use single quote marks for enclosing and emphasising an unusual expression:
+
+**For example**
+
+> The DTO runs ‘in-flight’ assessments on transformation projects.
