@@ -6,7 +6,7 @@ published: true
 ---
 ## What is this section?
 
-**This section is an overview of the key things you need to be thinking about when preparing information for the web.**
+**This is a draft overview of the key things you need to be thinking about when preparing information for the web.**
 
 Writing for the web is different to writing for print. 
 
