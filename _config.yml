@@ -35,17 +35,28 @@ collections:
 markdown: kramdown
 
 prose:
-  rooturl: '_entries'
+  rooturl: '/'
   siteurl: 'http://gov.au/alpha'
   ignore:
     - _config.yml
     - /_assets
     - /_data
     - /_layouts
+    - /_includes
+    - /_plugins
     - /assets
     - /bin
     - /fonts
     - /_posts
-
+    - /css
+    - /js
+    - /Staticfile
+    - /Staticfile.auth
+    - /manifest.yml
+    - /circle.yml
+    - /Gemfile
+    - /Gemfile.lock
+    - /.ruby-version
+    
 exclude:
   - vendor/
