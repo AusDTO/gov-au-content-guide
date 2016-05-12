@@ -1,10 +1,7 @@
 ---
-title: "Content designer"
-related:
+title: Content designer
+related: 
+  - "thing-like-a-govau-content-designer"
+published: true
 ---
 
-Fill me in! :)
-
-### Other links
-
-- Writing for the web
