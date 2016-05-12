@@ -1,6 +1,6 @@
 ---
 layout: "az-index/az-overview"
-title: About the A to Z guide
+title: About the A to Z
 abstract: This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage.
 published: true
 ---
