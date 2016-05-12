@@ -5,7 +5,7 @@ abstract: This is the abstract for the Writing for the Web section. It is used t
 published: true
 ---
 
-**An overview of the key things you need to be thinking about.**
+**An overview of the key things you need to be thinking about when preparing information for the web.**
 
 Writing for the web is different to writing for print. 
 
@@ -14,7 +14,3 @@ Content must be user-focused, readable (and scannable) and accessible across all
 Much has been written on this topic and can be researched on the web. 
 
 Doing web writing training is also important, even if you have been a writer or editor for many years.
-
-
-
-
