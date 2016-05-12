@@ -1,6 +1,8 @@
 ---
 title: "Forms, surveys & questionnaires"
-related: [pdfs, surveys-questionnaires]
+related: 
+  - "surveys-questionnaires"
+published: true
 ---
 
 ### Forms
@@ -55,7 +57,3 @@ Indicate how how long it will take to complete.
 Questions are deceptively hard to write.
 
 A good question has no ambiguity and is accompanied by a short explanation of why you are asking it. When using an open-ended question consider how you are going to report on that data.
-
-### Other links
-
-- Design Guide
