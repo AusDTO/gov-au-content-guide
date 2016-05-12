@@ -1,10 +1,15 @@
 ---
-title: "Optimise your content for search"
-abstract: "Keywords and metadata"
-layout: guide-page
+title: Optimise your content for search
+abstract: Keywords and metadata
+layout: "guide-page"
+published: true
 ---
 
-As the saying goes, ‘Google is our homepage’. So making sure your your content is optimised for search engine results is an important way of helping users find your content. This means using the words (keywords) that people are using to search for your content.
+**Making sure your content is optimised for search engine results is an important way of helping users find your information. This means using the right words (keywords) that people are using to search for your content, writing naturally and thinking about meta descriptions.**
+
+## Develop a list of keywords
+
+Use relevant keywords prominently and appropriately in titles and subheadings, as well as in body text (especially in the first 2 to 3 paragraphs).
 
 **For example**
 
@@ -12,9 +17,6 @@ If you were writing about aged health care, you would include keywords such as n
 
 It’s worth remembering that what the government calls something, doesn’t always match up to the words that people use to search for that information.
 
-## Develop a list of keywords
-
-Use relevant keywords prominently and appropriately in titles and subheadings, as well as in body text (especially in the first 2 to 3 paragraphs).
 
 ## Keyword analytics tools
 
