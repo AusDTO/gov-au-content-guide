@@ -2,6 +2,8 @@
 title: "Bullet point lists"
 related:
   - lists
+  - "bullet-point-lists"
+
 published: true
 ---
 
