@@ -9,7 +9,7 @@ published: true
 
 Writing for the web is different to writing for print. 
 
-Content must be user-focused, readable (scannable) and accessible across all devices. 
+Content must be user-focused, readable (and scannable) and accessible across all devices. 
 
 Much has been written on this topic and can be researched on the web. 
 
