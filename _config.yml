@@ -23,7 +23,7 @@ collections:
 markdown: kramdown
 
 prose:
-  rooturl: '/'
+#  rooturl: ''
   siteurl: 'http://gov.au/alpha'
   ignore:
     - _config.yml
