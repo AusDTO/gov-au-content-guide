@@ -2,9 +2,8 @@
 title: "Abbreviations & acronyms"
 related: 
   - contractions
-  - dates
-  - "government-naming"
-  - "naming-conventions"
+  - "dates-and-time-periods"
+  - "government-naming-conventions"
   - numbers
   - punctuation
   - "symbols-and-characters"
