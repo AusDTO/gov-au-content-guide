@@ -1,9 +1,9 @@
 ---
-title: "Google Docs"
-related: [documents]
+title: Google Docs
+related: 
+  - documents
+published: true
 ---
-
-## Google Docs
 
 Google Docs is designed to work well with screen readers and assistive technologies.
 
