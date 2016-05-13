@@ -1,6 +1,9 @@
 ---
-title: "Diversity"
-related: [inclusivity, plain-english]
+title: Diversity
+related: 
+  - "inclusivity-diversity"
+  - "plain-english"
+published: true
 ---
 
 Australia is a multicultural society.
