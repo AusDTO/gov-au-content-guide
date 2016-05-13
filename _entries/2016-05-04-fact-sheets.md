@@ -1,6 +1,9 @@
 ---
-title: "Fact sheets"
-related: [documents, pdfs]
+title: Fact sheets
+related: 
+  - documents
+  - pdfs
+published: true
 ---
 
 Fact sheet information should first be offered as an accessible and printable HTML page.
