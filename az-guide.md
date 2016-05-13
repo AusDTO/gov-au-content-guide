@@ -19,7 +19,15 @@ We have deliberately written this information to be minimal and precise.
 
 Simpler, clearer and faster government information is our goal.
 
-## Please give feedback
+## **Who is it for?**
+
+The guide is for all content creators and transformation teams working with the Digital Transformation Office. We welcome this guide being adopted across government and hope that it is a starting point for further conversations, new content processes and ways to work together.
+
+## **Why is this being released early?**
+
+We believe that making things open, makes them better. It’s one of our [design principles](design-principles/ "design principles"). We plan to test this draft version of the guide, incorporate feedback and iterate regularly. 
+
+## ** Please give feedback**
 
 We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking. 
 
