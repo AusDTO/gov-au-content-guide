@@ -1,3 +1,8 @@
+/* TODO refactor first 2 selecot out into other stylesheets as they are not part of the standard commenting system  */
+blockquote {
+  width: calc(100% - 39px);
+}
+
 .main-content {
   width:50%;
 }
