@@ -27,7 +27,7 @@ The guide is for all content creators and transformation teams working with the 
 
 We believe that making things open, makes them better. It’s one of [our design principles](https://www.dto.gov.au/standard/design-principles/ "our design principles"). We plan to test this draft version of the guide, incorporate feedback and iterate regularly. 
 
-## ** Please give feedback**
+## Please give feedback
 
 We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking. 
 
