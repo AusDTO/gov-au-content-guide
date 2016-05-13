@@ -14,4 +14,4 @@ Content must be user-focused, readable (and scannable) and accessible across all
 
 Much has been written on this topic and can be researched on the web. 
 
-Doing web writing training is also important, even if you have been a writer or editor for many years.
+Doing web writing training is also important, even if you have been a writer or editor for many years or are a digital native who was born or went to school in the digital era.
