@@ -9,7 +9,7 @@
 # Site settings
 title: Content Style Guide
 description: >
-  Simpler, clearer, faster.
+  Simpler, clearer, faster.<br>
   Content guide for Australian Government.
 
 baseurl: "" # the subpath of your site, e.g. /blog

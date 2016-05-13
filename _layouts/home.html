@@ -3,12 +3,14 @@ layout: default
 ---
 
 <main>
-  <header id="hero">
-    <h1>{{ site.title }}</h1>
-    <p class="guide-description">{{ site.description }}</p>
+  <header id="hero" class="content">
+    <div class="content">
+      <h1>{{ site.title }}</h1>
+      <p class="guide-description">{{ site.description }}</p>
+    </div>
   </header>
 
-  <section id="overview">
+  <section id="overview" class="content">
     <h2>{{ page.title }}</h2>
     {{ page.abstract | markdownify }}
 
@@ -35,7 +37,7 @@ layout: default
     </dl>
   </section>
 
-  <section id="about">
+  <section id="about" class="content">
 
     {{ content }}
 

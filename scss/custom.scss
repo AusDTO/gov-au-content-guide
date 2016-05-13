@@ -31,6 +31,8 @@
 $dto-desat-blue: #244A61;
 $dto-colour: #015a96;
 $dto-light-gray: #F3F3F3;
+$core-white: #ffffff;
+$core-black: #000000;
 
 // Core grid and page
 
@@ -42,7 +44,47 @@ body {
   margin: 0;
 }
 
-header { }
+header {
+  margin-top: 0;
+
+  &.topbar {
+    background-color: $dto-desat-blue;
+    color: $core-white;
+    height: 6.5em;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+
+    p {
+      font-weight: 200;
+      font-size: 2.4em;
+      margin: 0;
+    }
+  }
+
+  &#hero {
+    //background-color: $dto-light-gray;
+    //height: 100vh;
+    //width: 100vw;
+    color: $core-black;
+    padding-top: 8em;
+    padding-bottom: 5em;
+    border-bottom: 2px solid darken($dto-light-gray, 15%);
+    margin-bottom: 5em;
+
+    h1 {
+      font-size: 7.2em;
+      font-weight: 700;
+      margin-bottom: 0.25em;
+    }
+
+    p.guide-description {
+      font-size: 2.4em;
+      margin: 0;
+    }
+  }
+}
 
 footer { }
 
@@ -50,33 +92,60 @@ main {
   // because some browsers don't set this as a block element --
   // html5shiv should take care of this for IE.
   display: block;
+  margin-top: 0;
 }
 
 section { }
 
 article { }
 
-div.content {
+.content {
   @include outer-container;
   text-align: left;
+  max-width: 88em;
+  margin: 1em auto;
+
+  @media (min-width: $tiny-screen) and (max-width: $medium-screen) {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
 }
 
 // Guide homepage
-div#guide-hero {
-  background-color: $dto-light-gray;
-  height: 100vh;
-  width: 100vw;
 
-  h1 {
-    color: white;
-    font-size: 7.2em;
-    font-weight: bold;
+//.wrapper {
+//  margin: 0 auto;
+//  max-width: 88em;
+//
+//  @media (max-width: 999px) {
+//    margin: 0 15px 0 15px;
+//  }
+//}
+
+.main-content {
+  @include span-columns(9);
+  margin-top: 120px;
+
+  @include media(max-width 53.75em) {
+    margin-top: 0;
   }
 
-  p.guide-description {
-    font-size: 4.8em;
-    margin: 0;
-    padding-top: 1em;
+  h2:before {
+    display: block;
+    content: " ";
+    margin-top: -195px;
+    height: 185px;
+    visibility: hidden;
+
+    @media (max-width: 999px) {
+      @include span-columns(12);
+      margin-left: 15px;
+      margin-right: 15px;
+
+      &:last-child {
+        margin-right: 15px;
+      }
+    }
   }
 }
 
@@ -106,29 +175,6 @@ div#guide-hero {
 //}
 
 // style guide header
-
-header {
-  background-color: $dto-desat-blue;
-  color: white;
-  height: 8em;
-  position: fixed;
-  width: 100%;
-  z-index: 100;
-  top: 0;
-
-  .wrapper {
-    & > * {
-      display: inline-block;
-    }
-
-    p {
-      font-size: 24px;
-      letter-spacing: 0px;
-      line-height: 80px;
-      margin: 0;
-    }
-  }
-}
 
 #govau-logo {
   color: #fff;
@@ -422,42 +468,6 @@ nav.secondary {
   }
 }
 // end style guide info panel
-
-.wrapper {
-  margin: 0 auto;
-  max-width: 78em;
-
-  @media (max-width: 999px) {
-    margin: 0 15px 0 15px;
-  }
-}
-
-.main-content {
-  @include span-columns(9);
-  margin-top: 120px;
-
-  @include media(max-width 53.75em) {
-    margin-top: 0;
-  }
-
-  h2:before {
-    display: block;
-    content: " ";
-    margin-top: -195px;
-    height: 185px;
-    visibility: hidden;
-
-    @media (max-width: 999px) {
-      @include span-columns(12);
-      margin-left: 15px;
-      margin-right: 15px;
-
-      &:last-child {
-        margin-right: 15px;
-      }
-    }
-  }
-}
 
 .entry {
   margin-bottom: 2em;
