@@ -1,9 +1,11 @@
 ---
-title: "Hyperlinks"
-related: [links]
+title: Hyperlinks
+related: 
+  - links
+published: true
 ---
 
-### Consider placement
+##  Consider placement
 
 Add hyperlinks wherever they are most useful to the user. This includes within paragraphs -- although be aware of overcrowding paragraphs with too many links as this can affect readability.
 
@@ -11,7 +13,7 @@ Grouping links together at the bottom of a page (and not within the text) can di
 
 As always, think about your users and their context when reading the information. Think helpful. Be precise.
 
-### Link within the paragraph
+##  Link within the paragraph
 
 Users scan links on web pages looking for the pieces of information they need.
 
@@ -33,7 +35,7 @@ Don’t make the link too long. Only link the keywords.
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
-### Drop the http://
+##  Drop the http://
 
 When referencing a website, drop the `http://` prefix.
 
@@ -46,7 +48,3 @@ Include a hyperlink with any emails, without including the ‘mailto:’ prefix.
 **For example**
 
 > [belinda.blogs@dto.com.au](#)
-
-### Other links
-
-- Design Guide
