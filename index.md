@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: "What is this guide?"
 title: About the Content Guide
-abstract: "Mauris suscipit libero at *eleifend sollicitudin*. Proin dignissim lorem quis nunc commodo mattis. **Vivamus** dignissim sit amet magna sit amet suscipit."
+abstract: "The Content Guide V1.0 (draft) has been designed to help people working in government create simpler, clearer and faster information. This is an early release of a ‘living’ document that will evolve over time based on feedback and suggestions from the government community."
 published: true
 ---
 
