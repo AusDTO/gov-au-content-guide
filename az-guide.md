@@ -1,7 +1,7 @@
 ---
-layout: "az-index/az-overview"
-title: About the A to Z
-abstract: A modern A to Z style guide with examples for online content creators.
+layout: az-index/az-overview
+title: "About the A to Z"
+abstract: "A modern A to Z style guide with examples for online content creators."
 published: true
 ---
 
