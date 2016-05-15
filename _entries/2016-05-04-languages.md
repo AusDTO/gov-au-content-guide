@@ -1,6 +1,11 @@
 ---
-title: "Languages"
-related: [inclusivity-and-diversity, pdfs, plain-english, screen-readers, translations]
+title: Languages
+related: 
+  - "inclusivity-diversity"
+  - pdfs
+  - "plain-english"
+  - "screen-readers"
+  - translations
+published: true
 ---
 
-Fill me in! :)
