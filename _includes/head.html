@@ -10,8 +10,12 @@
 
   <meta name="description" content="{{ site.description }}">
 
-  <link rel="stylesheet" href="http://gov-au-ui-guide-develop.apps.staging.digital.gov.au/scss/styleguide.css">
+  <!-- replace with `production` CDN links later -->
+  <!-- <link rel="stylesheet" href="http://gov-au-ui-guide-develop.apps.staging.digital.gov.au/scss/styleguide.css"> -->
   <!-- <link rel="stylesheet" href="http://gov-au-ui-guide-develop.apps.staging.digital.gov.au/scss/custom.css"> -->
+
+  <!-- `develop` locally built css -->
+  <link rel="stylesheet" href="{{ "/scss/styleguide.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/scss/custom.css" | prepend: site.baseurl }}">
 
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
