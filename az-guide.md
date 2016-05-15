@@ -1,7 +1,7 @@
 ---
-layout: "az-index/az-overview"
+layout: A to Z
 title: About the A to Z
-abstract: This is the abstract for the A to Z guide. It is used to populate a blurb on the content guide homepage.
+abstract: A modern A to Z style guide with examples for online content creators.
 published: true
 ---
 
