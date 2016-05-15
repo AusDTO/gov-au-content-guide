@@ -334,62 +334,7 @@ nav.primary {
     }
   }
 }
-
 // end style guide navigation
-
-// style guide secondary navigation
-
-nav.secondary {
-  margin-top: 228px;
-
-  @media (max-width: 999px) {
-    display: none;
-  }
-
-  ul {
-    list-style: none;
-    padding-left: 0;
-
-    li.nav-item {
-      border-left: 2px solid white;
-      border-top: 1px solid rgba(34,44,53,0.20);
-      line-height: 1.8;
-      padding-top: 0.75em;
-      padding-left: 16px;
-
-      &:hover, &:active {
-        background: #F0F3F5;
-        border-left: 2px solid black;
-        color: #000000;
-        letter-spacing: 0.07px;
-        text-shadow: 1px 0 0 black;
-      }
-    }
-  }
-
-  ul.sub-nav {
-    padding-left: 0;
-
-    li {
-      padding-left: 35px;
-    }
-
-    &:last-child {
-      border-bottom: 1px solid rgba(34,44,53,0.20);
-    }
-  }
-
-  a {
-    text-decoration: none;
-    color: #000000;
-
-    &:hover, &:active, &:visited {
-      color: #000000;
-      text-decoration: none;
-    }
-  }
-}
-// end style guide secondary navigation
 
 // style guide info panel
 .accordion {
