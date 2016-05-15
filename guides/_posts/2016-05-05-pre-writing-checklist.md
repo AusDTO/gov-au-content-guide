@@ -1,7 +1,7 @@
 ---
 title: "Pre-writing checklist"
-abstract: A list to consider before writing at all
-layout: "guide-page"
+abstract: "A list to consider before writing at all"
+layout: collection-index
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Write in plain English
+title: "Write in plain English"
 abstract: "Simplifying writing for native and non-native readers alike"
-layout: "guide-page"
+layout: collection-index
 published: true
 ---
 

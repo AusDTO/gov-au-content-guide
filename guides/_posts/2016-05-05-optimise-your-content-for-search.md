@@ -1,7 +1,7 @@
 ---
-title: Optimise your content for search
-abstract: Keywords and metadata
-layout: "guide-page"
+title: "Optimise your content for search"
+abstract: "Keywords and metadata"
+layout: collection-index
 published: true
 ---
 
@@ -9,7 +9,7 @@ published: true
 
 ## Develop a list of authentic keywords
 
-Including the right words (keywords) that people are using to search for your information is extremely important. And 
+Including the right words (keywords) that people are using to search for your information is extremely important. And
 it’s worth remembering that what the government calls something, doesn’t always match up to the words that users key into their search engine.
 
 Use relevant keywords prominently and appropriately in titles and subheadings, as well as in body text (especially in the first 2 to 3 paragraphs).
@@ -17,8 +17,6 @@ Use relevant keywords prominently and appropriately in titles and subheadings, a
 **For example**
 
 If you were writing about aged health care, you would include keywords such as nursing homes, help at home, homecare, independent living etc.  This way you adapt your writing style to the language of the people who you want to read it.
-
-
 
 ## Keyword analytics tools
 

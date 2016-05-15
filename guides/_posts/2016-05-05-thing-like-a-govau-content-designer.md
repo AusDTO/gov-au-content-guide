@@ -1,9 +1,10 @@
 ---
-title: Think like a GOV.AU content designer
-abstract: Modern content authoring
-layout: "guide-page"
+title: "Think like a GOV.AU content designer"
+abstract: "Modern content authoring"
+layout: collection-index
 published: true
 ---
+
 **What exactly is a content designer?**
 
 At GOV.AU a content designer is both a writer and editor who understands the web and its users. We work across a multi-disciplinary team to help create purposeful government services that feature simpler, clearer and faster information.
@@ -26,13 +27,13 @@ Our writing and editing skills are still critical, and play a strong role in the
 
 ## Embrace the Discovery (research) phase
 
-The creation of good content ideally begins at [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/) at the very first user research session where the content designer takes on the role of observer. 
+The creation of good content ideally begins at [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/) at the very first user research session where the content designer takes on the role of observer.
 
 The insights gained from listening and reflecting on what real people say, think and do in relation to the topic/s that we end up researching and writing about, is invaluable.
 
 This chance to participate gives you the language, the different perspectives and an understanding of the pain points that naturally get reflected back into the voice and style of the content we help create.
 
-It also helps us get across the decisions that will be made about the information we eventually help generate. 
+It also helps us get across the decisions that will be made about the information we eventually help generate.
 
 When a content designer comes in later to a project, where the Discovery phase has already started, it’s essential to go back over the research archives and have conversations with the service designers and other content designers who were at the initial sessions.
 

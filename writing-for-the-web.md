@@ -1,9 +1,10 @@
 ---
-layout: "writing-guide"
-title: Writing for the Web
+layout: collection-index
+title: "Writing for the Web"
 abstract: "Guidance on web writing best practice covering plain English, structure and writing for search engines."
 published: true
 ---
+
 ## What is this section?
 
 **This is a draft overview of the key things you need to be thinking about when preparing information for the web.**
