@@ -1,5 +1,5 @@
 ---
-layout: "What is this guide?"
+layout: home
 title: About the Content Guide
 abstract: "The Content Guide V1.0 (draft) has been designed to help people working in government create simpler, clearer and faster information. This is an early release of a ‘living’ document that will evolve over time based on feedback and suggestions from the government community."
 published: true
@@ -15,7 +15,7 @@ This guide is for all content creators and transformation teams working with the
 
 ## Why is this guide being released early?
 
-We believe that making things open, makes them better. It’s one of [our design principles.](https://www.dto.gov.au/standard/design-principles/ "DTO design principles") We plan to test this draft version of the guide, incorporate feedback and iterate regularly. 
+We believe that making things open, makes them better. It’s one of [our design principles.](https://www.dto.gov.au/standard/design-principles/ "DTO design principles") We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
 
 ## How is this guide related to the Digital Service Standard?
 
