@@ -28,7 +28,7 @@ var disqus_url;
       // Set up defaults
       var defaults = {
         identifier: 'disqussion',
-        displayCount: true,
+        displayCount: false,
         highlighted: false,
         position: 'right',
         background: 'white',
