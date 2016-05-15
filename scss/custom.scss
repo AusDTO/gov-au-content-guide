@@ -99,7 +99,7 @@ section { }
 
 article { }
 
-.content {
+.wrapper {
   @include outer-container;
   text-align: left;
   max-width: 88em;
@@ -110,17 +110,6 @@ article { }
     padding-right: 1.5em;
   }
 }
-
-// Guide homepage
-
-//.wrapper {
-//  margin: 0 auto;
-//  max-width: 88em;
-//
-//  @media (max-width: 999px) {
-//    margin: 0 15px 0 15px;
-//  }
-//}
 
 .main-content {
   @include span-columns(9);

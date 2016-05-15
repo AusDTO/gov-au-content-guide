@@ -2,6 +2,9 @@ $fontface-serif: Georgia, Times, "Times New Roman", serif;
 $fontface-sans: "Open Sans", Verdana, Geneva, sans-serif;
 $fontface-mono: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 
+// Todos.
+//
+// - merge core font-sizing
 
 body {
   // Richard Rutter's font sizing trick, setting 16px to 10px.
@@ -28,7 +31,6 @@ h1 {
 
 h2 {
   font-size: 4.8em;
-  color: #53D4EF;
   font-weight: normal;
 }
 
@@ -62,16 +64,33 @@ hr {
 
 blockquote {
   font-family: $fontface-serif;
-  color: #000000;
+  color: #22222;
   padding-left: 1em;
 }
 
+// Lists.
+
 ul, ol {
-  font-size: 1.6em;
-  color: #000000;
+  font-size: 1.7em;
   margin-bottom: 0.5em;
 
   li {
+    margin-bottom: 0.5em;
+  }
+}
+
+dl {
+  font-size: 1.7em;
+  margin: 0;
+  margin-bottom: 0.5em;
+
+  dt {
+    font-weight: 700;
+    margin-bottom: 0.25em;
+    margin-top: 1em;
+  }
+
+  dd {
     margin-bottom: 0.5em;
   }
 }

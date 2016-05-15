@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+// Styles placed here are imported into the downloadable files.
+
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "normalize";
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
+@import "grid";
+@import "accessibility";
+@import "forms";
+@import "typography";
+@import "tables";
+@import "colours";
