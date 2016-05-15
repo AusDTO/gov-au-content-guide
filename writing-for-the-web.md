@@ -1,7 +1,7 @@
 ---
-layout: "writing-guide"
+layout: Writing for the web
 title: Writing for the Web
-abstract: This is the abstract for the Writing for the Web section. It is used to populate a blurb on the content guide homepage.
+abstract: "Guidance on web writing best practice covering plain English, structure and writing for search engines."
 published: true
 ---
 ## What is this section?
