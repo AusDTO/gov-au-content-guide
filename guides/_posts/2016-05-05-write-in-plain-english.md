@@ -1,7 +1,7 @@
 ---
 title: "Write in plain English"
 abstract: "Simplifying writing for native and non-native readers alike"
-layout: guide-page
+layout: collection-index
 ---
 
 The rule is to make language as simple as your users need it to be. Generally this should be plain English so it can be understood by everyone, regardless of ability.

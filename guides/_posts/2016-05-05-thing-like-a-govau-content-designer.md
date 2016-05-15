@@ -1,7 +1,7 @@
 ---
 title: "Think like a GOV.AU content designer"
 abstract: "Modern content authoring"
-layout: guide-page
+layout: collection-index
 ---
 
 Broadly speaking, a GOV.AU content designer is a writer and editor who understands the web and its users. We not only craft great content, we also work across a multi-disciplinary team to create purposeful services and gain an in-depth knowledge of a wide range of subjects across government.

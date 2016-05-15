@@ -93,22 +93,29 @@ main {
   // html5shiv should take care of this for IE.
   display: block;
   margin-top: 0;
+
+  &#home section,
+  &#home header {
+    @include span-columns(8 of 12);
+    @include shift(2);
+  }
 }
 
 section { }
 
-article { }
+article {
+  @include span-columns(9 of 12);
+  margin-top: 120px;
+}
+
+aside {
+  @include span-columns(3 of 12);
+}
 
 .wrapper {
-  @include outer-container;
+  @include outer-container();
   text-align: left;
-  max-width: 88em;
   margin: 1em auto;
-
-  @media (min-width: $tiny-screen) and (max-width: $medium-screen) {
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-  }
 }
 
 .main-content {
@@ -333,7 +340,6 @@ nav.primary {
 // style guide secondary navigation
 
 nav.secondary {
-  @include span-columns(3);
   margin-top: 228px;
 
   @media (max-width: 999px) {
@@ -342,6 +348,7 @@ nav.secondary {
 
   ul {
     list-style: none;
+    padding-left: 0;
 
     li.nav-item {
       border-left: 2px solid white;

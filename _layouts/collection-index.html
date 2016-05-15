@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% include navigation.html %}
+
+<main class="wrapper">
+
+  <aside>
+    {% include collection-sidebar.html %}
+  </aside>
+  <article class="main-content" id="commentable-area">
+    <header>
+      <h1 class="page-heading">{{ page.title }}</h1>
+      {{ page.abstract | markdownify }}
+    </header>
+
+    {{ content }}
+
+  </article>
+</main>

@@ -1,7 +1,7 @@
 ---
 title: "Structure your page for readability"
 abstract: "Sectioning your content"
-layout: guide-page
+layout: collection-index
 ---
 
 People will hesitate to read web pages that are difficult to scan. Structure your content to lead the user through the web page, always choosing the shorter, word, sentence and paragraph over the longer.

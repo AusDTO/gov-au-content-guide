@@ -1,7 +1,7 @@
 ---
 title: "Optimise your content for search"
 abstract: "Keywords and metadata"
-layout: guide-page
+layout: collection-index
 ---
 
 As the saying goes, ‘Google is our homepage’. So making sure your your content is optimised for search engine results is an important way of helping users find your content. This means using the words (keywords) that people are using to search for your content.
