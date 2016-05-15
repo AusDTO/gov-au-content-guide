@@ -1,9 +1,9 @@
 ---
-title: "Temperature"
-related: [symbols-and-characters]
+title: Temperature
+related: 
+  - "symbols-and-characters"
+published: true
 ---
-
-## Temperature
 
 For temperature use the abbreviation instead of spelling out the word
 

@@ -1,6 +1,8 @@
 ---
-title: "People with a disability"
-related: [diversity, inclusivity]
+title: People with a disability
+related: 
+  - "inclusivity-diversity"
+published: true
 ---
 
-Fill me in! :)
+

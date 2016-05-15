@@ -1,6 +1,8 @@
 ---
-title: "Contractions"
-related: [naming-conventions]
+title: Contractions
+related: 
+  - "government-naming-conventions"
+published: true
 ---
 
 When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
@@ -21,6 +23,6 @@ Contractions that include the first and last letter of a word don’t need a ful
 
 **For example**
 
-> - Dept
-> - Pty Ltd
-> - Dr
+> Dept
+> Pty Ltd
+> Dr

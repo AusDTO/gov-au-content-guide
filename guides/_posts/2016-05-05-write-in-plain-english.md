@@ -1,12 +1,11 @@
 ---
-title: "Write in plain English"
+title: Write in plain English
 abstract: "Simplifying writing for native and non-native readers alike"
 layout: collection-index
+published: true
 ---
 
-The rule is to make language as simple as your users need it to be. Generally this should be plain English so it can be understood by everyone, regardless of ability.
-
-Follow these points to create plain English content:
+**Information that is accessible should be written in plain English so it can be understood by everyone, regardless of ability. Follow these points to create plain English content.**
 
 ## Use an active voice
 

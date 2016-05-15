@@ -1,6 +1,9 @@
 ---
-title: "Government naming conventions"
-related: [capitalisation, titles]
+title: Government naming conventions
+related: 
+  - capitalisation
+  - titles
+published: true
 ---
 
 ### Government
@@ -15,7 +18,7 @@ The words government, group, parliament, state and territory are only capitalise
 
 **Use this**
 
-*Australian Government* not *Commonwealth Government* or *Federal Government*
+Australian Government not Commonwealth Government or Federal Government
 
 Use the ‘Commonwealth of Australia’ as the legal entity established by the Constitution.
 
@@ -61,24 +64,24 @@ When referring to states and territories only capitalise when referring to a for
 
 **For example**
 
-> - ACT Government
-> - Government of South Australia
-> - Government of Victoria
-> - Government of Western Australia
-> - NSW Government
-> - Northern Territory Government
-> - Queensland Government
-> - Tasmanian Government
+> ACT Government
+> Government of South Australia
+> Government of Victoria
+> Government of Western Australia
+> NSW Government
+> Northern Territory Government
+> Queensland Government
+> Tasmanian Government
 
 The preferred style is to use the name of states and territories in full.
 
 When space is limited, such as in a table or to avoid lengthy repetitions, use contractions and acronyms.
 
-> - Australian Capital Territory -- ACT
-> - New South Wales -- NSW
-> - Northern Territory -- NT
-> - Queensland -- Qld
-> - South Australia -- SA
+> Australian Capital Territory -- ACT
+> New South Wales -- NSW
+> Northern Territory -- NT
+> Queensland -- Qld
+> South Australia -- SA
 > Tasmania -- Tas.
-> - Victoria -- Vic.
-> - Western Australia -- WA
+> Victoria -- Vic.
+> Western Australia -- WA

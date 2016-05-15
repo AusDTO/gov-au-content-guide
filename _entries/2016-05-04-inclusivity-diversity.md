@@ -1,9 +1,15 @@
 ---
 title: "Inclusivity & diversity"
-related: [aboriginal-and-torres-strait-islander-peoples, accessibility, languages, tone, voice]
+related: 
+  - "aboriginal-and-torres-strait-islander-peoples"
+  - accessibility
+  - languages
+  - tone
+  - voice
+published: true
 ---
 
-When preparing content for people who have come to Australia from non-English speaking countries, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
+When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
 
 Avoid jargon and limit contractions.
 
@@ -13,12 +19,12 @@ Avoid discriminatory language that treats some people differently from others.
 
 ### Preferred terms
 
-- *People with disability* -- not *people with a disability*, or *disabled* or *handicapped people*.
-- *Intellectually impaired*, not *intellectually disabled*
-- *Hearing impaired* not *deaf*
-- *Visually impaired* not *blind*
-- *Older people* or *seniors* not *pensioners*, *old-age pensioners* or *the aged*
-- *Young people* not *youth* or *juveniles*
+- People with disability -- not people with a disability, or disabled or handicapped people.
+- Intellectually impaired, not intellectually disabled
+- Hearing impaired not deaf
+- Visually impaired not blind
+- Older people or seniors not pensioners, old-age pensioners or the aged
+- Young people not youth or juveniles
 
 ### Diversity
 
@@ -38,10 +44,6 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 ### Other links
 
 - [Aboriginal and Torres Strait Islander People](#and-torres-strait-islander-peoples "Aboriginal and Torres Strait Islander People")
-- [Accessibility](#accessibility "Accessibility")
-- [Languages](#languages "Languages")
-- [Tone](#tone "Tone")
-- [Voice](#voice "Voice")
 - [DTO Design guides -- Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services/ "DTO Design guides - Inclusive Services")
 - [Australian Network On Disability -- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html "Australian Network On Disability - Inclusive Language")
 - [People with disability -- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html "People with disability - Guide to Reporting Disability")
