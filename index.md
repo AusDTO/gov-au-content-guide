@@ -7,7 +7,7 @@ published: true
 
 ## What is this draft?
 
-This is a draft of a new Content Guide designed to help government content creators create simpler, clearer and faster information. It captures the latest thinking in online content with a strong focus on accessiblity.
+This is a draft of a new Content Guide designed to help government content creators create simpler, clearer and faster information. It captures the latest thinking in online content with a strong focus on accessibility.
 
 ## Who is it for?
 
