@@ -1,6 +1,6 @@
 ---
 title: "Pre-writing checklist"
-abstract: A list to consider before writing at all
+abstract: null
 layout: "guide-page"
 published: true
 ---
