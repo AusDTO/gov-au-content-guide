@@ -5,8 +5,6 @@ layout: "guide-page"
 published: true
 ---
 
-**Making sure your content is optimised for search engine results is an important way of helping users find your information.**
-
 ## Develop a list of authentic keywords
 
 Including the right words (keywords) that people are using to search for your information is extremely important. And 
@@ -17,8 +15,6 @@ Use relevant keywords prominently and appropriately in titles and subheadings, a
 **For example**
 
 If you were writing about aged health care, you would include keywords such as nursing homes, help at home, homecare, independent living etc.  This way you adapt your writing style to the language of the people who you want to read it.
-
-
 
 ## Keyword analytics tools
 
