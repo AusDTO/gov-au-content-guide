@@ -1,7 +1,7 @@
 ---
 title: "Think like a GOV.AU content designer"
-abstract: "Modern content authoring"
 layout: collection-index
+abstract: null
 published: true
 ---
 
