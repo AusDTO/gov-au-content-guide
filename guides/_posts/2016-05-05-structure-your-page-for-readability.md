@@ -4,7 +4,6 @@ abstract: Sectioning your content
 layout: "guide-page"
 published: true
 ---
-**Pages that are badly structured and difficult to scan often get unread, especially if people are reading off a mobile or tablet screen. Lead the user through your information by following these points.**
 
 ## Identify the aim
 
@@ -61,4 +60,3 @@ Vary the length of your sentences to make content less tiring to read. For many 
 If you have long sentences with many elements, use a list to break up the text and make it easier for your reader to understand and scan.
 
 Use bullet lists by default. You should only use numbers or letters when it is necessary to show a priority order or chronology.
-
