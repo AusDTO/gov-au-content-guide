@@ -1,7 +1,7 @@
 ---
 title: "Structure your page for readability"
-abstract: "Sectioning your content"
 layout: collection-index
+abstract: null
 published: true
 ---
 
