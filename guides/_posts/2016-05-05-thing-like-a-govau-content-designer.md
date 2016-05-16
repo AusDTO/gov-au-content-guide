@@ -1,6 +1,6 @@
 ---
 title: Think like a GOV.AU content designer
-abstract: Modern content authoring
+abstract: null
 layout: "guide-page"
 published: true
 ---
