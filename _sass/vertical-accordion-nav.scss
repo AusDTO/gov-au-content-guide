@@ -27,6 +27,13 @@ nav.secondary {
 
     li.nav-item:not(.is-expanded ) {
       &:hover, &:active {
+        background: #F0F3F5;
+        border-left: 2px solid black;
+        text-shadow: 1px 0 0 black;
+      }
+    }
+    li.nav-item.is-expanded {
+      &:hover, &:active {
         background: transparent;
         border-left: 2px solid transparent;
         text-shadow: 1px 0 0 transparent;
