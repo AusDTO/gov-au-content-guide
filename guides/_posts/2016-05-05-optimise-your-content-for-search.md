@@ -1,6 +1,6 @@
 ---
 title: Optimise your content for search
-abstract: Keywords and metadata
+abstract: null
 layout: "guide-page"
 published: true
 ---
