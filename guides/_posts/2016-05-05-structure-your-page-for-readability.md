@@ -1,6 +1,6 @@
 ---
 title: Structure your page for readability
-abstract: Sectioning your content
+abstract: null
 layout: "guide-page"
 published: true
 ---
