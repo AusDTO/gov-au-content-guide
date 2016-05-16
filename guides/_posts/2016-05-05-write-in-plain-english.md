@@ -1,54 +1,63 @@
 ---
-title: Write in plain English
-abstract: "Simplifying writing for native and non-native readers alike"
+title: "Structure your page for readability"
 layout: collection-index
 published: true
 ---
 
-## Use an active voice
+**Pages that are badly structured and difficult to scan often get unread, especially if people are reading off a mobile or tablet screen. Lead the user through your information by following these points.**
 
-Active voice clearly identifies who is doing what to whom, is more immediate and generally uses fewer words.
+## Identify the aim
 
-For example:
+Identify the aim of your content to know the level of detail you need. Focus on how the user should do something, rather than telling them about something. Make calls to action clear and simple.
 
-> The director approved the proposal for the new part-time role.
+## Put the most relevant information first
 
-Passive voice sounds evasive and sends the reader backwards.
+Don't waste the reader's time by burying what's most relevant to their needs at the bottom of a page. The most relevant information should sit close to the top of the page.
 
-For example:
+## Use headings and subheadings
 
-> The proposal for the new part-time role was approved by the director.
+Headings are signposts in text and navigational aids. Readers use headings to scan content and to gauge the relationship between and importance of sections of text.
 
-Passive is acceptable where there is no do-er.
+When designing the flow of information on a web page structure your content with hierarchical headers (H1, H2, H3). Use meaningful text and keywords in headers and links
 
-For example:
+**Limit levels**
 
-> The proposal for the new-part time role was approved in March.
+Content should only have 1 top level (H1) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels (H2 and H3).
 
-## Personalise the language
+**Use space**
 
-Use first and second pronouns (‘I’, ‘we’, ‘us’ and ‘you’) to establish a connection with users.
+To aid readability and comprehension, use headings to break up text and draw in the reader.
 
-Use ‘they’ when talking about, rather than to someone or something.
+To support both navigation and access, use a heading at least every 100 words or so (every 2 to 3 paragraphs).
 
-For example:
+**Be interesting**
 
-> The department is launching its website when they are ready to go live.
+Make headings specific enough to catch the reader’s attention. You should either provide information or raise a query.
 
-## Use fewer words
+Avoid meaningless words for headings such as general, miscellaneous, other, or more.
 
-Check your content and remove unnecessary words, sentences and paragraphs. 1 idea per paragraph makes information easier to follow.
+**Keep it short**
 
-## Minimise punctuation
+Try to limit headings to less than 1 line. Headings that spill over to a second line are harder to read and to recall.
 
-It’s easier to read several short sentences than a long sentence broken up with punctuation.
+## Chunk information into short paragraphs
 
-## Don’t use jargon or ‘fancy’ language
+A paragraph is a section of text that contains a single idea.
 
-Write as your users talk rather than how government speaks internally. Keep it conversational for easier comprehension.
+State your idea in the first sentence. This will attract your reader’s attention and get your message across.
 
-## Think of people who don’t use English as a first language
+Readers often scan headings and first sentences of paragraphs as they search for the information they want.
 
-Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third, fourth etc language.
+Limit paragraphs to 2 to 3 sentences at the most.
 
-Consider whether the information should also be provided in appropriate community language—a good idea if there are compliance requirements.
+## Use simple sentences
+
+Use short sentences that contain a single message. If you need to communicate other messages use a second sentence, commas or brackets.
+
+Vary the length of your sentences to make content less tiring to read. For many people comprehension can start to fail after 25 to 30 words, so this should be the limit of your longest sentences.
+
+## Break up content with lists
+
+If you have long sentences with many elements, use a list to break up the text and make it easier for your reader to understand and scan.
+
+Use bullet lists by default. You should only use numbers or letters when it is necessary to show a priority order or chronology.
