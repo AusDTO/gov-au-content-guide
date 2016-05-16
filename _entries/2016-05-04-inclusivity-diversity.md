@@ -43,7 +43,6 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 
 ### Other links
 
-- [Aboriginal and Torres Strait Islander People](#and-torres-strait-islander-peoples "Aboriginal and Torres Strait Islander People")
 - [DTO Design guides -- Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services/ "DTO Design guides - Inclusive Services")
 - [Australian Network On Disability -- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html "Australian Network On Disability - Inclusive Language")
 - [People with disability -- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html "People with disability - Guide to Reporting Disability")
