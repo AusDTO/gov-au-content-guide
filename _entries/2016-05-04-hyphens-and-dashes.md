@@ -23,7 +23,7 @@ Use em dashes without a space on either side (--) when adding an idea to a sente
 
 > 27% of Australians were born overseas--another 2.5% identify as being of Aboriginal and/or Torres Strait Islander origin.
 
-- In Microsoft Word: hold down the [Alt] key and type 0151
-- On Mac: hold down `option`key and the hyphen key `-`
-- In Markdown notation: use a double hyphen (`--`)
+- In Microsoft Word: hold down the alt key and type 0151
+- On Mac: hold down the option key and the hyphen (--) key
+- In Markdown notation: use a double hyphen (--)
 - Google Doc: go to Insert then Special characters
