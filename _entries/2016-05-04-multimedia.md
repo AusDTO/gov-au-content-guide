@@ -1,6 +1,8 @@
 ---
-title: "Multimedia"
-related: [accessibility, video]
+title: Multimedia
+related: 
+  - accessibility
+  - video
+published: true
 ---
 
-Fill me in! :)
