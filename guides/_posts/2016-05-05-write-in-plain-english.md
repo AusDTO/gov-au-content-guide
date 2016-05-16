@@ -1,6 +1,6 @@
 ---
 title: Write in plain English
-abstract: "Simplifying writing for native and non-native readers alike"
+abstract: null
 layout: "guide-page"
 published: true
 ---
