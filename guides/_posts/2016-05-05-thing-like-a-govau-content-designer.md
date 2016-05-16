@@ -45,4 +45,4 @@ This is fantastic in that content people get to be part of the conversation and 
 
 And when it comes to the final stages of editing there is more efficiency and co-operation around our changes because we have been part of the conversations and ensuring consensus along the way.
 
-Learn more about [how we work](https://www.dto.gov.au/standard/design-guides/agile/ "Agile how we work")
+Learn more about [how we work](https://www.dto.gov.au/standard/design-guides/agile/ "Agile how we work").
