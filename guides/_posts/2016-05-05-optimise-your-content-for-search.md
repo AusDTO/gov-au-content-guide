@@ -5,8 +5,6 @@ layout: collection-index
 published: true
 ---
 
-**Making sure your content is optimised for search engine results is an important way of helping users find your information.**
-
 ## Develop a list of authentic keywords
 
 Including the right words (keywords) that people are using to search for your information is extremely important. And
