@@ -2,6 +2,7 @@
 title: Punctuation
 related: 
   - "abbreviations-acronyms"
+  - apostrophe
   - ampersands
   - contractions
   - commas
@@ -19,5 +20,3 @@ related:
   - "weights-and-measures"
 published: true
 ---
-
-
