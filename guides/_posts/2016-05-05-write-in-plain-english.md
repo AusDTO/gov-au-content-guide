@@ -5,8 +5,6 @@ layout: collection-index
 published: true
 ---
 
-**Information that is accessible should be written in plain English so it can be understood by everyone, regardless of ability. Follow these points to create plain English content.**
-
 ## Use an active voice
 
 Active voice clearly identifies who is doing what to whom, is more immediate and generally uses fewer words.
