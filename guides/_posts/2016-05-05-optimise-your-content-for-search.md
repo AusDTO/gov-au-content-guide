@@ -1,7 +1,7 @@
 ---
 title: "Optimise your content for search"
-abstract: "Keywords and metadata"
 layout: collection-index
+abstract: null
 published: true
 ---
 
