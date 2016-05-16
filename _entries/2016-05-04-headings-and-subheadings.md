@@ -13,7 +13,7 @@ Keep them short. Google’s display of a page title typically cuts out at 55 cha
 
 Start headings and subheadings with keywords that help your user make a connection. This is called frontloading.
 
-**Example to come**
+> Continue iterating the Digital Service Standard
 
 Break up a page with useful subheadings that guide the user and help them to know the importance of and relationship between sections of text.
 
