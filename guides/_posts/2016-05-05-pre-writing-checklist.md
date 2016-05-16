@@ -5,8 +5,6 @@ layout: collection-index
 published: true
 ---
 
-**A little planning goes a long way and can avoid duplication of information. Before writing your content please check these points.**
-
 ## Does this content meet a user need?
 
 User needs can be functional or emotional (we care about both). Sometimes they’re created needs (created by things that the government needs them to do). Content always needs to address the user's main needs so they can act on what we're asking them to do so they can solve their problem quickly and efficiently.
