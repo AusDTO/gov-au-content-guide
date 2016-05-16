@@ -1,7 +1,7 @@
 ---
 title: "Forms, surveys & questionnaires"
 related: 
-  - "surveys-questionnaires"
+  - "surveys-and-questionnaires"
 published: true
 ---
 
