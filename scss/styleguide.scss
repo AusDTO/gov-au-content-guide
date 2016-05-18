@@ -6,6 +6,10 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+
+@import "colours";
+@import "variables";
+
 @import "normalize";
 @import "bourbon";
 @import "grid-settings";
@@ -14,6 +18,8 @@
 @import "accessibility";
 @import "forms";
 @import "typography";
+@import "buttons";
+//@import "code-syntax";
 @import "tables";
-@import "colours";
 @import "vertical-accordion-nav";
+

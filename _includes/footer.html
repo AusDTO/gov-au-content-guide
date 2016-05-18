@@ -1,4 +1,29 @@
-  </div> <!--this is really confusing! We should try to make sure all divs open and close in the same file -->
+<footer class="footer" role="contentinfo">
+  <nav class="footer-links">
+    <ul>
+      <li><h3>Content</h3></li>
+      <li><a href="/index.html">Home</a></li>
+      <li><a href="/az-guide.html">A to Z</a></li>
+      <li><a href="/writing-for-the-web/">Writing for the Web</a></li>
+    </ul>
+    <ul>
+      <li><h3>Project</h3></li>
+      <li><a href="https://github.com/AusDTO/gov-au-content-guide">GitHub</a></li>
+      <li><a href="mailto:pascal.klein@digital.gov.au">Contact</a></li>
+    </ul>
+    <ul>
+      <li><h3>Else</h3></li>
+      <li><a href="http://dto.gov.au"><abbr title="Digital Transformation Office">DTO</abbr> homepage</a></li>
+      <li class="nav-link back-up">[ <a href="#header">back to top &uarr;</a> ]</li>
+    </ul>
+  </nav>
+
+  <hr>
+
+  <p class="copyright authorship">&copy; Copyright Digital Transformation Office.</p>
+  <p class="license">Licensed under the <abbr>MIT</abbr> license. See <a href="/LICENSE"><code>LICENSE</code></a> file for more details.</p>
+</footer>
+</div> <!--this is really confusing! We should try to make sure all divs open and close in the same file -->
 </div>
 <!--VENDOR SCRIPTS -->
 <script src="/js/inlineDisqussions.js"></script>
@@ -6,8 +31,8 @@
 <script src="{{ "/js/accordion.js" | prepend: site.baseurl }}"></script>
 
 <link rel="stylesheet" href="/css/inlineDisqussions.css" type="text/css"/>
-<script>
-  smoothScroll.init();
+    <script>
+    smoothScroll.init();
 
 $(function(){
   $("a").each(function(){

@@ -4,7 +4,7 @@ layout: default
 
 <main id="home" class="wrapper">
   <header id="hero" class="">
-    <h1>{{ site.title }}</h1>
+    <h1>{{ site.title }} v{{ site.version}}</h1>
     <p class="guide-description">{{ site.description }}</p>
   </header>
 
@@ -12,52 +12,7 @@ layout: default
     <h2>{{ page.title }}</h2>
     {{ page.abstract | markdownify }}
 
-    <dl id="guide-breakdown">
-      <dt>az page-title</dt>
-      <dd>az page.abstract
-        <a class="button" href="#">View A-Z</a>
-      </dd>
-
-      <dt>wfw page-title</dt>
-      <dd>wfw page.abstract
-        <a class="button" href="#">View Writing for the web</a>
-      </dd>
-
-      <dt>sources page-title</dt>
-      <dd>sources page.abstract
-        <a class="button" href="#">View Sources</a>
-      </dd>
-
-      <dt>future-ideas page-title</dt>
-      <dd>future-ideas page.abstract
-        <a class="button" href="#">View Future ideas</a>
-      </dd>
-      <dd>future-ideas page.abstract
-        <a class="button" href="#">View Future ideas</a>
-      </dd>
-      <dd>future-ideas page.abstract
-        <a class="button" href="#">View Future ideas</a>
-      </dd>
-      <dt>az page-title</dt>
-      <dd>az page.abstract
-        <a class="button" href="#">View A-Z</a>
-      </dd>
-
-      <dt>wfw page-title</dt>
-      <dd>wfw page.abstract
-        <a class="button" href="#">View Writing for the web</a>
-      </dd>
-
-      <dt>sources page-title</dt>
-      <dd>sources page.abstract
-        <a class="button" href="#">View Sources</a>
-      </dd>
-
-      <dt>future-ideas page-title</dt>
-      <dd>future-ideas page.abstract
-        <a class="button" href="#">View Future ideas</a>
-      </dd>
-    </dl>
+    {% include homepage-feature-outline.html %}
   </section>
 
   <section id="about" class="">

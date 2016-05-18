@@ -10,9 +10,21 @@ layout: default
     {% include collection-sidebar.html %}
   </aside>
   <article class="main-content" id="commentable-area">
+
     <header>
-      <h1 class="page-heading">{{ page.title }}</h1>
+      {% assign the-collection = page.collection %}
+      {% assign c = site.collections | where:'label',the-collection | first %}
+
+      {% for doc in c.docs %}
+        {% if doc.layout == "collection-index" %}
+
+      <h1 class="page-heading">{{ doc.collection-title }}</h1>
+
+        {% endif %}
+      {% endfor %}
+
     </header>
+    <h2>{{ page.title }}</h2>
 
     {{ content }}
 

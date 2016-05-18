@@ -1,17 +1,22 @@
 table {
-  margin-top: 89px;
-  margin-bottom: 58px;
-  
-  th{
-    background-color: #53D4EF;
-    padding: 21px 17px 19px 17px;
+  border-collapse: collapse;
+  margin: $small-spacing;
+  table-layout: fixed;
+  width: 100%;
+
+  th {
+    border-bottom: 1px solid shade($base-border-color, 25%);
+    font-weight: 600;
+    padding: $small-spacing 0;
+    text-align: left;
   }
 
   td {
-    padding: 21px 17px 19px 17px;
+    border-bottom: $base-border;
+    padding: $small-spacing 0;
   }
 }
 
 table, th, td {
-  border: 1px solid #979797;
+  vertical-align: middle;
 }

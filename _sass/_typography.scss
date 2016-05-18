@@ -1,22 +1,39 @@
-$fontface-serif: Georgia, Times, "Times New Roman", serif;
-$fontface-sans: "Open Sans", Verdana, Geneva, sans-serif;
-$fontface-mono: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
-
-// Todos.
+// # Todos.
 //
 // - merge core font-sizing
 
 body {
+  line-height: $base-leading;
+  font-family: $base-font-family;
+  color: $base-font-color;
+  font-size: 62.5%;
   // Richard Rutter's font sizing trick, setting 16px to 10px.
   // From here we can set fonts at a multiple of 10 in either ems or rems.
-  font-size: 62.5%;
-  line-height: 1.8;
-  font-family: $fontface-sans;
+
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 0;
-  margin-bottom: 0.5em;
+// # Regarding vertical typography:
+//   Vertical spacing is set with margin-bottom unless margin-top is required.
+
+// # Regarding scale (typography):
+//   We're using a custom scale, composed of a mix of the 'classic' scale, and
+//   one based on the Fibonacci sequence. It is:
+//
+//   > 11, 12, 14, 15, 17, 19, 21, 24, 36, 48, 60, 72, 96
+//
+
+// # Headings.
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $base-heading-font-family;
+  margin-top: $small-spacing;
+  margin-bottom: $small-spacing / 2;
+  font-weight: normal;
+  line-height: $base-heading-leading;
 }
 
 h1 {
@@ -24,78 +41,99 @@ h1 {
 
   &.page-heading {
     font-family: "OpenSans-Light";
-    font-weight: normal;
-    font-size: 6em;
   }
 }
 
 h2 {
   font-size: 4.8em;
-  font-weight: normal;
 }
 
 h3 {
   font-size: 3.6em;
-  font-weight: normal;
 }
 
 h4 {
   font-size: 2.4em;
-  font-weight: normal;
 }
 
 h5 {
   font-size: 2.1em;
-  font-weight: normal;
 }
 
 h6 {
   font-size: 1.8em;
-  font-weight: normal;
-}
-
-hr {
-  border-bottom: 2px solid black;
-  padding-top: 0.5em;
-  border-top-style: none;
-  border-left-style: none;
-  border-right-style: none;
-}
-
-blockquote {
-  font-family: $fontface-serif;
-  color: #22222;
-  padding-left: 1em;
-}
-
-// Lists.
-
-ul, ol {
-  font-size: 1.7em;
-  margin-bottom: 0.5em;
-
-  li {
-    margin-bottom: 0.5em;
-  }
-}
-
-dl {
-  font-size: 1.7em;
-  margin: 0;
-  margin-bottom: 0.5em;
-
-  dt {
-    font-weight: 700;
-    margin-bottom: 0.25em;
-    margin-top: 1em;
-  }
-
-  dd {
-    margin-bottom: 0.5em;
-  }
 }
 
 p {
-  font-size: 1.7em;
-  margin-bottom: 1em;
+  font-size: $base-body-font-size;
+  margin-bottom: $small-spacing;
+}
+
+// # Lists.
+ul,
+ol {
+  font-size: $base-body-font-size;
+  margin-bottom: $small-spacing;
+  margin-left: 0;
+  padding: 0;
+
+  li {
+    margin-bottom: $small-spacing;
+  }
+}
+
+ol li {
+  list-style: decimal;
+}
+
+dl {
+  font-size: $base-body-font-size;
+  margin: 0;
+  margin-bottom: $small-spacing;
+
+  dt {
+    font-weight: 700;
+    margin-bottom: $small-spacing;
+    margin-top: $base-spacing;
+  }
+
+  dd {
+    margin-bottom: $small-spacing;
+    margin-left: $small-spacing;
+  }
+}
+
+// # Anchors.
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color $base-duration $base-timing;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: shade($action-color, 25%);
+  }
+}
+
+// # Other elements.
+
+blockquote {
+  font-family: $fontface-serif;
+  color: #222;
+  padding-left: $base-spacing;
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: $base-spacing 0;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
 }

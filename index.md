@@ -23,4 +23,4 @@ The Digital Service Standard references an [online style guide](https://www.dto.
 
 ## How was this guide put together?
 
-When we asked our peers across government what they wanted in this guide, there was common theme—keep it up-to-date, make it easy to understand and give us examples. We were also guided by many sources. [Read the blog post](https://www.dto.gov.au/blog/walking-the-talk/ "Read the blog post")
+When we asked our peers across government what they wanted in this guide, there was common theme -- keep it up-to-date, make it easy to understand and give us examples. We were also guided by many sources. [Read the blog post](https://www.dto.gov.au/blog/walking-the-talk/ "Read the blog post").
