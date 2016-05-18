@@ -1,14 +1,18 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-// This file contains styles specific to the style guide itself. Styles placed here are not imported into the downloadable files.
+// This file contains styles specific to the style guide itself. Styles placed
+// here are not imported into the downloadable files.
 
 @charset "utf-8";
 
-// UI-Core partials.
+// # UI-Core partials.
 //
-// Calls from `sass_dir` (defaults to `_sass`), and some gems.
+//   Calls from `sass_dir` (defaults to `_sass`), and some gems.
 //
+
+@import "colours";
+@import "variables";
 
 @import "normalize";
 @import "bourbon";
@@ -18,15 +22,15 @@
 @import "accessibility";
 @import "forms";
 @import "typography";
+@import "buttons";
 @import "code-syntax";
 @import "tables";
-@import "colours";
 
-// Colours.
+// # Colours.
 //
-// Might be worth pushing these into (custom) partials?
+//   Might be worth pushing these into (custom) partials?
 //
-// Note: some colours might be pushed to ui-core.
+//   Note: some colours might be pushed to ui-core.
 
 $dto-desat-blue: #244A61;
 $dto-colour: #015a96;
@@ -34,8 +38,9 @@ $dto-light-gray: #F3F3F3;
 $core-white: #ffffff;
 $core-black: #000000;
 
-// Core grid and page
+// # Core grid and page.
 
+//   todo: We also have from ui-core: $desktop, $tablet, and $mobile...
 $large-screen: em(860);
 $medium-screen: em(769);
 $tiny-screen: em(320);
@@ -48,6 +53,7 @@ header {
   margin-top: 0;
 
   &.topbar {
+    padding-top: $small-spacing;
     background-color: $dto-desat-blue;
     color: $core-white;
     height: 6.5em;
@@ -74,13 +80,11 @@ header {
     margin-bottom: 5em;
 
     h1 {
-      font-size: 7.2em;
       font-weight: 700;
-      margin-bottom: 0.25em;
     }
 
     p.guide-description {
-      font-size: 2.4em;
+      font-size: 2.1em;
       margin: 0;
     }
   }
@@ -89,9 +93,9 @@ header {
 footer { }
 
 main {
-  // because some browsers don't set this as a block element --
-  // html5shiv should take care of this for IE.
   display: block;
+  // Because some browsers don't set this as a block element --
+  // html5shiv should take care of this for IE.
   margin-top: 0;
 
   &#home section,
@@ -115,7 +119,7 @@ aside {
 .wrapper {
   @include outer-container();
   text-align: left;
-  margin: 1em auto;
+  margin: 0 auto;
 }
 
 .main-content {
@@ -129,8 +133,8 @@ aside {
   h2:before {
     display: block;
     content: " ";
-    margin-top: -195px;
-    height: 185px;
+    margin-top: -145px;
+    height: 165px;
     visibility: hidden;
 
     @media (max-width: 999px) {
@@ -145,19 +149,29 @@ aside {
   }
 }
 
-// Custom UI elements
+// # Custom typography.
+
+h1.page-heading {
+  margin-bottom: 0;
+  font-family: $base-heading-font-family;
+}
+
+// # Custom UI elements.
 //
-// Some of this may be abstracted into partials and/or ui-core.
+//   Some of this may be abstracted into partials and/or ui-core.
 
 .button {
+  padding: $small-spacing;
   border: none;
   height: 5em;
   text-align: center;
   text-decoration: none;
+  background-color: #13365e;
+  color: lighten(#13365e, 85%);
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.50);
 
   &:hover {
-    background-color: #13365e;
+    background-color: lighten(#13365e, 10%);
     color: white;
   }
 }
@@ -197,10 +211,10 @@ aside {
 // style guide navigation
 
 nav.primary {
-  background: #F0F3F5;
-  height: 65px;
+  background: $light-gray;
+  height: 6.8em;
   position: fixed;
-  top: 80px;
+  top: 6.5em;
   width: 100%;
   z-index: 100;
 
@@ -265,9 +279,9 @@ nav.primary {
 
     a {
       color: #244A61;
-      font-size: 16px;
-      line-height: 65px;
-      padding: 20px 40px;
+      font-size: 1em;
+      line-height: $base-spacing * 2;
+      padding: 20px $base-spacing;
       text-decoration: none;
 
       @include media (max-width $large-screen) {
@@ -280,7 +294,6 @@ nav.primary {
         &:hover {
           background: darken(#F0F3F5, 3%);
           border-bottom: 4px solid #244A61;
-          text-shadow: 1px 0 0 black;
         }
       }
     }
@@ -291,27 +304,25 @@ nav.primary {
   a {
     background: rgba(155,154,155,0.08);
     border-bottom: 4px solid #244A61;
-    text-shadow: 1px 0 0 black;
+    font-weight: 700;
   }
 
   @include media (max-width $large-screen) {
     background: darken(#F0F3F5, 3%);
     border-bottom: 4px solid #244A61;
-    text-shadow: 1px 0 0 black;
 
     a {
       background: transparent;
       border-bottom: transparent;
-      text-shadow: 1px 0 0 transparent;
     }
   }
 }
 
-.navigation-menu {
+ul.navigation-menu {
   margin: 0;
 }
 
-.navigation-wrapper {
+aside.navigation-wrapper {
   position: relative;
   top: 6px;
   z-index: 999;
@@ -331,10 +342,89 @@ nav.primary {
 
     @include media ($large-screen) {
       display: none;
+      // investigate?
     }
   }
 }
+
 // end style guide navigation
+
+// style guide secondary navigation
+
+nav.secondary {
+  margin-top: 33em;
+
+  @media (max-width: 999px) {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+
+    li.nav-item {
+      border-left: 2px solid white;
+      border-top: 1px solid rgba(34,44,53,0.20);
+      margin-bottom: 0;
+      border-left: 2px solid transparent;
+
+      a {
+        display: block;
+        line-height: 1.8;
+        padding: $small-spacing 4px $small-spacing $small-spacing;
+        border-left: 2px solid transparent;
+
+        &:hover,
+        &:active {
+          background: #F0F3F5;
+          color: #000000;
+          border-left: 2px solid black;
+        }
+
+        &.js-accordion-trigger {
+          font-size: 1.9em;
+          padding: $small-spacing / 2 4px $small-spacing / 2  $small-spacing / 2;
+
+        }
+      }
+      & ul {
+        font-size: 1em;
+
+        li.nav-item a {
+          border-left: none;
+          border-top: none;
+          padding: $small-spacing 4px $small-spacing $small-spacing / 4;
+          padding-left: $small-spacing * 3;
+        }
+
+        li.nav-item:hover,
+        li.nav-item:active {
+          border-left: 2px solid black;
+        }
+      }
+    }
+  }
+
+  ul.sub-nav {
+    padding-left: 0;
+
+    &:last-child {
+      border-bottom: 1px solid rgba(34,44,53,0.20);
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: #000000;
+
+    &:hover, &:active, &:visited {
+      color: #000000;
+      text-decoration: none;
+    }
+  }
+}
+// end style guide secondary navigation
 
 // style guide info panel
 .accordion {
@@ -541,5 +631,151 @@ $color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-
   $i: index($color_names, $name);
   .#{$name} {
     background-color: nth($color_vars, $i);
+  }
+}
+
+// # Footer styles.
+//
+//   This needs cleaning up.
+
+.footer {
+  $medium-screen: 40em !default;
+  $large-screen: 53.75em !default;
+  $footer-background: $light-gray;
+  $footer-color: black;
+  $footer-link-color: #244A61;
+  $footer-disclaimer-color: transparentize($footer-color, 0.3);
+
+  background: $footer-background;
+  margin-top: ($base-spacing * 6);
+  padding: ($base-spacing * 2) $gutter ($base-spacing * 4) $gutter;
+  width: 100%;
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: $base-spacing;
+  }
+
+  ul {
+    flex-basis: 20%;
+    flex-shrink: 0;
+    margin-bottom: $base-spacing * 2;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+    text-align: left;
+  }
+
+  li a {
+    color: $footer-link-color;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      color: transparentize($footer-color, 0);
+    }
+  }
+
+  li h3 {
+    color: $footer-color;
+    font-size: 1.7em;
+    font-weight: 700;
+  }
+
+  hr {
+    border: 1px solid transparentize($footer-disclaimer-color, 0.3);
+    margin: 0 auto $base-spacing;
+    width: 60%;
+  }
+
+  p {
+    font-size: 1.5m;
+    margin: auto;
+    max-width: 35em;
+    text-align: center;
+  }
+}
+
+// # Homepage feature defintion list.
+//
+//   This needs cleaning up too.
+
+nav#homepage-feature {
+  margin-top: ($base-spacing * 5);
+}
+
+.bullets {
+  $base-line-height: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $icon-bullet-size: 3.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em;
+  margin-bottom: $base-line-height;
+  overflow: auto;
+  padding: 0;
+
+  .bullet {
+    flex-basis: 18em;
+    flex-grow: 1;
+    margin-bottom: ($base-spacing * 2);
+  }
+
+  .bullet-icon {
+    background: $action-color;
+    border-radius: 50%;
+    float: left;
+    height: $icon-bullet-size;
+    padding: $icon-bullet-size / 4;
+    width: $icon-bullet-size;
+  }
+
+  .bullet-icon-1 {
+    background: $action-color;
+  }
+
+  .bullet-icon-2 {
+    background: adjust-hue($action-color, -50%);
+  }
+
+  .bullet-icon-3 {
+    background: adjust-hue($action-color, -140%);
+  }
+
+  .bullet-content {
+    margin-bottom: 2em;
+    margin-left: $icon-bullet-size * 1.4;
+  }
+
+  h2 {
+    border-bottom: 1px solid transparentize($base-font-color, 0.8);
+    display: inline-block;
+    font-size: $icon-bullet-size / 2.5;
+    margin: 0 0 ($icon-bullet-size / 6) 0;
+    padding-top: $icon-bullet-size / 7;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  p {
+    font-size: 1em; // 19
+  }
+
+  span {
+    display: block;
+    margin: $base-spacing 0;
+  }
+
+  img {
+    max-width: 100%;
   }
 }

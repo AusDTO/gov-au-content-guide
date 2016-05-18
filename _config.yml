@@ -1,13 +1,11 @@
-
-# Welcome to Jekyll!
+# Jekyll configuration for the GOV.AU Content guide
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Content Style Guide
+# Site settings.
+title: Content guide
+version: "1.0"
 description: >
   Simpler, clearer, faster.<br>
   A draft content guide designed to meet user needs, regardless of ability.
@@ -28,12 +26,29 @@ assets:
 sass:
   sass_dir: _sass
 
-collections:
-- entries
+# Global Collection settings.
+defaults:
+  - scope:
+      path: ""
+      type: writing-for-the-web
+    values:
+      layout: collection-item
+      permalink: /:collection/:title
 
-# Build settings
+collections:
+  entries:
+    title: "A to Z"
+    output: true
+  writing-for-the-web:
+    title: "Writing for the web"
+    output: true
+  sources:
+    title: "Sources for this guide"
+
+# Markdown build settings.
 markdown: kramdown
 
+# Config for htt://prose.io editor.
 prose:
 #  rooturl: ''
   siteurl: 'http://gov.au/alpha'
@@ -59,6 +74,11 @@ prose:
     - /.ruby-version
     - /.gitignore
     - /feed.xml
-    
+
+# Files to exclude from jekyll builds.
 exclude:
   - vendor/
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile

@@ -4,15 +4,20 @@ layout: default
 
 {% include navigation.html %}
 
-<div class="content">
-  {% include sidebar-nav-az.html %}
-  <div class="main-content">
+<main class="wrapper">
+
+  <aside>
+    {% include sidebar-nav-az.html %}
+  </aside>
+
+  <article class="main-content" id="commentable-area">
     <h1 class="page-heading">{{ page.title }}</h1>
 
     {{ content }}
 
-  </div>
-</div>
+  </article>
+</main>
+
 <script src="js/inlineDisqussions.js"></script>
 <link rel="stylesheet" href="css/inlineDisqussions.css" type="text/css"/>
 <script>

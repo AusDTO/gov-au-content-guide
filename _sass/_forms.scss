@@ -1,14 +1,23 @@
 .form-input-focus {
   &:focus {
-    border: 3px solid #02BFE7;
+    border: $base-border-radius solid #02BFE7;
+    // todo: variablise colour
     outline: none;
   }
+}
+
+input,
+select {
+  display: block;
+  font-family: $base-font-family;
+  font-size: $base-body-font-size;
 }
 
 input[type=text] {
   @extend .form-input-focus;
 
-  border: 1px solid #9B9B9B;
+  //border: 1px solid #9B9B9B;
+  border: $base-border;
   box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.50);
   color: rgba(0,0,0,0.87);
   display: block;
@@ -23,23 +32,28 @@ input[type=text] {
   width: 100%;
 }
 
-label[for=text_area]{
-  @extend .sr-only;
-}
-
-label[for=day],
-label[for=month],
-label[for=year]{
-  color: rgba(34,44,53,0.60);
+label {
   display: block;
-  font-size: 16px;
-  letter-spacing: 0.15px;
-  text-transform: uppercase;
-}
+  font-weight: 700;
+  margin-bottom: $small-spacing / 2;
 
-label[for=year],
-label[for=month] {
-  margin-left: 22px;
+  &[for=text_area] {
+    @extend .sr-only;
+  }
+
+  &[for=day],
+  &[for=month],
+  &[for=year] {
+    color: rgba(34,44,53,0.60);
+    font-size: 1.5em;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+  }
+
+  &[for=year],
+  &[for=month] {
+    margin-left: $base-spacing;
+  }
 }
 
 textarea {
@@ -49,7 +63,7 @@ textarea {
   box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.50);
   height: 134px;
   padding: .67861429em 1em;
-  resize: none;
+  resize: vertical;
   width: 100%;
 
   @include placeholder {
@@ -66,7 +80,9 @@ select {
   border: 1px solid rgba(123,158,186,0.20);
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.50);
   height: 48px;
-  width: 100%;
+  width: auto;
+  max-width: 100%;
+  margin-bottom: $base-spacing;
 }
 
 select:not([multiple]){
@@ -85,6 +101,9 @@ select {
 
 fieldset {
   border: 0;
+  background: transparent;
+  margin: 0;
+  padding: 0;
 
   p {
     display: inline-block;
@@ -111,9 +130,30 @@ fieldset {
   }
 }
 
+legend {
+  font-weight: 700;
+  padding: 0;
+  margin-bottom: $small-spacing / 2;
+}
+
 input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none;
+}
+
+[type="search"] {
+  appearance: none;
+}
+
+[type="checkbox"],
+[type="radio"] {
+  display: inline;
+  margin-right: $small-spacing / 2;
+}
+
+[type="file"] {
+  margin-bottom: $small-spacing;
+  width: 100%;
 }
 
 input[type="checkbox"],
