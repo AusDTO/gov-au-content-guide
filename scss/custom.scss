@@ -369,6 +369,19 @@ nav.secondary {
       margin-bottom: 0;
       border-left: 2px solid transparent;
 
+      &:not(.is-expanded ) {
+        &:hover,
+        &:active {
+          background: #F0F3F5;
+        }
+      }
+      &.is-expanded {
+        &:hover, &:active {
+          background: transparent;
+          border-left: 2px solid transparent;
+        }
+      }
+
       a {
         display: block;
         line-height: 1.8;
@@ -388,6 +401,7 @@ nav.secondary {
 
         }
       }
+
       & ul {
         font-size: 1em;
 
