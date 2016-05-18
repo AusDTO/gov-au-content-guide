@@ -1,12 +1,11 @@
 ---
 title: "Structure your page for readability"
+abstract: null
 layout: collection-index
 published: true
 ---
 
-**Pages that are badly structured and difficult to scan often get unread, especially if people are reading off a mobile or tablet screen. Lead the user through your information by following these points.**
-
-## Identify the aim
+## Use an active voice
 
 Identify the aim of your content to know the level of detail you need. Focus on how the user should do something, rather than telling them about something. Make calls to action clear and simple.
 
