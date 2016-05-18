@@ -1,7 +1,6 @@
 ---
 title: "Optimise your content for search"
 layout: collection-index
-abstract: null
 published: true
 ---
 
@@ -39,7 +38,7 @@ The description should:
 
 This description of the Digital Transformation Office’s website succinctly describes the agency’s key role in active voice.
 
-<img of dc. metadata from dto.gov.au (that isn’t actually in the `head <meta>`` section of the live site?) which should also be turned into `code` and not be an image?>
+<img of dc. metadata from dto.gov.au (that isn’t actually in the `head <meta>` section of the live site?) which should also be turned into `code` and not be an image?>
 
 <img screencap of the DTO metadata being used in the google search listing>
 
