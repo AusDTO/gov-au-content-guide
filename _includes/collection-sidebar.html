@@ -4,23 +4,23 @@
     {% assign c = site.collections | where:'label',the-collection | first %}
 
     {% for doc in c.docs %}
-      {% if doc.layout == "collection-index" %}
+    {% if doc.layout == "collection-index" %}
     <li class="nav-item">
       <a href="{{ doc.url}}">
         {{ doc.title}}
       </a>
     </li>
-      {% endif %}
+    {% endif %}
     {% endfor %}
 
     {% for doc in c.docs %}
-      {% if doc.layout == "collection-item" %}
+    {% if doc.layout == "collection-item" %}
     <li class="nav-item">
-      <a href="{{ doc.url }}">
+      <a href="{{ doc.url }}.html">
         {{ doc.title }}
       </a>
     </li>
-      {% endif %}
+    {% endif %}
     {% endfor %}
 
   </ul>
