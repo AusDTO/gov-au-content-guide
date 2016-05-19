@@ -34,7 +34,7 @@
 
 $dto-desat-blue: #244A61;
 $dto-colour: #015a96;
-$dto-light-gray: #F3F3F3;
+$dto-light-gray: #f0f3f5;
 $core-white: #ffffff;
 $core-black: #000000;
 
@@ -248,7 +248,7 @@ nav.primary {
 
   @include media (max-width $large-screen) {
     .nav-link:not(.current) {
-      background: #F0F3F5;
+      background: $dto-light-gray;
     }
   }
 
@@ -272,7 +272,7 @@ nav.primary {
       }
 
       &:hover {
-        background: darken(#F0F3F5, 3%);
+        background: darken($dto-light-gray, 3%);
         border-bottom: 4px solid #244A61;
       }
     }
@@ -292,7 +292,7 @@ nav.primary {
 
       @include media (min-width $large-screen) {
         &:hover {
-          background: darken(#F0F3F5, 3%);
+          background: darken($dto-light-gray, 3%);
           border-bottom: 4px solid #244A61;
         }
       }
@@ -308,7 +308,7 @@ nav.primary {
   }
 
   @include media (max-width $large-screen) {
-    background: darken(#F0F3F5, 3%);
+    background: darken($dto-light-gray, 3%);
     border-bottom: 4px solid #244A61;
 
     a {
@@ -372,7 +372,7 @@ nav.secondary {
       &:not(.is-expanded ) {
         &:hover,
         &:active {
-          background: #F0F3F5;
+          background: $dto-light-gray;
         }
       }
       &.is-expanded {
@@ -390,7 +390,7 @@ nav.secondary {
 
         &:hover,
         &:active {
-          background: #F0F3F5;
+          background: $dto-light-gray;
           color: #000000;
           border-left: 2px solid black;
         }
@@ -446,7 +446,7 @@ nav.secondary {
   $base-spacing: 1.5em !default;
   $base-font-color: white !default;
   $accordion-menu-background: #232D35;
-  $accordion-menu-sub-background: #F0F3F5;
+  $accordion-menu-sub-background: $dto-light-gray;
   $accordion-menu-list-padding: ($base-spacing / 2) $gutter;
 
   background-color: $accordion-menu-background;
@@ -519,6 +519,12 @@ nav.secondary {
 
   h2 {
     font-weight: normal;
+  }
+
+  blockquote {
+    margin-left: 0;
+    padding: ($small-spacing / 4) $base-spacing;
+    background-color: $dto-light-gray;
   }
 }
 
