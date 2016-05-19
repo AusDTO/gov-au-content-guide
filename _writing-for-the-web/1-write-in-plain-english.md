@@ -54,4 +54,4 @@ Write as your users talk rather than how government speaks internally. Keep it c
 
 Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third, fourth etc language.
 
-Consider whether the information should also be provided in appropriate community language—a good idea if there are compliance requirements.
+Consider whether the information should also be provided in appropriate community language. This is a good idea if there are compliance requirements.
