@@ -10,7 +10,9 @@ module Jekyll
       entry_file(input).gsub(/-/," ").titleize
     end
     def first_letter(input)
-      entry_file(input)[0].upcase
+      if entry_file(input)[0] != nil
+        entry_file(input)[0].upcase
+      end
     end
   end
 end

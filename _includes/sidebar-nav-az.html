@@ -7,6 +7,7 @@
     </li>
 
     {% assign prev_letter = "Z" %}
+    {% assign current_letter = page.path | replace: "az-indexes/", "" | replace: "az-guide", "" | first_letter %}
     {% for entry in site.entries %}
     {% assign letter = {{entry.path | entry_heading | first_letter }}%}
     {% if letter != prev_letter %}
@@ -16,10 +17,10 @@
     {% endif %}
 
     <li class="nav-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger">
+      <a href="javascript:void(0)" class="js-accordion-trigger" >
         {{ letter }}
       </a>
-      <ul class="sub-nav submenu" id="{{ letter }}-index">
+      <ul class="sub-nav submenu" id="{{ letter }}-index" {% if letter != current_letter %} style="display: none;" {%endif%}>
       {% assign prev_letter = letter %}
     {% endif %}{% comment %} closes if letter != prev_letter {% endcomment %}
       <li class="nav-item">
