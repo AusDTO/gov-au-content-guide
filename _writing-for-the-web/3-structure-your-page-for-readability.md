@@ -6,7 +6,7 @@ permalink: /:collection/:title
 published: true
 ---
 
-**Pages that are badly structured and difficult to scan often get unread, especially if people are reading off a mobile or tablet screen. Lead the user through your information by following these points.**
+**Pages that are badly structured and difficult to scan are often ignored, especially if your users are reading on a mobile or tablet screen. Lead the user through your information by following these points.**
 
 ### Identify the aim
 
@@ -18,27 +18,27 @@ Don't waste the reader's time by burying what's most relevant to their needs at 
 
 ### Use headings and subheadings
 
-Headings are signposts in text and navigational aids. Readers use headings to scan content and to gauge the relationship between and importance of sections of text.
+Headings are signposts in text and navigational aids. Readers use headings to scan content and to gauge the relationship between, and importance of, sections of text.
 
 When designing the flow of information on a web page structure your content with hierarchical headers (H1, H2, H3). Use meaningful text and keywords in headers and links
 
-**Limit levels**
+#### Limit levels
 
 Content should only have 1 top level (H1) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels (H2 and H3).
 
-**Use space**
+#### Use space
 
 To aid readability and comprehension, use headings to break up text and draw in the reader.
 
 To support both navigation and access, use a heading at least every 100 words or so (every 2 to 3 paragraphs).
 
-**Be interesting**
+#### Be interesting
 
 Make headings specific enough to catch the reader’s attention. You should either provide information or raise a query.
 
 Avoid meaningless words for headings such as general, miscellaneous, other, or more.
 
-**Keep it short**
+#### Keep it short
 
 Try to limit headings to less than 1 line. Headings that spill over to a second line are harder to read and to recall.
 

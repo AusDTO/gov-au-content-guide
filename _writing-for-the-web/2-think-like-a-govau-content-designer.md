@@ -8,7 +8,7 @@ published: true
 
 **What exactly is a content designer?**
 
-At GOV.AU a content designer is both a writer and editor who understands the web and its users. We work across a multi-disciplinary team to help create purposeful government services that feature simpler, clearer and faster information.
+At GOV.AU a content designer is both a writer and editor who understands the web and its users. We work as part of a multi-disciplinary team to help create purposeful government services that feature simpler, clearer and faster information.
 
 A content designer at GOV.AU analyses every piece of content based on what the user needs to know.
 
@@ -46,4 +46,4 @@ This is fantastic in that content people get to be part of the conversation and 
 
 And when it comes to the final stages of editing there is more efficiency and co-operation around our changes because we have been part of the conversations and ensuring consensus along the way.
 
-Learn more about [how we work](https://www.dto.gov.au/standard/design-guides/agile/ "Agile how we work")
+Learn more about [how we work](https://www.dto.gov.au/standard/design-guides/agile/ "Agile how we work").
