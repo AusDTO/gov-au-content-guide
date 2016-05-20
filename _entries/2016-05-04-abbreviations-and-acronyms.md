@@ -17,7 +17,7 @@ Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers.
 
 > 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW.
 
-Do not use punctuation for eg, ie and etc.
+Do not use punctuation for eg ie and etc.
 
 But when starting a sentence use ‘For example … ’ and ‘That is …’
 
@@ -27,18 +27,19 @@ For honours, awards and distinctions, write the abbreviation without full stops.
 
 **For example**
 
-> AO, OM, BA, DipEd, PhD
+> AO, OM, BA, DipEd, PhD.
 
 When referring to people and animals use the words million, trillion and billion. For numbers upwards of 1 million use the abbreviation m, bn and tn. Use the abbreviation m, bn and tn in headings, tables and graphics.
 
-For temperature use the abbreviation.
+For temperature use the abbreviation:
 
 **For example**
 
 > A temperature of 2C is about the same as 36F.
 
-Don’t use an acronym unless the full name has already been said once.
+Don’t use an acronym unless the full name has already been said once:
 
+**For example**
 
 > Digital Transformation Office (DTO).
 
@@ -46,7 +47,7 @@ If an acronym is well known to an Australian audience, eg NSW or ABC, there is n
 
 Most acronyms for companies or organisations are uppercase with the exception of Anzac.
 
-Don’t use full stops in acronyms
+Don’t use full stops in acronyms:
 
 **For example**
 
