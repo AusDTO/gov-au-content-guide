@@ -6,7 +6,7 @@ permalink: /:collection/:title
 published: true
 ---
 
-**Pages that are badly structured and difficult to scan are often ignored, especially if your users are reading on a mobile or tablet screen. Lead the user through your information by following these points.**
+**Pages that are badly structured and difficult to scan are often ignored, especially if users are reading on a mobile or tablet screen. Lead the user through your information by following these points.**
 
 ### Identify the aim
 
@@ -42,7 +42,7 @@ Avoid meaningless words for headings such as general, miscellaneous, other, or m
 
 Try to limit headings to less than 1 line. Headings that spill over to a second line are harder to read and to recall.
 
-### Chunk information into short paragraphs
+### Chunk in short paragraphs
 
 A paragraph is a section of text that contains a single idea.
 
