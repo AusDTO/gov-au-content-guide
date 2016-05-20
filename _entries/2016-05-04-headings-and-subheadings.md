@@ -13,19 +13,23 @@ Keep them short. Google’s display of a page title typically cuts out at 55 cha
 
 Start headings and subheadings with keywords that help your user make a connection. This is called frontloading.
 
+**For example**
+
 > Continue iterating the Digital Service Standard
 
 Break up a page with useful subheadings that guide the user and help them to know the importance of and relationship between sections of text.
 
 Avoid meaningless words such as more, related information etc. Instead state what you are describing.
 
-**Like this**
+**For example**
 
-> ### Smart cities in Europe
+Like this
 
-**Not this**
+> Smart cities in Europe
 
-> ### More information
+Not this
+
+> More information
 
 Use an initial capital then lower case (sentence casing), eg Common tax mistakes, except when using proper nouns.
 
