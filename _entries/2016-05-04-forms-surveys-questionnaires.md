@@ -17,18 +17,17 @@ Call the form something which explains the task and add a short description.
 
 > Title: School enrolment form
 >
-> Brief description: Enrol your child in a NSW public school
+> Brief description: Enrol your child in a NSW public school.
 
 Be helpful. If extra documents are required to complete the form, offer a list under a subheading.
 
 **For example**
 
 > What you need to complete this form
-
-> - Driver’s licence
-> - Passport
-> - Birth certificate
-> - Utilities bill.
+- Driver’s licence
+- Passport
+- Birth certificate
+- Utilities bill.
 
 If you are collecting personal details, preface with a sentence to reassure them.
 
@@ -38,7 +37,7 @@ If you are collecting personal details, preface with a sentence to reassure them
 
 Forms should be tested for usability and accessibility.
 
-If a form is to be printed, scanned or emailed, provide a contact support phone number alongside a PDF download.
+If a form is to be and printed, scanned or emailed, provide a contact support phone number alongside the PDF.
 
 ### Surveys and questionnaires
 
