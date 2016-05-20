@@ -5,7 +5,7 @@ related:
 published: true
 ---
 
-##  Consider placement
+### Consider placement
 
 Add hyperlinks wherever they are most useful to the user. This includes within paragraphs -- although be aware of overcrowding paragraphs with too many links as this can affect readability.
 
@@ -13,7 +13,7 @@ Grouping links together at the bottom of a page (and not within the text) can di
 
 As always, think about your users and their context when reading the information. Think helpful. Be precise.
 
-##  Link within the paragraph
+### Link within the paragraph
 
 Users scan links on web pages looking for the pieces of information they need.
 
@@ -21,23 +21,22 @@ To be useful and accessible, embed the URL and make sure the words are precise a
 
 **For example**
 
-> Teachers can [attend education forums](#) outside class time.
-
+> Teachers can [attend education forums] outside class time.
 Don’t make the link too long. Only link the keywords.
 
-**Use this**
+Use this
 
-> Attend next month’s [workshop for developers and writers](#) in Brisbane.
+> Attend next month’s [workshop for developers and writers] in Brisbane.
 
-**Not this**
+Not this
 
-> [Attend a Brisbane workshop for developers and writers next month](#).
+> [Attend a Brisbane workshop for developers and writers next month].
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
-##  Drop the http://
+### Drop the http://
 
-When referencing a website, drop the `http://` prefix.
+When referencing a website, drop the 'http://' prefix.
 
 **For example**
 
@@ -47,4 +46,4 @@ Include a hyperlink with any emails, without including the ‘mailto:’ prefix.
 
 **For example**
 
-> [belinda.blogs@dto.com.au](#)
+> [belinda.blogs@dto.com.au]
