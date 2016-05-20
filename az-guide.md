@@ -1,6 +1,6 @@
 ---
 layout: az-index/az-overview
-title: "A to Z style guide"
+title: "A to Z"
 abstract: "A modern A to Z style guide with examples for online content creators."
 published: true
 ---
@@ -21,10 +21,10 @@ We welcome this guide being adopted across government and hope that it is a star
 
 ## Why is this guide being released as a draft?
 
-We believe that making things open, makes them better. It’s one of [our design principles](https://www.dto.gov.au/standard/design-principles/ "DTO design principles"). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
+We believe that making things open makes them better. It’s one of the [Digital Transformation Office design principles](https://www.dto.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
 
 ## Please give feedback
 
-Email [libby.varcoe@digital.gov.au](mailto:libby.varcoe@digital.gov.au) GOV.AU Content Design Lead.
+Email [gov.au-guide@digital.gov.au](mailto:gov.au-guide@digital.gov.au)
 
 You can also join our [Content Design in Government Google Group.](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government "Content Design in Government Google Group")
