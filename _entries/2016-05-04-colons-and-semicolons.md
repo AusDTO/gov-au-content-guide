@@ -8,17 +8,19 @@ published: true
 
 Use a colon to lead into a bulleted list after a sentence fragment. Don’t use semicolons at the end of each point.
 
-**Like this**
+**For example**
 
-> The ministers’ community consultations were held in:
->
+Like this
+
+> The ministers’ community consultations were held in: 
+> 
 > Wagga Wagga
 > Toowoomba
 > Boggabilla
 > Coober Pedy
 > Lismore.
 
-**Not like this**
+Not like this
 
 > The ministers’ community consultations were held in:
 >
