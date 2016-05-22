@@ -27,11 +27,11 @@ Not like this
 > Wagga Wagga;
 > Toowoomba;
 > Boggabilla;
-> Coober Pedy;
+> Coober Pedy; and
 > Lismore.
 
 You can use a colon in a sentence fragment (but bullet lists are more accessible and long sentences can reduce readability).
 
 **For example**
 
-> The community reported they were considering: green solutions, cultural festivals, bush-regeneration programs.
+> The community reported they were considering: green solutions, cultural festivals and bush-regeneration programs.

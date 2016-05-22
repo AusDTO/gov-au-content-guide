@@ -23,11 +23,11 @@ Be helpful. If extra documents are required to complete the form, offer a list u
 
 **For example**
 
-> What you need to complete this form
-- Driver’s licence
-- Passport
-- Birth certificate
-- Utilities bill.
+> What you need to complete this form:
+> - driver’s licence
+> - passport
+> - birth certificate
+> - utilities bill.
 
 If you are collecting personal details, preface with a sentence to reassure them.
 
@@ -51,7 +51,7 @@ Use the title to remind the user what they are being asked about.
 >
 > Brief description: Have your say about our proposed new canteen menu.
 
-Indicate how how long it will take to complete.
+Indicate how long it will take to complete.
 
 Questions are deceptively hard to write.
 

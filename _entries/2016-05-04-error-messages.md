@@ -23,4 +23,4 @@ Personalise the message with an apology and redirect the page back to the homepa
 
 **For example**
 
-> Sorry this page no longer exists. Please return to the homepage.
+> Sorry this page no longer exists. Please [return to the homepage]().
