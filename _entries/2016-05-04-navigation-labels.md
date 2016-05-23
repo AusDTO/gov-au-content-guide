@@ -1,12 +1,17 @@
 ---
-title: "Navigation labels"
-related: [accessibility, hyperlinks, keywords, links]
+title: Navigation labels
+related: 
+  - accessibility
+  - hyperlinks
+  - keywords
+  - links
+published: true
 ---
 
-Well written navigation labels are intuitive, reflective of the user’s needs and never ambiguous.
+Well written navigation labels reflect the needs of the user and aren't difficult to understand.
 
-Keyword analysis tools can be helpful when selecting navigation labels.
+Tools that analyse keywords can be helpful when choosing navigation labels.
 
-A label predicts the page it is linking to, and is often the same word or phrase.
+A navigation label predicts the page it is linking to, and is often the same word or phrase.
 
-Use sentence casing, except where a proper noun.
+Use sentence casing except where there is a proper noun.

@@ -30,7 +30,7 @@ Not like this
 > Coober Pedy; and
 > Lismore.
 
-You can use a colon in a sentence fragment (but bullet lists are more accessible and long sentences can reduce readability).
+You can use a colon in a sentence fragment (but bullet point lists are more accessible and long sentences can reduce readability).
 
 **For example**
 

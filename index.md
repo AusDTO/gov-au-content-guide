@@ -9,7 +9,7 @@ published: true
 
 This is a draft of a new guide designed to help government teams create simpler, clearer and faster information. It captures the latest thinking in online content with a strong focus on accessibility.
 
-Please give feedback: email [gov.au-guide@digital.gov.au](mailto:gov.au-guide@digital.gov.au)
+Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
 
 ## Who is it for?
 
@@ -23,7 +23,7 @@ We believe that making things open makes them better. It’s one of the [Digital
 
 ## How is this guide related to the Digital Service Standard?
 
-The [Digital Service Standard](https://www.dto.gov.au/standard/) requires teams to build services using a [style guide for online content](https://www.dto.gov.au/standard/6-consistent-and-responsive/). This is the first release of guidance that will become the style guide for digital content.
+The [Digital Service Standard](https://www.dto.gov.au/standard/) requires teams to build services using a [style guide for online content](https://www.dto.gov.au/standard/6-consistent-and-responsive/). This is the first release of guidance that will eventually become the style guide for digital content.
 
 ## How was this guide put together?
 

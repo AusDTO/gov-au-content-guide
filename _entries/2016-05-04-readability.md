@@ -1,10 +1,12 @@
 ---
-title: "Readability"
-related: [plain-english]
+title: Readability
+related: 
+  - "plain-english"
+published: true
 ---
 
-46% of Australians have a low-literacy skills rating. (Australian Bureau of Statistics, 2009).
+46% of Australians have a low literacy skills rating (Australian Bureau of Statistics, 2009).
 
-Shorter words, sentences and paragraphs enhance readability.
+Shorter words, sentences and paragraphs increase the readability of content.
 
-Write less and better and organise your content around the needs of the user.
+To write better, write less and structure content around the needs of the user.

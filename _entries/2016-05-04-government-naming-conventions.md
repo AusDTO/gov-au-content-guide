@@ -79,11 +79,11 @@ When space is limited, such as in a table or to avoid lengthy repetitions, use c
 
 **For example**
 
-> Australian Capital Territory -- ACT
-> New South Wales -- NSW
-> Northern Territory -- NT
-> Queensland -- Qld
-> South Australia -- SA
-> Tasmania -- Tas.
-> Victoria -- Vic.
-> Western Australia -- WA
+> ACT
+> NSW
+> NT
+> Qld
+> SA
+> Tas.
+> Vic.
+> WA
