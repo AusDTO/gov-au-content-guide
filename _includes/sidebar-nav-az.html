@@ -16,7 +16,7 @@
     </ul>
     {% endif %}
 
-    <li class="nav-item">
+    <li class="nav-item {% if letter == current_letter %}current{%endif%}">
       <a href="javascript:void(0)" class="js-accordion-trigger" >
         {{ letter }}
       </a>
