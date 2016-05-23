@@ -25,6 +25,6 @@ Contractions that include the first and last letter of a word don’t need a ful
 
 **For example**
 
-> Dept
+> Ms
 > Pty Ltd
 > Dr

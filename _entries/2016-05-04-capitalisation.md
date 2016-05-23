@@ -39,7 +39,7 @@ All legislation, publications, policies, programs and reports.
 
 **For example**
 
-> the Government Information Public Access Act, then the Act.
+> the Government Information Public Access Act, then the Act
 
 Places that are descriptive 
 

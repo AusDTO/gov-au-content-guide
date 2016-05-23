@@ -15,7 +15,7 @@ Start headings and subheadings with keywords that help your user make a connecti
 
 **For example**
 
-> Continue iterating the Digital Service Standard
+> Digital communities of practice
 
 Break up a page with useful subheadings that guide the user and help them to know the importance of and relationship between sections of text.
 
