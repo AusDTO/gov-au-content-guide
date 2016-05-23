@@ -9,7 +9,7 @@ published: true
 
 This is a draft of a new guide designed to help government teams create simpler, clearer and faster information. It captures the latest thinking in online content with a strong focus on accessibility.
 
-Please give feedback: email [gov.au-guide@digital.gov.au](mailto:gov.au-guide@digital.gov.au)
+Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
 
 ## Who is it for?
 

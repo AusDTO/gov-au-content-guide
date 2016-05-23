@@ -22,3 +22,7 @@ We welcome this guide being adopted across government and hope that it is a star
 ## Why is this guide being released as a draft?
 
 We believe that making things open makes them better. It’s one of the [Digital Transformation Office design principles](https://www.dto.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
+
+## Give feedback
+  
+Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
