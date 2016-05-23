@@ -9,7 +9,7 @@ It uses language that is as simple as the user needs it to be.
 
 Avoid jargon so the user can understand plain English the first time they read it.
 
-Always choose the shorter, plain English word, term, sentence and paragraph over the longer.
+Always choose the shorter plain English word, term, sentence and paragraph over the longer.
 
 | Not this                                                                                                        | Like this                                  |
 |-----------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -84,7 +84,7 @@ Always choose the shorter, plain English word, term, sentence and paragraph over
 | subsequently                                                                                                    | after                                      |
 | table (verb) - unless tabling a document in parliament                                                          | address, discuss, release                  |
 | that is the reason why                                                                                          | that is why, the reason why                |
-| the department                                                                                                  | the Department of xxx, then we/ us         |
+| the department                                                                                                  | the Department of xxx, then we/us         |
 | the way in which                                                                                                | how                                        |
 | the reason is because                                                                                           | because, the reason is                     |
 | thereafter                                                                                                      | then, afterwards                           |

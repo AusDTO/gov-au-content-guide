@@ -9,7 +9,7 @@ related:
 published: true
 ---
 
-When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs -- while not stereotyping or making assumptions.
+When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs--while not stereotyping or making assumptions.
 
 Avoid jargon and limit contractions.
 
@@ -19,12 +19,12 @@ Avoid discriminatory language that treats some people differently from others.
 
 ### Preferred terms
 
-- People with disability -- not people with a disability, or disabled or handicapped people.
+- People with disability, not people with a disability, or disabled or handicapped people
 - Intellectually impaired, not intellectually disabled
-- Hearing impaired not deaf
-- Visually impaired not blind
-- Older people or seniors not pensioners, old-age pensioners or the aged
-- Young people not youth or juveniles
+- Hearing impaired, not deaf
+- Visually impaired, not blind
+- Older people or seniors, not pensioners, old-age pensioners or the aged
+- Young people, not youth or juveniles
 
 ### Diversity
 
@@ -43,7 +43,7 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 
 **Other links**
 
-- [DTO Design guides -- Inclusive Services](https://www.dto.gov.au/standard/design-guides/inclusive-services/ "DTO Design guides - Inclusive Services")
-- [Australian Network On Disability -- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html "Australian Network On Disability - Inclusive Language")
-- [People with disability -- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html "People with disability - Guide to Reporting Disability")
-- [Arts Access Australia -- Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language "Arts Access Australia - Advice on Disability Language")
+- [DTO Design guides -- Inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
+- [Australian Network On Disability -- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html)
+- [People with disability -- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
+- [Arts Access Australia -- Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)

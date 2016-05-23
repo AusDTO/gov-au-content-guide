@@ -5,4 +5,4 @@ related:
 published: true
 ---
 
-Use bullet points instead of numbered lists.
+Use bullet point lists instead of numbered lists.

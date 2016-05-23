@@ -17,11 +17,11 @@ Tell the user what the page is about and who it's for.
 
 ### Use headings and subheadings
 
-Break up blocks of text and draw in the reader with short, interesting, headings. But remember: readers will lose track if there are too many heading levels.
+Break up blocks of text and draw in the reader with short interesting headings. But remember: readers will lose track if there are too many heading levels.
 
 ### Write short paragraphs
 
-Avoid long blocks of text and limit to one idea per paragraph. Where possible, look to insert a paragraph break every 1-2 sentences, depending on their length.
+Avoid long blocks of text and limit to one idea per paragraph. Where possible, insert a paragraph break every 1-2 sentences, depending on their length.
 
 ### Use bullet point lists
 
@@ -29,4 +29,4 @@ Break up long sentences with lists, making it easier for your reader to understa
 
 ### Make your calls-to-action clear
 
-Ensure your calls-to-action are visually prominent, user-friendly terms.
+Ensure your calls-to-action are visually prominent and contain user-friendly terms.

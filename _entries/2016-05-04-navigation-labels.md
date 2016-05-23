@@ -14,4 +14,4 @@ Tools that analyse keywords can be helpful when choosing navigation labels.
 
 A navigation label predicts the page it is linking to, and is often the same word or phrase.
 
-Use sentence casing, except where there is a proper noun.
+Use sentence casing except where there is a proper noun.

@@ -23,7 +23,7 @@ We believe that making things open makes them better. It’s one of the [Digital
 
 ## How is this guide related to the Digital Service Standard?
 
-The [Digital Service Standard](https://www.dto.gov.au/standard/) requires teams to build services using a [style guide for online content](https://www.dto.gov.au/standard/6-consistent-and-responsive/). This is the first release of guidance that will become the style guide for digital content.
+The [Digital Service Standard](https://www.dto.gov.au/standard/) requires teams to build services using a [style guide for online content](https://www.dto.gov.au/standard/6-consistent-and-responsive/). This is the first release of guidance that will eventually become the style guide for digital content.
 
 ## How was this guide put together?
 

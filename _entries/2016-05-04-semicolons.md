@@ -6,21 +6,18 @@ related:
 published: true
 ---
 
-Don’t use. Start a new sentence or create a list of similar ideas or topics or use ie instead.
+Don’t use them. Start a new sentence, create a list of similar ideas or topics, or use ie instead.
 
 **For example**
 
 Like this
 
-> The National Broadband Network offers Australians:
-- productivity
-- innovation
-- global connection.
+[Example to come]
 
 Or this
 
-> The National Broadband Network offers Australians new opportunities ie productivity, innovation and global connections.
+[Example to come]
 
 Not this
 
-> The National Broadband Network offers a new age of productivity; innovation; and global connection for Australians.
+[Example to come]
