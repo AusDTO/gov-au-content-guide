@@ -181,10 +181,12 @@ h1.page-heading {
   color: white;
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
   border-radius: 1px;
+  border: none;
 
   &:hover {
     background-color: darken($dto-guide-desat-light-blue, 15%);
     color: white;
+    border: none;
   }
 }
 
@@ -529,8 +531,7 @@ nav.secondary {
 }
 // end style guide info panel
 
-article.main-content,
-.entry {
+article {
   h2 {
     font-weight: 300;
     font-size: 3.6em; // normally 4.8
@@ -565,6 +566,22 @@ article.main-content,
     margin: auto ($small-spacing / 6);
     padding: ($small-spacing / 6) ($small-spacing / 4);
     border-radius: 2px;
+  }
+}
+
+article a,
+section a,
+header a,
+footer a {
+  text-decoration: none;
+  padding: 1px 2px;
+  border-bottom: 1px solid lighten($dto-guide-desat-light-blue, 10%);
+
+  &:hover,
+  &:focus {
+    border-bottom: 1px solid darken($dto-guide-desat-light-blue, 5%);
+    background-color: #F9FDA2;
+    color: black;
   }
 }
 
@@ -781,16 +798,15 @@ nav#homepage-feature {
 }
 
 .bullets {
-  $base-line-height: 1.5em !default;
   $action-color: #477DCA !default;
   $dark-gray: #333 !default;
   $base-font-color: $dark-gray !default;
-  $icon-bullet-size: 3.5em;
+  $icon-bullet-size: 3.2em;
 
   display: flex;
   flex-wrap: wrap;
   margin: 1em;
-  margin-bottom: $base-line-height;
+  margin-bottom: $base-leading;
   overflow: auto;
   padding: 0;
 
@@ -827,7 +843,6 @@ nav#homepage-feature {
   }
 
   h2 {
-    border-bottom: 1px solid transparentize($base-font-color, 0.8);
     display: inline-block;
     font-size: $icon-bullet-size / 2.5;
     margin: 0 0 ($icon-bullet-size / 6) 0;
