@@ -5,8 +5,8 @@ related:
 published: true
 ---
 
-For temperature use the abbreviation instead of spelling out the word
+Use the abbreviation C instead of spelling out the word celsius.
 
 **For example**
 
-> A temperature of 2C is about the same as 36F.
+> Today we experienced an average temperature of 2C.
