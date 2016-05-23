@@ -1,6 +1,6 @@
 ---
 title: Hyperlinks
-related: 
+related:
   - links
 published: true
 ---
@@ -21,30 +21,30 @@ To be useful and accessible, embed the link text and make sure the words are pre
 
 **For example**
 
-> Teachers can [attend education forums] outside class time.
+> Teachers can [attend education forums](#) outside class time.
 
 Don’t make the link too long. Only link the keywords.
 
 Use this
 
-> Attend next month’s [workshop for developers and writers] in Brisbane.
+> Attend next month’s [workshop for developers and writers](#) in Brisbane.
 
 Not this
 
-> [Attend a Brisbane workshop for developers and writers next month].
+> [Attend a Brisbane workshop for developers and writers next month](#).
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
 ### Drop the http://
 
-When referencing a website, drop the 'http://' prefix.
+When referencing a website, drop the `http://` prefix.
 
 **For example**
 
 > The Digital Transformation Office’s website is [www.dto.gov.au](https://www.dto.gov.au/).
 
-Include a hyperlink with any emails, without including the ‘mailto:’ prefix.
+Include a hyperlink with any emails, without including the `mailto:` prefix.
 
 **For example**
 
-> [belinda.blogs@dto.com.au]
+> [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au)

@@ -13,8 +13,9 @@ layout: default
   <article class="main-content" id="commentable-area">
 
     {% assign current_letter = page.path | replace: "az-indexes/", "" | first_letter %}
-
-    <h1 class="page-heading">Index: {{ current_letter | capitalize }}</h1>
+    <header>
+      <h1 class="page-heading">Index: {{ current_letter | capitalize }}</h1>
+    </header>
 
     {% for entry in site.entries %}
     {% assign letter = {{entry.path | entry_heading | first_letter }}%}
