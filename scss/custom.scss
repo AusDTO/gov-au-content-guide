@@ -305,10 +305,10 @@ nav.primary {
 }
 
 .current {
-  a {
-    background: rgba(155,154,155,0.08);
-    border-bottom: 4px solid #244A61;
-    font-weight: 700;
+  a.js-accordion-trigger {
+    background: rgba(155,154,155,0.1);
+    border-bottom: 2px solid darken($dto-light-gray, 25%);
+    font-weight: bold;
   }
 
   @include media (max-width $large-screen) {
@@ -368,8 +368,7 @@ nav.secondary {
     margin-bottom: 0;
 
     li.nav-item {
-      border-left: 2px solid white;
-      border-top: 1px solid rgba(34,44,53,0.20);
+      border-top: 1px solid darken($dto-light-gray, 15%);
       margin-bottom: 0;
       border-left: 2px solid transparent;
 
