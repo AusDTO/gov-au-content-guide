@@ -25,23 +25,19 @@
 </footer>
 </div> <!--this is really confusing! We should try to make sure all divs open and close in the same file -->
 </div>
+
+<script>
+  smoothScroll.init();
+  </script>
 <!--VENDOR SCRIPTS -->
-<script src="/js/inlineDisqussions.js"></script>
+
 <!--CUSTOM SCRIPTS -->
 <script src="{{ "/js/accordion.js" | prepend: site.baseurl }}"></script>
 
+{% comment %}
+<script src="/js/inlineDisqussions.js"></script>
 <link rel="stylesheet" href="/css/inlineDisqussions.css" type="text/css"/>
     <script>
-    smoothScroll.init();
-
-$(function(){
-  $("a").each(function(){
-    if ($(this).attr("href") == window.location.pathname){
-      $(this).addClass("current");
-    }
-  });
-});
-
 //add comments
 // to add comments to a page or section the container needs to have the ID 'add-discussions'
 // comments are added to every p element in a container element with that ID
@@ -53,3 +49,4 @@ jQuery(document).ready(function(){
 });
 
 </script>
+{% endcomment %}
