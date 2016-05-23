@@ -306,16 +306,16 @@ nav.primary {
 
 .current {
   a {
-    background: rgba(155,154,155,0.1);
-    //border-bottom: 4px solid #244A61;
-    //font-weight: 700;
+    background: rgba(155,154,155,0.08);
+    border-bottom: 4px solid #244A61;
+    font-weight: 700;
   }
 
   @include media (max-width $large-screen) {
     background: darken($dto-light-gray, 3%);
     border-bottom: 4px solid #244A61;
 
-    a {
+    a.js-accordion-trigger {
       background: transparent;
       border-bottom: transparent;
     }
