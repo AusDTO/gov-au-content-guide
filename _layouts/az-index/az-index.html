@@ -6,7 +6,7 @@ layout: default
 
 <main class="wrapper">
 
-  <aside>
+  <aside class="sidebar">
     {% include sidebar-nav-az.html %}
   </aside>
 
@@ -25,6 +25,13 @@ layout: default
       <h2>{{ entry.title }}</h2>
 
       {{ entry.output }}
+
+
+      <aside class="entry-meta">
+        <a class="button button--commenting" href="https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government">
+          Add feedback
+        </a>
+      </aside>
 
     </div>
 

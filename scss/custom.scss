@@ -76,7 +76,7 @@ header {
     color: $core-black;
     padding-top: 8em;
     padding-bottom: 5em;
-    border-bottom: 2px solid darken($dto-light-gray, 15%);
+    border-bottom: 2px solid darken($dto-light-gray, 10%);
     margin-bottom: 5em;
 
     h1 {
@@ -112,7 +112,7 @@ article {
   margin-top: 120px;
 }
 
-aside {
+aside.sidebar {
   @include span-columns(3 of 12);
 }
 
@@ -161,28 +161,32 @@ h1.page-heading {
 //   Some of this may be abstracted into partials and/or ui-core.
 
 .button {
-  padding: $small-spacing;
+  padding: ($small-spacing / 2) ($small-spacing * 1.5);
   border: none;
-  height: 5em;
   text-align: center;
   text-decoration: none;
-  background-color: #13365e;
+  background-color: #1b8197;
   color: lighten(#13365e, 85%);
-  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.50);
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
+  border-radius: 1px;
 
   &:hover {
-    background-color: lighten(#13365e, 10%);
+    background-color: darken(#1b8197, 15%);
     color: white;
   }
 }
 
-//.button-download::before {
-//  color: black;
-//  content: '\f019';
-//  font-family: 'FontAwesome';
-//  position: relative;
-//  right: 17px;
-//}
+.button--commenting {
+  padding-left: $base-spacing;
+
+  &::before {
+    color: white;
+    content: '\f075';
+    font-family: 'FontAwesome';
+    position: relative;
+    right: $small-spacing / 2;
+  }
+}
 
 // style guide header
 
@@ -302,9 +306,9 @@ nav.primary {
 
 .current {
   a {
-    background: rgba(155,154,155,0.08);
-    border-bottom: 4px solid #244A61;
-    font-weight: 700;
+    background: rgba(155,154,155,0.1);
+    //border-bottom: 4px solid #244A61;
+    //font-weight: 700;
   }
 
   @include media (max-width $large-screen) {
@@ -515,7 +519,9 @@ nav.secondary {
 // end style guide info panel
 
 .entry {
-  margin-bottom: 2em;
+  margin-bottom: $base-spacing * 3;
+  padding-bottom: $base-spacing * 2.5;
+  border-bottom: 2px solid darken($dto-light-gray, 10%);
 
   h2 {
     font-weight: normal;
@@ -525,6 +531,13 @@ nav.secondary {
     margin-left: 0;
     padding: ($small-spacing / 4) $base-spacing;
     background-color: $dto-light-gray;
+  }
+
+  aside.entry-meta a.button {
+    display: inline-block;
+    margin-top: $base-spacing * 2;
+    font-size: 1.6em;
+    text-shadow: #000 1px 0 0;
   }
 }
 
