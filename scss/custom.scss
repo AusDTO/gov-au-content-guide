@@ -35,6 +35,7 @@
 $dto-desat-blue: #244A61;
 $dto-colour: #015a96;
 $dto-light-gray: #f0f3f5;
+$dto-guide-desat-light-blue: #1b8197;
 $core-white: #ffffff;
 $core-black: #000000;
 
@@ -67,6 +68,17 @@ header {
       font-size: 2.4em;
       margin: 0;
     }
+    span.badge {
+      background-color: $dto-guide-desat-light-blue;
+      margin-left: ($small-spacing / 2);
+      vertical-align: text-top;
+      padding: ($small-spacing / 4) $small-spacing;
+      border-radius: 14px;
+      color: white;
+      font-size: 0.5em;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+    }
   }
 
   &#hero {
@@ -83,7 +95,7 @@ header {
       font-weight: 700;
     }
 
-    p.site-title-version {
+    p.guide-description {
       font-size: 2.1em;
       margin: 0;
     }
@@ -165,13 +177,13 @@ h1.page-heading {
   border: none;
   text-align: center;
   text-decoration: none;
-  background-color: #1b8197;
+  background-color: $dto-guide-desat-light-blue;
   color: white;
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
   border-radius: 1px;
 
   &:hover {
-    background-color: darken(#1b8197, 15%);
+    background-color: darken($dto-guide-desat-light-blue, 15%);
     color: white;
   }
 }
@@ -522,7 +534,7 @@ article.main-content,
   h2 {
     font-weight: normal;
     font-size: 3.6em; // normally 4.8
-    color: #1b8197;
+    color: $dto-guide-desat-light-blue;
   }
 
   h3 {
