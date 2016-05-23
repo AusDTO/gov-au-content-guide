@@ -14,6 +14,11 @@ module Jekyll
         entry_file(input)[0].upcase
       end
     end
+    def is_collection_item_current(input, doc)
+      if input["slug"] == doc["slug"]
+        "current"
+      end
+    end
   end
 end
 
