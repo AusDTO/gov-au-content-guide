@@ -62,7 +62,7 @@ header {
     z-index: 100;
     top: 0;
 
-    p.site-title-version {
+    p {
       font-weight: 200;
       font-size: 2.4em;
       margin: 0;
@@ -83,7 +83,7 @@ header {
       font-weight: 700;
     }
 
-    p.guide-description {
+    p.site-title-version {
       font-size: 2.1em;
       margin: 0;
     }
@@ -127,18 +127,14 @@ aside.sidebar {
 }
 
 .main-content {
-  @include span-columns(9);
+  //@include span-columns(9);
   margin-top: 120px;
-
-  @include media(max-width 53.75em) {
-    margin-top: 0;
-  }
 
   h2:before {
     display: block;
     content: " ";
     margin-top: -145px;
-    height: 165px;
+    height: 150px;
     visibility: hidden;
 
     @media (max-width: 999px) {
@@ -170,7 +166,7 @@ h1.page-heading {
   text-align: center;
   text-decoration: none;
   background-color: #1b8197;
-  color: lighten(#13365e, 85%);
+  color: white;
   box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.25);
   border-radius: 1px;
 
@@ -360,7 +356,7 @@ aside.navigation-wrapper {
 // style guide secondary navigation
 
 nav.secondary {
-  margin-top: 33em;
+  margin-top: $base-spacing * 15.5;
 
   @media (max-width: 999px) {
     display: none;
@@ -521,13 +517,25 @@ nav.secondary {
 }
 // end style guide info panel
 
+article.main-content,
 .entry {
-  margin-bottom: $base-spacing * 3;
-  padding-bottom: $base-spacing * 2.5;
-  border-bottom: 2px solid darken($dto-light-gray, 10%);
-
   h2 {
     font-weight: normal;
+    font-size: 3.6em; // normally 4.8
+    color: #1b8197;
+  }
+
+  h3 {
+    font-size: 2.4em; // normally 3.6
+  }
+
+  h4 {
+    font-size: 2.1em; // normally 2.4
+  }
+
+  h5 {
+    font-size: 1.8em; // normally 2.1
+    font-weight: bold;
   }
 
   blockquote {
@@ -536,11 +544,27 @@ nav.secondary {
     background-color: $dto-light-gray;
   }
 
+  code,
+  kbd {
+    font-family: $fontface-mono;
+    font-size: 0.875em;
+    background-color: $dto-light-gray;
+    border: 1px solid darken($dto-light-gray, 10%);
+    margin: auto ($small-spacing / 6);
+    padding: ($small-spacing / 6) ($small-spacing / 4);
+    border-radius: 2px;
+  }
+}
+
+.entry {
+  margin-bottom: $base-spacing * 3;
+  padding-bottom: $base-spacing * 2.5;
+  border-bottom: 2px solid darken($dto-light-gray, 10%);
+
   aside.entry-meta a.button {
     display: inline-block;
     margin-top: $base-spacing * 2;
     font-size: 1.6em;
-    text-shadow: #000 1px 0 0;
   }
 }
 
