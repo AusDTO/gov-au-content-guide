@@ -1,29 +1,31 @@
 ---
-title: "Phone numbers"
-related: [numbers]
+title: Phone numbers
+related: 
+  - numbers
+published: true
 ---
 
 Use the following spacing formats, except in forms:
 
-- `6271 1000` (phone numbers within local area)
-- `02 6271 1000` (interstate phone numbers) not `(02) 6721 1000`
-- `61 2 6271 1000` (for international communication)
-- `0410 123 456` (mobile numbers)
-- `1300/1800 123 456` (10 digit numbers)
-- `13 13 13` (6 digit numbers)
+- 6271 1000 for phone numbers in a local area
+- 02 6271 1000 for interstate phone numbers not (02) 6721 1000 
+- 61 2 6271 1000 for australian numbers dialed from overseas
+- 0410 123 456 for mobile numbers
+- 1300/1800 123 456 for 10 digit numbers
+- 13 13 13 for 6 digit numbers
 
-Mobile users of web pages expect that phone numbers lead to direct contact. Remember all web pages can be accessed internationally.
+Users viewing web pages on a mobile device expect that the phone number link that they click on leads to a call been made. Remember all web pages can be accessed internationally.
 
-To link a number include the international dialling prefix.
+To create a link for an international number include the international dialling prefix
 
 **For example**
 
-> <a href="tel:+61262711000">02 6271 1000</a>
+> [61 2 6271 1000](61 2 6271 1000)
 
-It is possible to define the link as a phone number using `tel:` prefixed to the number within the anchor/link, eg
+It's possible to define the phone number as a link by using tel: before the number within the anchor/link
 
-```
-Please contact us on <a href="tel:+61262711000">02 6271 1000</a>
-```
+**For example**
 
-This is treated as an callable number by many mobile devices.
+> Please contact us on [tel:02 6271 1000](tel:02 6271 1000)
+
+This is treated as a number users can click on to call.
