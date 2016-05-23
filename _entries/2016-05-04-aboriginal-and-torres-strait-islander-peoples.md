@@ -9,18 +9,25 @@ Aboriginal and Torres Strait Islander peoples are not 1 homogenous group consist
 
 **Do not use**
 
-- Aboriginals, Aborigine - these words are associated with colonisation and assimilation and are distressing to many people.
-- ATSI -- never use the acronym ATSI. This is considered disrespectful and degrading.
-- Aboriginal and/or Torres Strait Islander Australians
+Aboriginals, Aborigine - these words are associated with colonisation and assimilation and are distressing to many people
+
+ATSI -- never use the acronym ATSI. This is considered disrespectful and degrading
+
+Aboriginal and/or Torres Strait Islander Australians
 
 **Instead use**
 
-- Aboriginal and Torres Strait Islander peoples (note the plural)
-- Aboriginal peoples (note the plural)
-- Torres Strait Islander peoples (note the plural)
-- Aboriginal man/woman/child/etc
-- Aboriginal Elder
-- First Australians
+Aboriginal and Torres Strait Islander peoples (note the plural)
+
+Aboriginal peoples (note the plural)
+
+Torres Strait Islander peoples (note the plural)
+
+Aboriginal man/woman/child/etc
+
+Aboriginal Elder
+
+First Australians
 
 ### A point about using ‘Indigenous’
 
@@ -32,8 +39,12 @@ Indigenous should always be capitalised.
 
 ### Correct spelling of cultural terms
 
-- On Country
-- Sorry Business
-- Men’s Business
-- Women’s Business
-- Traditional Owners or Traditional Custodians
+On Country
+
+Sorry Business
+
+Men’s Business
+
+Women’s Business
+
+Traditional Owners or Traditional Custodians.

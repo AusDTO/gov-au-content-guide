@@ -1,12 +1,10 @@
 ---
 layout: collection-index
 title: "Get started"
-collection-title: "Writing for the Web"
+collection-title: "Writing for the web"
 abstract: "Guidance on web writing best practice covering plain English, structure and writing for search engines."
 published: true
 ---
-
-### What is this section?
 
 **This is a draft overview of the key things you need to be thinking about when preparing information for the web.**
 

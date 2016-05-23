@@ -1,6 +1,6 @@
 ---
 layout: collection-index
-title: "Writing for the Web"
+title: "Writing for the web"
 abstract: "Guidance on web writing best practice covering plain English, structure and writing for search engines."
 published: true
 ---

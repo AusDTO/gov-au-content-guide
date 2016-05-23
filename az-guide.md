@@ -1,36 +1,30 @@
 ---
 layout: az-index/az-overview
-title: "About the A to Z"
+title: "A to Z"
 abstract: "A modern A to Z style guide with examples for online content creators."
 published: true
 ---
 
 ## What is this?
 
-This draft A to Z style guide covers style, grammar and spelling conventions.
+This is an early release of an A to Z guide about style, grammar and spelling conventions. It's here to help teams create simpler, clearer and faster information.
 
-It is an early release and not complete.
+We have written guidance that is precise and specific, with practical examples.
 
-New topics will be added over time based on interest and feedback.
+The content in this guide will be extended and new topics added based on your needs and feedback.
 
-We’ve included practical examples which we plan to extend.
+## Who is it for?
 
-We have deliberately written this information to be minimal and precise.
+The guide is for all content creators and transformation teams working with the Digital Transformation Office.
 
-Simpler, clearer and faster government information is our goal.
+We welcome this guide being adopted across government and hope that it is a starting point for further conversations, new content processes and ways to work together.
 
-## **Who is it for?**
+## Why is this guide being released as a draft?
 
-The guide is for all content creators and transformation teams working with the Digital Transformation Office. We welcome this guide being adopted across government and hope that it is a starting point for further conversations, new content processes and ways to work together.
-
-## **Why is this being released early?**
-
-We believe that making things open, makes them better. It’s one of [our design principles](https://www.dto.gov.au/standard/design-principles/ "our design principles"). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
+We believe that making things open makes them better. It’s one of the [Digital Transformation Office design principles](https://www.dto.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
 
 ## Please give feedback
 
-We would love your feedback. Please use the in-page comment fields to share your thoughts, alternative wording suggestions and your thinking.
+Email [gov.au-guide@digital.gov.au](mailto:gov.au-guide@digital.gov.au)
 
-To comment please set up a free account with [Disqus - a commenting platform](https://disqus.com "Disqus").
-
-You can also join our [Content Design in Government Google Group.](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government "Content Design in Government Google Group.")
+You can also join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government).

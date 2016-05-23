@@ -16,29 +16,29 @@ The words government, group, parliament, state and territory are only capitalise
 >
 > The delegates were pleased that the government had welcomed them.
 
-**Use this**
+Use this
 
-Australian Government not Commonwealth Government or Federal Government
+> Australian Government, not Commonwealth Government or Federal Government
 
 Use the ‘Commonwealth of Australia’ as the legal entity established by the Constitution.
 
 When referring to the Australian Government as part of a group of governments, set it apart.
 
-**Like this**
+Like this
 
-> Australian Government and state and territory governments
+> Australian Government and state and territory governments.
 
-**Not this**
+Not this
 
 > Australian and state and territory governments.
 
-When referring to government departments write the department’s name in full on first mention and then as ‘the department’.
+When referring to government departments write the department’s name in full on first mention and then as 'the department'.
 
 **For example**
 
 > The Department for Communication and the Arts is the Australian Government’s leading advisor on communications. Our department is based in Canberra.
 
-Use first person pronouns through the rest of the text eg ‘we, us’.
+Use first person pronouns through the rest of the text eg we, us.
 
 When naming other departments, use the name in full followed by the acronym in brackets.
 
@@ -48,15 +48,15 @@ When naming other departments, use the name in full followed by the acronym in b
 
 When referring to ministers and members of parliament refer to the minister by full title in the first instance, and then as the minister.
 
-**Like this**
+Like this
 
 > The Honourable Minister for Education, [insert name], opened the stadium. The minister left after morning tea.
 
-**Or use this**
+or use this
 
 > The Member for Bligh, [insert name], MP.
 
-**Not this**
+Not this
 
 > The Federal Member for Bligh [insert name].
 
@@ -76,6 +76,8 @@ When referring to states and territories only capitalise when referring to a for
 The preferred style is to use the name of states and territories in full.
 
 When space is limited, such as in a table or to avoid lengthy repetitions, use contractions and acronyms.
+
+**For example**
 
 > Australian Capital Territory -- ACT
 > New South Wales -- NSW

@@ -21,7 +21,7 @@ Use em dashes without a space on either side (--) when adding an idea to a sente
 
 **For example**
 
-> 27% of Australians were born overseas--another 2.5% identify as being of Aboriginal and/or Torres Strait Islander origin.
+> 27% of Australians were born overseas--another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
 
 - In Microsoft Word: hold down the alt key and type 0151
 - On Mac: hold down the option key and the hyphen (--) key
