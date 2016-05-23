@@ -110,6 +110,10 @@ section { }
 article {
   @include span-columns(9 of 12);
   margin-top: 120px;
+
+  li {
+    margin-left: $base-spacing;
+  }
 }
 
 aside.sidebar {
