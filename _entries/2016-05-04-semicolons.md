@@ -1,22 +1,26 @@
 ---
-title: "Semicolons"
-related: [colons, punctuation]
+title: Semicolons
+related: 
+  - colons
+  - punctuation
+published: true
 ---
 
-Don’t use. Start a new sentence or create a list of similar ideas or topics or use *ie* instead.
+Don’t use. Start a new sentence or create a list of similar ideas or topics or use ie instead.
 
-**Like this**
+**For example**
+
+Like this
 
 > The National Broadband Network offers Australians:
->
-> - productivity
-> - innovation
-> - global connection.
+- productivity
+- innovation
+- global connection.
 
-**Or this**
+Or this
 
 > The National Broadband Network offers Australians new opportunities ie productivity, innovation and global connections.
 
-**Not this**
+Not this
 
 > The National Broadband Network offers a new age of productivity; innovation; and global connection for Australians.
