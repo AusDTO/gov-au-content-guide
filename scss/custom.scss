@@ -320,7 +320,7 @@ nav.primary {
   a.js-accordion-trigger {
     background: rgba(155,154,155,0.1);
     border-bottom: 2px solid darken($dto-light-gray, 25%);
-    font-weight: bold;
+    font-weight: 500;
   }
 
   @include media (max-width $large-screen) {
@@ -532,7 +532,7 @@ nav.secondary {
 article.main-content,
 .entry {
   h2 {
-    font-weight: normal;
+    font-weight: 300;
     font-size: 3.6em; // normally 4.8
     color: $dto-guide-desat-light-blue;
   }
@@ -547,7 +547,7 @@ article.main-content,
 
   h5 {
     font-size: 1.8em; // normally 2.1
-    font-weight: bold;
+    font-weight: 500;
   }
 
   blockquote {
