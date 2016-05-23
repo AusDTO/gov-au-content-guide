@@ -301,7 +301,7 @@ nav.primary {
 }
 
 .current {
-  a {
+  a.js-accordion-trigger {
     background: rgba(155,154,155,0.08);
     border-bottom: 4px solid #244A61;
     font-weight: 700;
@@ -311,7 +311,7 @@ nav.primary {
     background: darken($dto-light-gray, 3%);
     border-bottom: 4px solid #244A61;
 
-    a {
+    a.js-accordion-trigger {
       background: transparent;
       border-bottom: transparent;
     }
