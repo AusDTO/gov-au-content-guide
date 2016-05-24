@@ -41,7 +41,9 @@ The description should:
 
 This description of the Digital Transformation Office’s website succinctly describes the agency’s key role in active voice.
 
-```<meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">```
+```
+<meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">
+```
 
 ![Digital Transformation Office search result](../images/DTO-search.png)
 
