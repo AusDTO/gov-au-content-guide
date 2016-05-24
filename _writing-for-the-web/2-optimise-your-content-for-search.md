@@ -41,11 +41,11 @@ The description should:
 
 This description of the Digital Transformation Office’s website succinctly describes the agency’s key role in active voice.
 
-<img of dc. metadata from dto.gov.au (that isn’t actually in the `head <meta>`` section of the live site?) which should also be turned into `code` and not be an image?>
+`<meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">`
 
-<img screencap of the DTO metadata being used in the google search listing>
+[Digital Transformation Office search result](../images/DTO-search.png)
 
-Caption: Meta title and description as they display in a search result.
+Caption: Digital Transformation Office description as it displays in a search result.
 
 The Google Webmaster Central Blog has more [tips on writing good descriptions](http://googlewebmastercentral.blogspot.com.au/2007/09/improve-snippets-with-meta-description.html).
 
