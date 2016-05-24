@@ -1,20 +1,33 @@
 
 Indicates possession
 
-> eg Helena and Jess’ start-up (singular) or  the girls’ start-up (plural).
+**For example**
+
+> Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
 
 Is a substitute for ‘is’
 
-> eg It’s difficult or who’s the right person? for ‘us’ (eg let’s go) or for ‘are’ (eg you’re right).
+**For example**
+
+> It’s difficult
+> Who’s the right person?
+
+For ‘us’ (eg let’s go) or for ‘are’ (eg you’re right)
 
 Is used for expressions of time
 
-> eg a week’s (singular) time or in 2 weeks’ (plural) time.
+**For example**
+
+> A week’s (singular) time or in 2 weeks’ (plural) time.
 
 Don’t use for plural abbreviation
 
-> eg FAQs not FAQ’s.
+**For example**
+
+> CDs not CD’s.
 
 Don’t use for decades
 
-> eg 1980s not 1980’s.
+**For example**
+
+> 1980s not 1980’s.

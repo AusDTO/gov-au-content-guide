@@ -24,7 +24,7 @@ When designing the flow of information on a web page structure your content with
 
 #### Limit levels
 
-Content should only have 1 top level (H1) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels (H2 and H3).
+Content should only have 1 top level (H1) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels where possible (H2 and H3).
 
 #### Use space
 

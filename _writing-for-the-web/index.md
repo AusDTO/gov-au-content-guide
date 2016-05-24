@@ -8,13 +8,11 @@ published: true
 
 **This is a draft overview of the key things you need to be thinking about when preparing information for the web.**
 
-Writing for the web is different to writing for print.
+Writing for the web is different to writing for print. Content must be user-focused, readable (and scannable) and accessible across all devices.
 
-Content must be user-focused, readable (and scannable) and accessible across all devices.
+This is a high-level summary of things you need to think about when writing for the web.
 
-Much has been written on this topic and can be researched on the web.
-
-Doing web writing training is also important, even if you have been a writer or editor for many years or are a digital native who was born or went to school in the digital era.
+Writing for the web requires you to think differently about how you may normally write, even if you are a digital native. You need to do the hard work to make it simple for users.
 
 ## Give feedback
   
