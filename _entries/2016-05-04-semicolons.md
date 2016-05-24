@@ -12,12 +12,16 @@ Don’t use them. Start a new sentence, create a list of similar ideas or topics
 
 Like this
 
-[Example to come]
+> We want to make information:
+> 
+> - simpler
+> - clearer
+> - faster.
 
 Or this
 
-[Example to come]
+> We want to make information simpler, clearer and faster.
 
 Not this
 
-[Example to come]
+> We want to make information simpler; clearer; and faster.

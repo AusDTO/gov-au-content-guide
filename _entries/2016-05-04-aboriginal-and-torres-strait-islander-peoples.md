@@ -5,7 +5,7 @@ related:
 published: true
 ---
 
-Aboriginal and Torres Strait Islander peoples are not 1 homogenous group consisting of a diverse range of cultures. Within Aboriginal and Torres Strait Islander peoples/nations are many distinct cultural groups. English is a second, third or even fourth language for many First Australians.
+Aboriginal and Torres Strait Islander peoples represent a diverse range of cultures and are not 1 homogenous group. Within Aboriginal and Torres Strait Islander peoples/nations are many distinct cultural groups. English is a second, third or even fourth language for many First Australians.
 
 **Do not use**
 

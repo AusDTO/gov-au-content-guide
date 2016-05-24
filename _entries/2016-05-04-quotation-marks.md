@@ -21,4 +21,4 @@ Use single quote marks for enclosing and emphasising an unusual expression.
 
 **For example**
 
-> They refer to it as the ‘content focus’ model.
+> They refer to it as the ‘content focus model'.

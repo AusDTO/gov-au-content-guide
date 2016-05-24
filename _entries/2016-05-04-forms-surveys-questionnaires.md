@@ -24,6 +24,7 @@ Be helpful. If extra documents are required to complete the form, offer a list u
 **For example**
 
 > What you need to complete this form:
+>
 > - driver’s licence
 > - passport
 > - birth certificate
