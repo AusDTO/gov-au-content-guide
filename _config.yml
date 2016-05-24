@@ -7,9 +7,12 @@
 title: Draft Content Style Guide
 version: "1.0"
 description: >
-  Simpler, clearer, faster.<br>
-  A draft content style guide to help government meet the needs of all users, regardless of their ability.
-
+  <h2>What is this guide?</h2>
+  <p>A draft content style guide to help government meet the needs of all users, regardless of their ability. It captures the latest thinking about online content with a strong focus on accessibility.</p>
+  <p>Simpler, clearer, faster information.</p>
+  <p>This is an early release that will evolve over time based on feedback and suggestions from the government community.</p>
+  <p>Please join our <a href="https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government">Content Design in Government Google Group</a> to give feedback.</p>
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
