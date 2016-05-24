@@ -34,7 +34,7 @@ The description should:
 
 - contain the main and unique points of the page to help users decide whether to click
 - clearly cover the context of the web page and the intended audience–--to allow a non-expert to understand what the page is about and if it’s what they’re looking for
-- include keywords close to the start of the description-–-this is better for users and search engines
+- include keywords close to the start of the description---this is better for users and search engines
 - use full sentences whenever possible to aid usability and readability.
 
 **For example**
