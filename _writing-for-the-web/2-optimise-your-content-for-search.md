@@ -41,11 +41,13 @@ The description should:
 
 This description of the Digital Transformation Office’s website succinctly describes the agency’s key role in active voice.
 
-```<meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">```
+```
+<meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">
+```
 
 ![Digital Transformation Office search result](../images/DTO-search.png)
 
-Caption: Digital Transformation Office description as it displays in a search result.
+Caption: Meta title and description as they display in a search result.
 
 The Google Webmaster Central Blog has more [tips on writing good descriptions](http://googlewebmastercentral.blogspot.com.au/2007/09/improve-snippets-with-meta-description.html).
 
