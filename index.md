@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Who is it for?
+abstract:
 published: true
 ---
 
