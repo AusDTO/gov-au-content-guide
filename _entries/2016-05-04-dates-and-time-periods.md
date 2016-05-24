@@ -9,7 +9,7 @@ No punctuation is used for dates.
 
 **For example**
 
-> on Tuesday 8 October 2016 not 8th October, 2016.
+> On Tuesday 8 October 2016. Not 8th October, 2016.
 
 Time periods: use numbers. 
 

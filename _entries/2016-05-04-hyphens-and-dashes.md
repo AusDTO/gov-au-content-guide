@@ -13,7 +13,7 @@ Many commonly used words are hyphenated eg log-in. Check the Macquarie Dictionar
 
 Hyphens can be used to differentiate meaning in verbs eg the group is going to re-form, or we need to reform the policy.
 
-Use when the second word is ‘up’ eg *meet-up*, or when the first and second word ends with the same letter eg re-engage.
+Use when the second word is ‘up’ eg **meet-up**, or when the first and second word ends with the same letter eg re-engage.
 
 ### Em dashes
 
