@@ -17,13 +17,13 @@ Use when the second word is ‘up’ eg *meet-up*, or when the first and second 
 
 ### Em dashes
 
-Use em dashes without a space on either side (--) when adding an idea to a sentence or instead of starting a new sentence.
+Use em dashes without a space on either side (---) when adding an idea to a sentence or instead of starting a new sentence.
 
 **For example**
 
-> 27% of Australians were born overseas--another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
+> 27% of Australians were born overseas---another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
 
 - In Microsoft Word: hold down the alt key and type 0151
-- On Mac: hold down the option key and the hyphen (--) key
-- In Markdown notation: use a double hyphen (--)
+- On Mac: [Option] + [Shift] keys and -
+- In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (---)
 - Google Doc: go to Insert then Special characters
