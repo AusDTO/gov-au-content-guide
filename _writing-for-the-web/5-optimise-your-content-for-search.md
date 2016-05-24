@@ -6,7 +6,7 @@ permalink: /:collection/:title
 published: true
 ---
 
-**Making sure your content is optimised for search engine results is an important way of helping users find your information.**
+**Making sure your content is optimised for search engine (search engine optimisation or SEO) results is an important way of helping users find your information.**
 
 ### Develop a list of authentic keywords
 
