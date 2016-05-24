@@ -2,14 +2,14 @@
   <nav class="primary">
     <div class="wrapper">
       <ul class="navigation-menu">
-        <li class="nav-link">
+        <li class="nav-link" >
           <a href="/index.html">Home</a>
         </li>
-        <li class="nav-link">
-          <a href="/az-guide.html">A to Z</a>
+        <li class="nav-link {% if page.path contains 'az-'  %}current{%endif%}">
+          <a href="/az-guide.html" class="{% if page.path contains 'az-' %}current{%endif%}">A to Z</a>
         </li>
-        <li class="nav-link">
-          <a href="/writing-for-the-web/">Writing for the web</a>
+        <li class="nav-link {% if page.collection == 'writing-for-the-web' %}current{%endif%}">
+          <a href="/writing-for-the-web/" class="{% if page.collection == 'writing-for-the-web' %}current{%endif%}">Writing for the web</a>
         </li>
       </ul>
     </div>

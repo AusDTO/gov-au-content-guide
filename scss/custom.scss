@@ -286,12 +286,13 @@ nav.primary {
 
     @include media (max-width $large-screen) {
       &:not(.current){
-        border-bottom: 4px solid transparent;
+        &:hover {
+          border-bottom: 4px solid darken($dto-light-gray, 3%);
+        }
       }
 
       &:hover {
         background: darken($dto-light-gray, 3%);
-        border-bottom: 4px solid #244A61;
       }
     }
 
@@ -301,7 +302,9 @@ nav.primary {
       line-height: $base-spacing * 2;
       padding: 20px $base-spacing;
       text-decoration: none;
-
+      &.current {
+        border-bottom: 4px solid #244A61;
+      }
       @include media (max-width $large-screen) {
         padding-left: calc(100vw - 130px);
         width: 130px;
@@ -309,29 +312,16 @@ nav.primary {
 
 
       @include media (min-width $large-screen) {
+        &:not(.current){
+          &:hover {
+            border-bottom: 4px solid darken($dto-light-gray, 3%);
+          }
+        }
+
         &:hover {
           background: darken($dto-light-gray, 3%);
-          border-bottom: 4px solid #244A61;
         }
       }
-    }
-  }
-}
-
-.current {
-  a.js-accordion-trigger {
-    background: rgba(155,154,155,0.1);
-    border-bottom: 2px solid darken($dto-light-gray, 25%);
-    font-weight: 500;
-  }
-
-  @include media (max-width $large-screen) {
-    background: darken($dto-light-gray, 3%);
-    border-bottom: 4px solid #244A61;
-
-    a.js-accordion-trigger {
-      background: transparent;
-      border-bottom: transparent;
     }
   }
 }
@@ -403,13 +393,15 @@ nav.secondary {
         display: block;
         line-height: 1.8;
         padding: $small-spacing 4px $small-spacing $small-spacing;
-        border-left: 2px solid transparent;
+        &:not(.current ) {
+          border-left: 2px solid transparent;
 
-        &:hover,
-        &:active {
-          background: $dto-light-gray;
-          color: #000000;
-          border-left: 2px solid black;
+          &:hover,
+          &:active {
+            background: $dto-light-gray;
+            color: #000000;
+            border-left: 2px solid black;
+          }
         }
 
         &.js-accordion-trigger {
@@ -423,7 +415,9 @@ nav.secondary {
         font-size: 1em;
 
         li.nav-item a {
-          border-left: none;
+          &:not(.active ) {
+            border-left: none;
+          }
           border-top: none;
           padding: $small-spacing 4px $small-spacing $small-spacing / 4;
           padding-left: $small-spacing * 3;
@@ -456,6 +450,26 @@ nav.secondary {
   }
 }
 // end style guide secondary navigation
+
+.current {
+  > a {
+    background: rgba(155,154,155,0.1);
+    font-weight: bold;
+  }
+  > a.js-accordion-trigger {
+    border-left: 4px solid black;
+  }
+
+  @include media (max-width $large-screen) {
+    background: darken($dto-light-gray, 3%);
+    border-bottom: 4px solid #244A61;
+
+    > a {
+      background: transparent;
+      border-bottom: transparent;
+    }
+  }
+}
 
 // style guide info panel
 .accordion {

@@ -17,7 +17,7 @@
     {% if doc.layout == "collection-item" %}
     <li class="nav-item {{ page | is_collection_item_current: doc }}">
 
-      <a href="{{ doc.url }}.html">
+      <a href="{{ doc.url }}.html" class="{{ page | is_collection_item_current: doc }}">
         {{ doc.title }}
       </a>
     </li>

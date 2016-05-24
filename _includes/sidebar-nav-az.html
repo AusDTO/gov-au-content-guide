@@ -17,7 +17,7 @@
     {% endif %}
 
     <li class="nav-item {% if letter == current_letter %}current{%endif%}">
-      <a href="javascript:void(0)" class="js-accordion-trigger">
+      <a href="javascript:void(0)" class="js-accordion-trigger {% if letter == current_letter %}current{%endif%}">
         {{ letter }}
       </a>
       <ul class="sub-nav submenu" id="{{ letter }}-index" {% if letter != current_letter %} style="display: none;" {%endif%}>
