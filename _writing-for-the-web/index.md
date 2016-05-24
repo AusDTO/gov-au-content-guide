@@ -1,7 +1,7 @@
 ---
-layout: collection-index
-title: "Get started"
-collection-title: "Writing for the web"
+layout: "collection-index"
+title: Get started
+"collection-title": Writing for the web
 abstract: "Guidance on web writing best practice covering plain English, structure and writing for search engines."
 published: true
 ---
@@ -16,4 +16,4 @@ Writing for the web requires you to think differently about how you may normally
 
 ## Give feedback
   
-Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
+Please join the Google Group [Content Design in Government](mailto:content-design-in-government@digital.gov.au) to give feedback.
