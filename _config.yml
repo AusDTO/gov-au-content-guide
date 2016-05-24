@@ -44,6 +44,7 @@ collections:
     output: true
   sources:
     title: "Sources for this guide"
+    output: true
 
 # Markdown build settings.
 markdown: kramdown
