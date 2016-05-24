@@ -1,9 +1,17 @@
 ---
 layout: home
-title: Who is it for?
-abstract:
+title: What is this guide?
+abstract: "This guide is designed to help people working in government create simpler, clearer and faster information. This is an early release that will evolve over time based on feedback and suggestions from the government community."
 published: true
 ---
+
+## What is this draft?
+
+This is a draft of a new guide designed to help government teams create simpler, clearer and faster information. It captures the latest thinking in online content with a strong focus on accessibility.
+
+Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
+
+## Who is it for?
 
 This guide is for all content creators and transformation teams working with the Digital Transformation Office.
 
