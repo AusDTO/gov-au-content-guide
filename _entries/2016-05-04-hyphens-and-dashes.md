@@ -25,5 +25,5 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 
 - In Microsoft Word: hold down the alt key and type 0151
 - On Mac: [Option] + [Shift] keys and -
-- In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (---)
+- In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens
 - Google Doc: go to Insert then Special characters
