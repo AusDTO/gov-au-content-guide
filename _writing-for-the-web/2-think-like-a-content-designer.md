@@ -1,5 +1,5 @@
 ---
-title: "Think like a GOV.AU content designer"
+title: "Think like a content designer"
 abstract: "Modern content authoring"
 layout: collection-item
 permalink: /:collection/:title
@@ -8,9 +8,9 @@ published: true
 
 **What exactly is a content designer?**
 
-At GOV.AU a content designer is both a writer and editor who understands the web and its users. We work as part of a multi-disciplinary team to help create purposeful government services that feature simpler, clearer and faster information.
+A content designer is both a writer and editor who understands the web and its users. We work as part of a multi-disciplinary team to help create purposeful government services that feature simpler, clearer and faster information.
 
-A content designer at GOV.AU analyses every piece of content based on what the user needs to know.
+A content designer analyses every piece of content based on what the user needs to know.
 
 Good content designers can pivot quickly as a project’s scope changes (a natural part of any creative process), innovate, initiate and anticipate. We are sticklers for quality. We understand readability, usability and accessibility, and we know that plain English always wins.
 
@@ -40,10 +40,10 @@ When a content designer comes in later to a project, where the Discovery stage h
 
 ### Get used to working closely with others
 
-At GOV.AU no-one works in a silo, including content designers. The experience is highly collaborative across the whole team.
+In agile teams no-one works in a silo, including content designers. The experience is highly collaborative across the whole team.
 
 This is fantastic in that content people get to be part of the conversation and decision-making. It gives us a chance to gain insights about the subject from various angles, which means we are better in tune with what the end-state might be.
 
 And when it comes to the final stages of editing there is more efficiency and co-operation around our changes because we have been part of the conversations and ensuring consensus along the way.
 
-Learn more about [digital delivery teams](https://www.dto.gov.au/standard/design-guides/the-team/).
+Learn more about [agile teams](https://www.dto.gov.au/standard/design-guides/the-team/).
