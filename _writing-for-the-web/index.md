@@ -16,4 +16,4 @@ Writing for the web requires you to think differently about how you may normally
 
 ## Give feedback
   
-Please join the Google Group [Content Design in Government](mailto:content-design-in-government@digital.gov.au) to give feedback.
+Please email the Google Group [Content Design in Government](mailto:content-design-in-government@digital.gov.au) to join and give feedback.
