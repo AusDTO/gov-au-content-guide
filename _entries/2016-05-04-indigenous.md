@@ -1,6 +1,5 @@
 ---
 title: Indigenous
-related:
-	- "aboriginal-and-torres-strait-islander-peoples" 
+related: aboriginal-and-torres-strait-islander-peoples
 published: true
 ---
