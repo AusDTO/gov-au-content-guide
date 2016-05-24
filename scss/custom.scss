@@ -571,6 +571,11 @@ article {
     background-color: $dto-light-gray;
   }
 
+  dd,
+  li {
+    margin-bottom: ($small-spacing / 2);
+  }
+
   code,
   kbd {
     font-family: $fontface-mono;
