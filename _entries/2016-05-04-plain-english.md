@@ -93,5 +93,4 @@ Always choose the shorter plain English word, term, sentence and paragraph over 
 | user centred design                                                                                             | user-centred design                        |
 | utilise                                                                                                         | use                                        |
 | whether or not                                                                                                  | whether                                    |
-| with reference to, with regard to, with respect to                                                              | about, regarding                           |
-| [use for any department in general]                                                                             | department                                 |
+| with reference to, with regard to, with respect to                                                              | about, regarding                           |                               |

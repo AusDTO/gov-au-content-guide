@@ -14,14 +14,14 @@ Use the following spacing formats, except in forms:
 - 1300/1800 123 456 for 10 digit numbers
 - 13 13 13 for 6 digit numbers
 
-Users viewing web pages on a mobile device expect that a phone number link will call that number. You can define a link as a number that can be called using tel: in the link.
+Users viewing web pages on a mobile device expect that a phone number link will call that number. You can define a link as a number that can be called using `tel:` in the link.
 
 **For example**
 
-> Please contact us on [tel:02 6271 1000](tel:02 6271 1000)
+> Please contact us on [02 6271 1000](tel:02 6271 1000)
 
 Remember all web pages can be accessed internationally. To create a link for an international number include the international dialling prefix
 
 **For example**
 
-> [tel:61 2 6271 1000](tel:61 2 6271 1000)
+> [61 2 6271 1000](tel:61 2 6271 1000)

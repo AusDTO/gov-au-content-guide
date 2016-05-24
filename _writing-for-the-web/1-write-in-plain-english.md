@@ -18,13 +18,13 @@ Active voice clearly identifies who is doing what to whom, is more immediate and
 
 Passive voice sounds evasive and sends the reader backwards.
 
-e**For example**
+**For example**
 
 > The proposal for the new part-time role was approved by the director.
 
 Passive is acceptable where there is no do-er.
 
-e**For example**
+**For example**
 
 > The proposal for the new-part time role was approved in March.
 
