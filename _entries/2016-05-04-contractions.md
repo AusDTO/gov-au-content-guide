@@ -13,18 +13,18 @@ Always consider the context eg don’t use them in forms.
 
 **For example**
 
-> don’t (do not)
-> it’s (it is)
-> let’s (let us)
-> they’re (they are)
-> they’ve (they have)
-> we’ll (we will)
+> don’t (do not),
+> it’s (it is),
+> let’s (let us),
+> they’re (they are),
+> they’ve (they have),
+> we’ll (we will),
 > we’re (we are)
 
 Contractions that include the first and last letter of a word don’t need a full stop
 
 **For example**
 
-> Ms
-> Pty Ltd
+> Ms,
+> Pty Ltd,
 > Dr
