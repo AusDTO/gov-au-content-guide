@@ -15,8 +15,6 @@ Depending on the context, using a verb is helpful in motivating or instructing t
 
 **For example**
 
-> Apply now
-> Check your access
-> Compare time zones
+> Apply now, Check your access, Compare time zones.
 
 Be brief and consistent when using the same call-to-action across a website. Avoid linking to dead-end pages as they are not useful or helpful.
