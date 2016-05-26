@@ -30,7 +30,7 @@ The Draft Content Style Guide v1.0 has also been guided by these resources:
 - Department of Finance, [Good practice publishing for Australian Government entities](https://www.finance.gov.au/publications/good-practice-publishing/)
 - Department of Foreign Affairs & Trade, Website and Intranet Style Guide, 2013 
 - Department of the Prime Minister and Cabinet, [Australian Government Branding, Guidelines on Use of the Australian Government Logo by Australian Government Departments and Agencies, March 2013](https://www.dpmc.gov.au/sites/default/files/publications/Australian_Government_Branding_Design_Guidelines.pdf)
-- Department of the Prime Minister and Cabinet, Communicating with Aboriginal and Torres Strait Islander Audiences
+- Department of the Prime Minister and Cabinet, [Communicating with Aboriginal and Torres Strait Islander Audiences](https://www.dpmc.gov.au/resource-centre/indigenous-affairs/communicating-aboriginal-and-torres-strait-islander-audiences)
 - Digital Transformation Office, Digital Service Standard, Design guides, [Inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
 - Digital Transformation Office, Digital Service Standard, Design guides, [Online writing](https://www.dto.gov.au/standard/design-guides/online-writing/)
 - Digital Transformation Office, Digital Service Standard, Design guides, [Making content accessible](https://www.dto.gov.au/standard/design-guides/making-content-accessible/)
@@ -52,4 +52,4 @@ The Draft Content Style Guide v1.0 has also been guided by these resources:
 - thenewcode.com, [Adding phone numbers to web pages with HTML5 and microdata](http://thenewcode.com/536/Adding-Phone-Numbers-To-Web-Pages-With-HTML5-and-Microdata), Dudley Storey
 - Vision Australia, [Computer screen readers](http://www.visionaustralia.org/living-with-low-vision/learning-to-live-independently/using-technology-and-computers/technology-overview/computer-screen-readers)
 
-Read the post [Walking the talk: putting together the GOV.AU Content Style Guide](https://www.dto.gov.au/blog/walking-the-talk/) on the DTO's GOV.AU blog about the thinking behind this Draft Content Style Guide v1.0.
+Read the [blog post about the thinking behind this Draft Content Style Guide](https://www.dto.gov.au/blog/walking-the-talk/).
