@@ -2,22 +2,32 @@
 layout: default
 ---
 
-<main id="home" class="wrapper">
+<main id="home" class="">
   <header id="hero" class="">
-    <h1>{{ site.title }} v{{ site.version}}</h1>
-    <p class="guide-description">{{ site.description }}</p>
+    <div class="wrapper">
+      <div class="site-banner">
+        <h1>{{ site.title }} v{{ site.version}}</h1>
+        <p class="guide-description">{{ site.description }}</p>
+      </div>
+    </div>
   </header>
 
   <section id="overview" class="">
-    <h2>{{ page.title }}</h2>
-    {{ page.abstract | markdownify }}
+    <section class="wrapper">
+      <header class="page-title">
+        <h2>{{ page.title }}</h2>
+        {{ page.abstract | markdownify }}
+      </header>
 
-    {% include homepage-feature-outline.html %}
+      <aside class="guide-features">
+        {% include homepage-feature-outline.html %}
+      </aside>
+    </section>
   </section>
 
   <section id="about" class="">
-
-    {{ content }}
-
+    <section>
+      {{ content }}
+    <section>
   </section>
 </main>
