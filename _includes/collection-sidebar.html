@@ -2,27 +2,27 @@
   <ul>
     {% assign the-collection = page.collection %}
     {% assign c = site.collections | where:'label',the-collection | first %}
+    {% if c.docs.length > 1 %}
+      {% for doc in c.docs %}
+        {% if doc.layout == "collection-index" %}
+        <li class="nav-item">
+          <a href="{{ doc.url }}.html">
+            {{ doc.title}}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
 
-    {% for doc in c.docs %}
-    {% if doc.layout == "collection-index" %}
-    <li class="nav-item">
-      <a href="{{ doc.url }}.html">
-        {{ doc.title}}
-      </a>
-    </li>
+      {% for doc in c.docs %}
+        {% if doc.layout == "collection-item" %}
+        <li class="nav-item {{ page | is_collection_item_current: doc }}">
+
+          <a href="{{ doc.url }}.html" class="{{ page | is_collection_item_current: doc }}">
+            {{ doc.title }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
     {% endif %}
-    {% endfor %}
-
-    {% for doc in c.docs %}
-    {% if doc.layout == "collection-item" %}
-    <li class="nav-item {{ page | is_collection_item_current: doc }}">
-
-      <a href="{{ doc.url }}.html" class="{{ page | is_collection_item_current: doc }}">
-        {{ doc.title }}
-      </a>
-    </li>
-    {% endif %}
-    {% endfor %}
-
   </ul>
 </nav>
