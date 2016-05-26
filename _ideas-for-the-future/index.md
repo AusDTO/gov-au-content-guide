@@ -28,4 +28,4 @@ The Content Style Guide is in draft. It is a ‘living’ resource that will be 
 
 ### Give feedback
 
-Please join the Google Group [Content Design in Government](content-design-in-government@digital.gov.au) to give feedback.
+Please join the Google Group [Content Design in Government](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
