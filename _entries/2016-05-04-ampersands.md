@@ -5,3 +5,7 @@ related:
   - "symbols-and-characters"
 published: true
 ---
+
+For ampersands, don’t use an & in the place of and or in a sentence or organisation name (unless it already exists).
+
+Use & in headings, subheadings, navigation labels and graphics.

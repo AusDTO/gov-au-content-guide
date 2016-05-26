@@ -20,36 +20,32 @@ In proper nouns
 
 **For example**
 
-> Parliament House, Australia Post.
-> the Australian Government, but then the government.
+> Parliament House, Australia Post, the Australian Government but then the government.
 
 Titles
 
 **For example**
 
-> Minister Michael Jones, but then the minister.
+> Minister Michael Jones but then the minister.
 
 Department titles
 
 **For example**
 
-> Department of Communications and Arts, but then the department.
+> Department of Communications and Arts but then the department.
 
-All legislation, publications, policies, programs and reports.
+All legislation, publications, policies, programs and reports
 
 **For example**
 
-> the Government Information Public Access Act, then the Act
+> the Government Information Public Access Act, then the Act.
 
 Places that are descriptive 
 
 **For example**
 
-> south-east NSW
+> south-east NSW.
 
 **Further examples**
 
-> the internet, not the Internet
-> the web, not the Web or World Wide Web
-> the intranet, not the Intranet
-> wi-fi not wifi, WiFi or Wi-fi
+> the internet not the Internet, the web not the Web or World Wide Web, the intranet not the Intranet, wi-fi not wifi not WiFi and not Wi-fi.

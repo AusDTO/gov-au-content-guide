@@ -7,34 +7,37 @@ related:
 published: true
 ---
 
-Indicates possession
+### Indicates possession
 
 **For example**
 
 > Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
 
-Is a substitute for ‘is’
+### Is a substitute for ‘is’
 
 **For example**
 
-> It’s difficult
-> Who’s the right person?
+> It’s difficult.
 
-For ‘us’ (eg let’s go) or for ‘are’ (eg you’re right)
+### Who’s the right person?
 
-Is used for expressions of time
+**For example**
+
+> For ‘us’ (eg let’s go) or for ‘are’ (eg you’re right)
+
+### Is used for expressions of time
 
 **For example**
 
 > A week’s (singular) time or in 2 weeks’ (plural) time.
 
-Don’t use for plural abbreviation
+### Don’t use for plural abbreviation
 
 **For example**
 
 > CDs not CD’s.
 
-Don’t use for decades
+### Don’t use for decades
 
 **For example**
 
