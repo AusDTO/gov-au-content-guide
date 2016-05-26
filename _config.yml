@@ -45,6 +45,9 @@ collections:
   sources:
     title: "Sources for this guide"
     output: true
+  ideas-for-the-future:
+    title: "Ideas for the future"
+    output: true
 
 # Markdown build settings.
 markdown: kramdown
