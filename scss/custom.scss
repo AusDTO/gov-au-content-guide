@@ -106,8 +106,6 @@ header {
   }
 }
 
-footer { }
-
 main {
   display: block;
   // Because some browsers don't set this as a block element --
@@ -793,28 +791,31 @@ $color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-
 //   This needs cleaning up.
 
 .footer {
-  display: none;
-
+  width: 100%;
   $footer-background: $dto-light-gray;
   $footer-color: black;
   $footer-link-color: #244A61;
   $footer-disclaimer-color: transparentize($footer-color, 0.3);
 
   background: $footer-background;
-  margin-top: ($base-spacing * 6);
-  padding: ($base-spacing * 2) ($column + $gutter) ($base-spacing * 4) ($column + $gutter);
-  width: 100%;
+  margin-top: ($base-spacing * 4);
+  padding-bottom: ($base-spacing * 6);
 
   nav.footer-links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    @include span-columns(10 of 12);
+    @include shift(1);
+
+    @include display(flex);
+    @include flex-wrap(wrap);
+
     margin-bottom: $base-spacing;
+    border-bottom: 2px solid darken($dto-light-gray, 7%);
   }
 
   ul {
-    flex-basis: 25%;
-    flex-shrink: 0;
+    @include flex-basis(14em);
+    @include flex-grow(1);
+
     margin-bottom: $base-spacing * 2;
     padding: 0;
   }
@@ -838,12 +839,6 @@ $color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-
     color: $footer-color;
     font-size: 1.7em;
     font-weight: 700;
-  }
-
-  hr {
-    border: 1px solid transparentize($footer-disclaimer-color, 0.3);
-    margin: 0 auto $base-spacing;
-    width: 60%;
   }
 
   p {
