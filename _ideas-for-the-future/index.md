@@ -1,6 +1,6 @@
 ---
 layout: collection-index
-title: "Ideas for the future"
+title: "Improving the guide"
 collection-title: "Ideas for the future"
 abstract: Topics to come in the future.
 published: true
