@@ -657,10 +657,36 @@ footer a {
   padding-bottom: $base-spacing * 2.5;
   border-bottom: 2px solid darken($dto-light-gray, 10%);
 
-  aside.entry-meta a.button {
-    display: inline-block;
-    margin-top: $base-spacing * 2;
-    font-size: 1.6em;
+  aside.entry-meta {
+    margin-top: ($base-spacing * 2);
+    div.related-entries {
+      font-size: 1.7em;
+
+      h3 {
+        font-size: 1.235em; // 21
+        margin-bottom: 1em;
+        color: darken($dto-light-gray, 75%);
+      }
+
+      a {
+        display: list-item;
+        margin-left: $base-spacing;
+        margin-bottom: ($small-spacing / 2);
+        border-bottom: none;
+
+        &:hover,
+        &:focus {
+          border-bottom: none;
+          background-color: white;
+        }
+      }
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: $base-spacing;
+      font-size: 1.6em;
+    }
   }
 }
 
