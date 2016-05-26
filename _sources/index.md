@@ -1,12 +1,12 @@
 ---
 layout: "collection-index"
-title: Sources and Resources
+title: "Sources and resources"
 "collection-title": Sources
 abstract: a list of the sources and resources used in the making of the GOV.AU Draft Content Style Guide v1.0 created by the Digital Transformation Office.
 published: true
 ---
 
-## What sources were used to create the Draft Content Style Guide v1.0?
+**What sources were used to create the Draft Content Style Guide v1.0?**
 
 We have been closely guided by the GOV.UK [Government Digital Service (GDS) Style Guide](https://www.gov.uk/guidance/style-guide) and [blog](https://gds.blog.gov.uk/).
 
