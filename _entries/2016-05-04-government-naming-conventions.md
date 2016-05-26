@@ -64,14 +64,14 @@ When referring to states and territories only capitalise when referring to a for
 
 **For example**
 
-> ACT Government
-> Government of South Australia
-> Government of Victoria
-> Government of Western Australia
-> NSW Government
-> Northern Territory Government
-> Queensland Government
-> Tasmanian Government
+> - ACT Government
+> - Government of South Australia
+> - Government of Victoria
+> - Government of Western Australia
+> - NSW Government
+> - Northern Territory Government
+> - Queensland Government
+> - Tasmanian Government
 
 The preferred style is to use the name of states and territories in full.
 
@@ -79,11 +79,11 @@ When space is limited, such as in a table or to avoid lengthy repetitions, use c
 
 **For example**
 
-> ACT
-> NSW
-> NT
-> Qld
-> SA
-> Tas.
-> Vic.
-> WA
+> - ACT
+> - NSW
+> - NT
+> - Qld
+> - SA
+> - Tas.
+> - Vic.
+> - WA

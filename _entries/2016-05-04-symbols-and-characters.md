@@ -1,7 +1,7 @@
 ---
 title: "Symbols & characters"
 related: 
-  - "abbreviations-acronyms"
+  - "abbreviations-and-acronyms"
   - ampersands
   - "per-cent"
   - temperature

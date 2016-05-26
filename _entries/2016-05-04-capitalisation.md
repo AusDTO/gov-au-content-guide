@@ -14,7 +14,7 @@ First letter in headings and subheadings
 
 **For example**
 
-> Business innovation incentives.
+> Business innovation incentives
 
 In proper nouns
 
@@ -32,7 +32,7 @@ Department titles
 
 **For example**
 
-> Department of Communications and Arts but then the department.
+> Department of Communications and Arts, but then the department.
 
 All legislation, publications, policies, programs and reports
 
@@ -48,4 +48,7 @@ Places that are descriptive
 
 **Further examples**
 
-> the internet not the Internet, the web not the Web or World Wide Web, the intranet not the Intranet, wi-fi not wifi not WiFi and not Wi-fi.
+> - the internet, not the Internet
+> - the web, not the Web or World Wide Web
+> - the intranet, not the Intranet
+> - wi-fi---not wifi, WiFi or Wi-fi

@@ -27,6 +27,9 @@ layout: default
 
       {{ entry.output }}
 
+      {% for related in entry.related %}
+        {{related | link_to}}
+      {%endfor%}
 
       <aside class="entry-meta">
         <a class="button button--commenting" href="https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government">
