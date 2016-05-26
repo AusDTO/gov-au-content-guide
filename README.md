@@ -6,13 +6,6 @@ This guide expands on the general APS Style Guide. It aims to give immediate adv
 
 It can be currently accessed at http://content-style-guide.apps.staging.digital.gov.au/
 
-There is a password lock currently enabled:
-
-- username: `dto`
-- password: `water7Mists#`
-
-This will remain **password protected** until the content guide is ready for general release.
-
 **Status:** the guide is in active development.
 
 ## Feedback
@@ -27,6 +20,10 @@ You can leave feedback to the guide in numerous ways:
 The guide is setup to provide access directly to the content of the guide via [prose.io](http://prose.io).
 
 To access and edit the guide go to [prose.io](http://prose.io) and sign in via your GitHub account.
+
+To mark-up your content, write in Markdown. We use the 'kramdown' (default) markdown parser, which provides a couple of nifty features. For a reference on what's possible see the [kramdown quick reference](http://kramdown.gettalong.org/quickref.html).
+
+We will document the `ui-core` and guides-specific styles available later.
 
 Please save into the `content-editing` branch (right-hand sidebar within prose).
 
@@ -44,7 +41,7 @@ This guide includes currently three projects that have not yet been refactored i
 
 ### Setup
 
-You would only need to do the following if you are a developer. If you are a content editor we recommend accessing and editing content for the guide via Prose.io.
+You would only *need* to do the following if you are a developer. If you are a content editor you can access and editing content for the guide via Prose.io. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
 
 There is also a simpler guide in the [README of the service-handbook project](https://github.com/AusDTO/service-handbook/blob/gh-pages/README.md) which might be useful to incorporate here.
 
@@ -88,8 +85,3 @@ Copyright Digital Transformation Office. Licensed under the MIT license. See LIC
 ![](https://www.dto.gov.au/images/govt-crest.png "logo of the DTO")
 
 The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
-
-## README todos
-
-- refine once `ui-core` and `gov-au-guides-generic-theme` are completed
--
