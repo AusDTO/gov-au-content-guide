@@ -1,8 +1,6 @@
-# GOV.AU content guide
+# Draft Content Style Guide
 
-Content guidelines for GOV.AU projects.
-
-This guide expands on the general APS Style Guide. It aims to give immediate advice on many aspects of writing good content for the web: concise, useful, and scannable.
+This guide is designed to help people working in the Australian Government create simpler, clearer and faster information.
 
 It can be currently accessed at http://content-style-guide.apps.staging.digital.gov.au/
 
@@ -12,7 +10,7 @@ It can be currently accessed at http://content-style-guide.apps.staging.digital.
 
 You can leave feedback to the guide in numerous ways:
 
-1. via the email feedback buttons in the A-Z section
+1. via the email feedback buttons and links in the guide (Please join our [Content Design in Government Google Group](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback)
 2. via GitHub issues.
 
 ## Editing the guide
@@ -21,7 +19,7 @@ The guide is setup to provide access directly to the content of the guide via [p
 
 To access and edit the guide go to [prose.io](http://prose.io) and sign in via your GitHub account.
 
-To mark-up your content, write in Markdown. We use the 'kramdown' (default) markdown parser, which provides a couple of nifty features. For a reference on what's possible see the [kramdown quick reference](http://kramdown.gettalong.org/quickref.html).
+To mark-up your content, write in Markdown. We use the 'kramdown' (default) markdown parser, which provides a couple of extra features. For a reference on what's possible see the [kramdown quick reference](http://kramdown.gettalong.org/quickref.html).
 
 We will document the `ui-core` and guides-specific styles available later.
 
@@ -78,10 +76,10 @@ If you still have troubles contact a dev!
 
 ## Copyright & License
 
-Copyright Digital Transformation Office. Licensed under the MIT license. See LICENSE file for more details.
+Copyright Digital Transformation Office. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
 
 ## About the DTO
 
-![](https://www.dto.gov.au/images/govt-crest.png "logo of the DTO")
+![](https://www.dto.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Office title")
 
 The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
