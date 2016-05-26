@@ -5,8 +5,8 @@ related:
 published: true
 ---
 
-Use the abbreviation C instead of spelling out the word celsius.
+Use the abbreviation °C instead of spelling out the word celsius.
 
 **For example**
 
-> Today we experienced an average temperature of 2C.
+> Today we experienced an average temperature of 2°C.
