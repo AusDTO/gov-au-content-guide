@@ -6,13 +6,6 @@ This guide expands on the general APS Style Guide. It aims to give immediate adv
 
 It can be currently accessed at http://content-style-guide.apps.staging.digital.gov.au/
 
-There is a password lock currently enabled:
-
-- username: `dto`
-- password: `water7Mists#`
-
-This will remain **password protected** until the content guide is ready for general release.
-
 **Status:** the guide is in active development.
 
 ## Feedback
@@ -92,10 +85,3 @@ Copyright Digital Transformation Office. Licensed under the MIT license. See LIC
 ![](https://www.dto.gov.au/images/govt-crest.png "logo of the DTO")
 
 The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
-
-## README todos
-
-Things to do here:
-
-- refine once `ui-core` and `gov-au-guides-generic-theme` are completed
-- document the `ui-core` and guides-specific styles available later
