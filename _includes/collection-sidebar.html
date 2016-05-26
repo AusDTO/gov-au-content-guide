@@ -2,7 +2,7 @@
   <ul>
     {% assign the-collection = page.collection %}
     {% assign c = site.collections | where:'label',the-collection | first %}
-    {% if c.docs.length > 1 %}
+    {% if c.docs.size > 1 %}
       {% for doc in c.docs %}
         {% if doc.layout == "collection-index" %}
         <li class="nav-item">
