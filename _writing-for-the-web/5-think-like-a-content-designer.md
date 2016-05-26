@@ -26,11 +26,11 @@ But content design goes deeper than that. In this role we get to really be part 
 
 Our writing and editing skills are still critical, and play a strong role in the many rounds of iterating that are part of each project. But our overall job is to make the information simpler, clearer and faster. This is a team effort.
 
-### Embrace the Discovery (user research) stage
+### Embrace user research (the Discovery stage)
 
 The creation of good content ideally begins at [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/) at the very first user research session where the content designer takes on the role of observer.
 
-The insights gained from listening and reflecting on what real people say, think and do in relation to the topic/s that we end up researching and writing about, is invaluable.
+The insights gained from listening and reflecting on what real people say, think and do in relation to the topics that we end up researching and writing about, is invaluable.
 
 This chance to participate gives you the language, the different perspectives and an understanding of the pain points. These naturally get reflected back into the voice and style of the content we help create.
 

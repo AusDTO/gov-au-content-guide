@@ -6,7 +6,7 @@ permalink: /:collection/:title
 published: true
 ---
 
-**Making sure your content is optimised for search engine (search engine optimisation or SEO) results is an important way of helping users find your information.**
+**Making sure your content is optimised for search engine results (search engine optimisation or SEO) is an important way of helping users find your information.**
 
 ### Develop a list of authentic keywords
 
@@ -33,7 +33,7 @@ Your meta description displays in a search result. Use 160 characters to be spec
 The description should:
 
 - contain the main and unique points of the page to help users decide whether to click
-- clearly cover the context of the web page and the intended audience–--to allow a non-expert to understand what the page is about and if it’s what they’re looking for
+- clearly cover the context of the web page and the intended audience---to allow a non-expert to understand what the page is about and if it’s what they’re looking for
 - include keywords close to the start of the description---this is better for users and search engines
 - use full sentences whenever possible to aid usability and readability.
 
@@ -45,7 +45,7 @@ This description of the Digital Transformation Office’s website succinctly des
 <meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">
 ```
 
-![Digital Transformation Office search result](../images/DTO-search.png)
+![Digital Transformation Office search result](../images/dto-search.png)
 
 Caption: Meta title and description as they display in a search result.
 
@@ -53,9 +53,9 @@ The Google Webmaster Central Blog has more [tips on writing good descriptions](h
 
 ## Write naturally for your users
 
-To improve the usefulness of your content
+To improve the usefulness of your content:
 
-- create content including keywords that your users are searching for
+- create content, including keywords, that your users are searching for
 - ensure your most important content is in HTML so search engines can find it and index it
 - use your keywords at least once, prominently near the top of the page
 - take a considered approach to repeating your keywords throughout your content. Only repeat where it makes sense and is in context.
