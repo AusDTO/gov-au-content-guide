@@ -36,7 +36,7 @@ Use ‘they’ when talking about, rather than to someone or something.
 
 For example:
 
-> The team will do user research so they understand the needs of users.
+> The team will do user research to help them understand the needs of users.
 
 ### Use fewer words
 

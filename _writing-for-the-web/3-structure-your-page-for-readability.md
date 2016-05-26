@@ -20,11 +20,11 @@ Don't waste the reader's time by burying what's most relevant to their needs at 
 
 Headings are signposts in text and navigational aids. Readers use headings to scan content and to gauge the relationship between, and importance of, sections of text.
 
-When designing the flow of information on a web page structure your content with hierarchical headers (H1, H2, H3). Use meaningful text and keywords in headers and links
+When designing the flow of information on a web page structure your content with hierarchical headers (`H1`, `H2`, `H3`). Use meaningful text and keywords in headers and links
 
 #### Limit levels
 
-Content should only have 1 top level (H1) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels where possible (H2 and H3).
+Content should only have 1 top level (`H1`) heading. Be careful with the number of headings added beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels where possible (`H2` and `H3`).
 
 #### Use space
 
@@ -62,4 +62,4 @@ Vary the length of your sentences to make content less tiring to read. For many 
 
 If you have long sentences with many elements, use a list to break up the text and make it easier for your reader to understand and scan.
 
-Use bullet lists by default. You should only use numbers or letters when it is necessary to show a priority order or chronology.
+Use bullet point lists by default. You should only use numbers or letters when it is necessary to show a priority order or chronology.

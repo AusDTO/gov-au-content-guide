@@ -6,14 +6,12 @@ abstract: "Guidance on web writing best practice covering plain English, structu
 published: true
 ---
 
-**This is a draft overview of the key things you need to be thinking about when preparing information for the web.**
+**This is a draft high-level summary of the key things you need to be thinking about when preparing information for the web.**
 
 Writing for the web is different to writing for print. Content must be user-focused, readable (and scannable) and accessible across all devices.
 
-This is a high-level summary of things you need to think about when writing for the web.
-
-Writing for the web requires you to think differently about how you may normally write, even if you are a digital native. You need to do the hard work to make it simple for users.
+You need to think differently about how you may normally write, even if you are a digital native. You need to do the hard work to make it simple for users.
 
 ## Give feedback
 
-Please join the Google Group [Content Design in Government](mailto:content-design-in-government@digital.gov.au) to give feedback.
+Please join the Google Group [Content Design in Government](https://groups.google.com/a/digital.gov.au/forum/?hl=en#!forum/content-design-in-government) to give feedback.
