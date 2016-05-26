@@ -6,7 +6,7 @@ abstract: a list of the sources and resources used in the making of the GOV.AU D
 published: true
 ---
 
-## What sources were used to create the Draft Content Style Guide v1.0?
+**What sources were used to create the Draft Content Style Guide v1.0?**
 
 We have been closely guided by the GOV.UK [Government Digital Service (GDS) Style Guide](https://www.gov.uk/guidance/style-guide) and [blog](https://gds.blog.gov.uk/).
 
