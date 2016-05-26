@@ -1,6 +1,5 @@
 ---
 title: "SEO & metadata"
-related: 
-  - "optimise-your-content-for-search"
+related: null
 published: true
 ---
