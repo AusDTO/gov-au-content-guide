@@ -4,7 +4,6 @@ related:
   - diversity
   - "google-docs"
   - pdfs
-  - publications
 published: true
 ---
 

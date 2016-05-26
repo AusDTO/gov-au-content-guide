@@ -1,7 +1,7 @@
 ---
 title: Semicolons
 related: 
-  - colons
+  - colons-and-semicolons
   - punctuation
 published: true
 ---

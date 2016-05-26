@@ -3,7 +3,7 @@ title: Screen readers
 related: 
   - accessibility
   - "alt-text"
-  - "headings-subheadings"
+  - "headings-and-subheadings"
   - links
   - "plain-english"
 published: true
