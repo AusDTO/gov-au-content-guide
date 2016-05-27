@@ -26,3 +26,8 @@ All government information must be available to all online users.
 - Use dot, dashes and patterns in graphs in addition to colour for differentiating different data.
 - Provide alt text for images.
 - Provide transcripts and captions for video and audio.
+
+**Other links**
+
+- [WAI's Tips for Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/ "WAI's Tips for Getting Started with Web Accessibility")
+- [WAI's Tips on Writing for Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/writing.html "WAI's Tips on Writing for Web Accessibility")
