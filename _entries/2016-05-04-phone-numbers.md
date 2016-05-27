@@ -18,10 +18,10 @@ Users viewing web pages on a mobile device expect that a phone number link will 
 
 **For example**
 
-> Please contact us on [02 6271 1000](tel:02 6271 1000)
+> Please contact us on [02 6271 1000](02 6271 1000)
 
-Remember all web pages can be accessed internationally. To create a link for an international number include the international dialling prefix
+Remember all web pages can be accessed internationally. To create a link for an international number include the international dialling prefix.
 
 **For example**
 
-> [61 2 6271 1000](tel:61 2 6271 1000)
+> [61 2 6271 1000](61 2 6271 1000)
