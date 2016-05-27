@@ -39,7 +39,7 @@ This guide includes currently three projects that have not yet been refactored i
 
 ### Setup
 
-You would only *need* to do the following if you are a developer. If you are a content editor you can access and editing content for the guide via Prose.io. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
+You would only **need** to do the following if you are a developer. If you are a content editor you can access and editing content for the guide via Prose.io. However, it can be nice having the guide locally to work and preview --- feel free to ask a developer if you would like to set up a local instance of the guide.
 
 There is also a simpler guide in the [README of the service-handbook project](https://github.com/AusDTO/service-handbook/blob/gh-pages/README.md) which might be useful to incorporate here.
 
