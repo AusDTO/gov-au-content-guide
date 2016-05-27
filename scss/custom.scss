@@ -44,6 +44,7 @@ $core-black: #000000;
 //   todo: We also have from ui-core: $desktop, $tablet, and $mobile...
 $large-screen: em(860);
 $medium-screen: em(769);
+$small-screen: em(426);
 $tiny-screen: em(320);
 
 body {
@@ -66,6 +67,10 @@ header {
     div.guide-title {
       @include span-columns(10 of 12);
       @include shift(1);
+      a {
+        border-bottom: none;
+        color: $core-white;
+      }
     }
 
     p {
@@ -169,7 +174,10 @@ main {
 
 article {
   @include span-columns(9 of 12);
-  margin-top: 120px;
+  @media (min-width: $small-screen) {
+    margin-top: 120px;
+  }
+  margin-top: 0px;
 
   li {
     margin-left: $base-spacing;
@@ -178,6 +186,9 @@ article {
 
 aside.sidebar {
   @include span-columns(3 of 12);
+  @media (max-width: $small-screen) {
+    @include span-columns(12);
+  }
 }
 
 .wrapper {
@@ -186,8 +197,14 @@ aside.sidebar {
 }
 
 .main-content {
-  //@include span-columns(9);
-  margin-top: 120px;
+  @media (max-width: $small-screen) {
+    @include span-columns(12);
+    @include pad(15px);
+
+    &:last-child {
+      margin-right: 15px;
+    }
+  }
 
   h2:before {
     display: block;
@@ -196,15 +213,7 @@ aside.sidebar {
     height: 150px;
     visibility: hidden;
 
-//    @media (max-width: 999px) {
-//      @include span-columns(12);
-//      margin-left: 15px;
-//      margin-right: 15px;
-//
-//      &:last-child {
-//        margin-right: 15px;
-//      }
-//    }
+
   }
 }
 
@@ -234,6 +243,10 @@ h1.page-heading {
     background-color: darken($dto-guide-desat-light-blue, 15%);
     color: white;
     border: none;
+  }
+  @include media(max-width $small-screen) {
+    width: 100%;
+    display: block;
   }
 }
 
@@ -282,7 +295,9 @@ nav.primary {
   top: 6.5em;
   width: 100%;
   z-index: 100;
-
+  @include media(max-width $small-screen) {
+    display: none;
+  }
   @include media(max-width $large-screen) {
     background: transparent;
   }
@@ -407,22 +422,20 @@ aside.navigation-wrapper {
 // style guide secondary navigation
 
 nav.secondary {
+
   margin-top: $base-spacing * 15.5;
-
-  @media (max-width: 999px) {
-    display: none;
+  @media (max-width: $small-screen) {
+    margin-top: $base-spacing * 3.4;
   }
-
   ul {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 0;
+    margin-bottom: -18px;
 
     li.nav-item {
       border-top: 1px solid darken($dto-light-gray, 15%);
       margin-bottom: 0;
       border-left: 2px solid transparent;
-
       &:not(.is-expanded ) {
         &:hover,
         &:active {
@@ -481,10 +494,6 @@ nav.secondary {
 
   ul.sub-nav {
     padding-left: 0;
-
-    &:last-child {
-      border-bottom: 1px solid rgba(34,44,53,0.20);
-    }
   }
 
   a {
@@ -521,18 +530,13 @@ nav.secondary {
 
 // style guide info panel
 .accordion {
-  $base-line-height: 1.5em !default;
-  $base-spacing: 1.5em !default;
-  $base-font-color: white !default;
-  $accordion-menu-background: #232D35;
-  $accordion-menu-sub-background: $dto-light-gray;
-  $accordion-menu-list-padding: ($base-spacing / 2) $gutter;
 
-  background-color: $accordion-menu-background;
   margin: 0 0 $base-spacing 0;
   padding: 0;
   position: relative;
-
+  @media (min-width: $small-screen) {
+    display: none;
+  }
   ul {
     margin: 0;
     padding: 0;
@@ -543,42 +547,21 @@ nav.secondary {
 
     &.accordion-heading {
       padding-bottom: 0;
+      border-left: 4px solid black;
+      border-bottom: 1px solid #c2ced6;
+      border-top: 1px solid #c2ced6;
+      min-height: 46px;
+      @include pad(10px);
     }
 
     &.accordion-heading:after {
-      color: white;
+      color: black;
       content: '\f078';
       font-family: 'FontAwesome';
       font-size: 15px;
       right: 15px;
-      top: 14px;
+      top: 11px;
       position: absolute;
-    }
-
-    > a {
-      color: #FFFFFF;
-      display: block;
-      font-family: OpenSans-Bold;
-      font-size: 20px;
-      padding: $accordion-menu-list-padding;
-      text-decoration: none;
-    }
-
-    &:last-child {
-      border: none;
-    }
-
-    p {
-      margin: 0;
-    }
-  }
-
-  ul.submenu {
-    display: none;
-
-    li {
-      background-color: $accordion-menu-sub-background;
-      padding: 20px;
     }
   }
 
@@ -589,6 +572,11 @@ nav.secondary {
     &:after {
       transform: rotate(-180deg);
     }
+  }
+}
+.secondary-menu {
+  @media (max-width: $small-screen) {
+    display: none;
   }
 }
 // end style guide info panel
@@ -906,9 +894,10 @@ nav#homepage-feature {
     @include flex-grow(1);
 
     margin-bottom: ($base-spacing * 2);
-
-    &:nth-child(odd) {
-      margin-right: ($base-spacing * 3);
+    @include media(min-width $small-screen) {
+      &:nth-child(odd) {
+        margin-right: ($base-spacing * 3);
+      }
     }
   }
 
