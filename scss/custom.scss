@@ -430,7 +430,7 @@ nav.secondary {
   ul {
     list-style: none;
     padding-left: 0;
-    margin-bottom: -18px;
+    margin-bottom: -1px;
 
     li.nav-item {
       border-top: 1px solid darken($dto-light-gray, 15%);
@@ -465,7 +465,7 @@ nav.secondary {
         }
 
         &.js-accordion-trigger {
-          font-size: 1.9em;
+          font-size: 1em;
           padding: $small-spacing / 2 4px $small-spacing / 2  $small-spacing / 2;
 
         }
