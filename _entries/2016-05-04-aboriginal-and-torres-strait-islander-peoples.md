@@ -1,6 +1,6 @@
 ---
 title: "Aboriginal & Torres Strait Islander peoples"
-related: 
+related:
   - "inclusivity-diversity"
 published: true
 ---
@@ -9,8 +9,8 @@ Aboriginal and Torres Strait Islander peoples represent a diverse range of cultu
 
 Do not use
 
-- Aboriginals, Aborigine --- these words are associated with colonisation and assimilation and are distressing to many people
-- ATSI --- never use the acronym ATSI aas this is considered disrespectful and degrading
+- Aboriginals, Aborigine---these words are associated with colonisation and assimilation and are distressing to many people
+- ATSI---never use the acronym ATSI aas this is considered disrespectful and degrading
 - Aboriginal and/or Torres Strait Islander Australians.
 
 Instead use

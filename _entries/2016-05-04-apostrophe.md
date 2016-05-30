@@ -1,6 +1,6 @@
 ---
 title: Apostrophe
-related: 
+related:
   - "abbreviations-and-acronyms"
   - contractions
   - punctuation
@@ -17,9 +17,8 @@ published: true
 
 **For example**
 
-> It’s difficult.
-
-### Who’s the right person?
+> - It’s difficult.
+> - Who’s the right person?
 
 **For example**
 

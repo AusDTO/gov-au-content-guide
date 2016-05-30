@@ -1,6 +1,6 @@
 ---
 title: "Calls-to-action"
-related: 
+related:
   - buttons
   - links
   - audience
