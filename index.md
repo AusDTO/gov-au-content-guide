@@ -25,13 +25,15 @@ We welcome this guide being adopted across government and hope that it is a star
 
 We believe that making things open makes them better. It’s one of the [Digital Transformation Office design principles](https://www.dto.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
 
-Please bear with us as we iterate both on guide content, and the platform and it's gov.au dependencies (the draft label extends to both content and code).
+We are also iterating the platform code to support this and future work.
 
 ***
 
 ## How is this guide related to the Digital Service Standard?
 
 The [Digital Service Standard](https://www.dto.gov.au/standard/) requires teams to build services using a [style guide for online content](https://www.dto.gov.au/standard/6-consistent-and-responsive/). This is the first release of guidance that will eventually become the style guide for digital content.
+
+This and other [GOV.AU Guides](https://www.dto.gov.au/standard/design-guides/gov-au-guides/) will support the Digital Service Standard.
 
 ***
 
