@@ -70,6 +70,14 @@ header {
       a {
         border-bottom: none;
         color: $core-white;
+        text-shadow: darken($dto-desat-blue, 50%);
+
+        &:hover,
+        &:focus {
+          background-color: $dto-desat-blue;
+          color: lighten($dto-desat-blue, 50%);
+          text-shadow: darken($dto-desat-blue, 75%);
+        }
       }
     }
 
