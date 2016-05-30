@@ -52,7 +52,7 @@ Like this
 
 > The Honourable Minister for Education, [insert name], opened the stadium. The minister left after morning tea.
 
-or use this
+Or this
 
 > The Member for Bligh, [insert name], MP.
 

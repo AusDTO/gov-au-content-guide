@@ -1,6 +1,6 @@
 ---
 title: "Abbreviations & acronyms"
-related: 
+related:
   - contractions
   - "dates-and-time-periods"
   - "government-naming-conventions"
@@ -15,7 +15,7 @@ Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers.
 
 **For example**
 
-> 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW.
+> 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW
 
 Do not use punctuation for eg ie and etc.
 
@@ -27,7 +27,7 @@ For honours, awards and distinctions, write the abbreviation without full stops.
 
 **For example**
 
-> AO, OM, BA, DipEd, PhD.
+> AO, OM, BA, DipEd, PhD
 
 When referring to people and animals use the words million, trillion and billion. For numbers upwards of 1 million use the abbreviation m, bn and tn. Use the abbreviation m, bn and tn in headings, tables and graphics.
 
@@ -35,7 +35,7 @@ For temperature use the abbreviation:
 
 **For example**
 
-> A temperature of 2C is about the same as 36F.
+> A temperature of 2°C is about the same as 36°F.
 
 Don’t use an acronym unless the full name has already been said once:
 

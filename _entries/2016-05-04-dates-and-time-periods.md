@@ -21,8 +21,8 @@ To indicate spans of time, use from ... to ... or dashes. From ... to ... is eas
 
 **For example**
 
-> from 10 to 12 October or 10–12 October
-> from 10 am to 11 am or 10 am–11 am.
+> - from 10 to 12 October or 10–12 October
+> - from 10 am to 11 am or 10 am–11 am.
 
 Use numbers at the beginning of a line, bulleted item or sentence.
 
