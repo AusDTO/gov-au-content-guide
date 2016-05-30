@@ -44,7 +44,7 @@ Places that are descriptive
 
 **For example**
 
-> south-east NSW.
+> south-east NSW
 
 **Further examples**
 
