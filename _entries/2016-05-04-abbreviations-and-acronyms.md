@@ -15,7 +15,7 @@ Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers.
 
 **For example**
 
-> 6 kg, 6 kJ, 6 km/h (not 6 kph), 6 kW
+> 6kg, 6kJ, 6km/h (not 6kph), 6kW
 
 Do not use punctuation for eg ie and etc.
 

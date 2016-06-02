@@ -1,6 +1,6 @@
 ---
 title: "Dates & time periods"
-related: 
+related:
   - time
 published: true
 ---
@@ -11,7 +11,7 @@ No punctuation is used for dates.
 
 > On Tuesday 8 October 2016. Not 8th October, 2016.
 
-Time periods: use numbers. 
+Time periods: use numbers.
 
 **For example**
 
@@ -21,8 +21,8 @@ To indicate spans of time, use from ... to ... or dashes. From ... to ... is eas
 
 **For example**
 
-> - from 10 to 12 October or 10–12 October
-> - from 10 am to 11 am or 10 am–11 am.
+> - from 10 to 12 October, or 10–12 October
+> - from 10am to 11am, or 10am–11am.
 
 Use numbers at the beginning of a line, bulleted item or sentence.
 

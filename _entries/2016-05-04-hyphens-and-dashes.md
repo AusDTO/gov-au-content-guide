@@ -24,7 +24,7 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 > 27% of Australians were born overseas---another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
 
 - In Microsoft Word: hold down the <kbd>Alt</kbd> key, type <kbd>0151</kbd> on the numeric keypad and then release the <kbd>Alt</kbd> key
-- On Mac: Hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd> 
+- On Mac: Hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
 - In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (<kbd>---</kbd>)
 - Google Docs: go to Insert then Special characters.
 
@@ -36,5 +36,5 @@ To indicate spans of time or page numbers etc use the word 'to' or 'from' prefer
 
 **For example**
 
-> - from page 64 to 78 or page 64-78 
-- from 10 am to 11 am or 10 am-11 am.
+> - from page 64 to 78 or page 64-78
+> - from 10am to 11am or 10am-11am.
