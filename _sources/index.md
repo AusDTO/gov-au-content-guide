@@ -43,8 +43,8 @@ The Draft Content Style Guide v1.0 has also been guided by these resources:
 - Online Style Guide, July 2011, Department of Communication and the Arts
 - [Online writing](https://www.dto.gov.au/standard/design-guides/online-writing/), Design guides, Digital Service Standard, Digital Transformation Office
 - [Plain English Good Practice Guide ](http://publicsector.sa.gov.au/wp-content/uploads/20070101-Good-practice-guide-Plain-English.pdf), 2007, Government Reform Commission, Government of South Australia
-- [Plain English Manual](https://www.opc.gov.au/plain/docs.htm), Office of Parliamentary Counsel
-- [Search engine optimisation](https://www.dto.gov.au/standard/design-guides/search-engine-optimisation/), Design guides, Digital Service Standard, Digital Transformation Office
+- [Plain English Manual, 776KB PDF](https://www.opc.gov.au/about/docs/Plain_English.pdf), Office of Parliamentary Counsel
+- Search engine optimisation, Design guides, Digital Service Standard, Digital Transformation Office
 - [Style guide, A to Z, GOV.UK](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style), Government Digital Service (GDS)
 - Style Guide for Australian Public Service Staff, 2012, Australian Public Service Commission
 - [Style manual for authors, editors and printers](http://www.australia.gov.au/about-government/publications/style-manual), 6th edition 2002, first published 1966, John Wiley and Sons Australia Ltd
