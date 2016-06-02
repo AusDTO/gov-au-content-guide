@@ -1,7 +1,7 @@
 ---
-title: "Hyphens & dashes"
-related: 
-  - "em-dashes"
+title: Hyphens & dashes
+related:
+  - em-dashes
 published: true
 ---
 
@@ -15,13 +15,24 @@ Hyphens can be used to differentiate meaning in verbs eg the group is going to r
 
 Use when the second word is ‘up’ eg meet-up, or when the first and second word ends with the same letter eg re-engage.
 
-### Em dashes
+### En dashes
 
 Use em dashes without a space on either side (---) when adding an idea to a sentence or instead of starting a new sentence.
 
 **For example**
 
 > 27% of Australians were born overseas---another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
+
+### Em dashes
+
+Use em dashes instead of en dashes to break up sentences.
+
+To indicate spans of time or page numbers etc use the word 'to' or 'from' preferably or a hyphen.
+
+**For example**
+
+> - from page 64 to 78 or page 64---78
+- from 10 am to 11 am or 10 am---11 am.
 
 - In Microsoft Word: hold down the <kbd>Alt</kbd> key, type <kbd>0151</kbd> on the numeric keypad and then release the <kbd>Alt</kbd> key
 - On Mac: Hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd> 
