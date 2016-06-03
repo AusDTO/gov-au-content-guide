@@ -37,4 +37,4 @@ To indicate spans of time or page numbers etc use the word 'to' or 'from' prefer
 **For example**
 
 - from page 64 to 78 or page 64-78
-- from 10 am to 11 am or 10 am-11 am.
+- from 10am to 11am or 10am-11am.
