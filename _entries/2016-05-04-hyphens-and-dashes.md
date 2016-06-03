@@ -15,7 +15,7 @@ Hyphens can be used to differentiate meaning in verbs eg the group is going to r
 
 Use when the second word is ‘up’ eg meet-up, or when the first and second word ends with the same letter eg re-engage.
 
-### En dashes
+### Em dashes
 
 Use em dashes without a space on either side (---) when adding an idea to a sentence or instead of starting a new sentence.
 
@@ -28,13 +28,13 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 - In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (<kbd>---</kbd>)
 - Google Docs: go to Insert then Special characters.
 
-### Em dashes
+### En dashes
 
-Use em dashes (---) instead of en dashes (--)to break up sentences.
+Use em dashes (---) instead of en dashes (--) to break up sentences.
 
 To indicate spans of time or page numbers etc use the word 'to' or 'from' preferably or a hyphen.
 
 **For example**
 
-> - from page 64 to 78 or page 64-78
-> - from 10am to 11am or 10am-11am.
+- from page 64 to 78 or page 64-78
+- from 10 am to 11 am or 10 am-11 am.
