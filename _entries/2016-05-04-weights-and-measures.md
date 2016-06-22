@@ -11,7 +11,7 @@ Spell out when not using a number
 
 > How many kilometres did they travel?
 
-Abbreviate when using a number and allow a space between
+Abbreviate when using a number. Do not put a space between number and measure.
 
 **For example**
 

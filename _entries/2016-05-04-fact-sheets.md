@@ -1,11 +1,11 @@
 ---
 title: Fact sheets
-related: 
+related:
   - documents
   - pdfs
 published: true
 ---
 
-Fact sheet information should first be offered as an accessible and printable HTML page.
+Fact sheet content should be offered in HTML to meet accessibility requirements and allow for printing.
 
-If there is a need to present the information as a PDF, both versions should be offered and the PDF should be made accessible.
+If there is a need to offer the information as a PDF in addition to HTML, the PDF should be made accessible.

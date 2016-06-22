@@ -1,6 +1,6 @@
 ---
 title: Accessibility
-related: 
+related:
   - documents
   - "google-docs"
   - "headings-and-subheadings"
@@ -26,6 +26,9 @@ All government information must be available to all online users.
 - Use dot, dashes and patterns in graphs in addition to colour for differentiating different data.
 - Provide alt text for images.
 - Provide transcripts and captions for video and audio.
+
+### PDFs
+If you can demonstrate a strong user need to provide a PDF, it must be accessible and made available in another format such as HTML.
 
 **Other links**
 
