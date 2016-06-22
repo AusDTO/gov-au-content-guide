@@ -1,6 +1,6 @@
 ---
 title: Publications
 related:
-  - capitalisation#legislation
+  - capitalisation
 published: true
 ---
