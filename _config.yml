@@ -47,6 +47,9 @@ collections:
   ideas-for-the-future:
     title: "Ideas for the future"
     output: true
+  updates:
+    title: "Updates"
+    output: true
 
 # Markdown build settings.
 markdown: kramdown
