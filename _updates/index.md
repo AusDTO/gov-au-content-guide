@@ -1,8 +1,8 @@
 ---
 layout: collection-index
-title: "June 2016 updates"
+title: "June 2016"
 collection-title: "Updates"
-abstract: Topics to come in the future.
+abstract: Recent changes to this guide.
 published: true
 ---
 
