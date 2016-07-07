@@ -7,7 +7,7 @@ published: true
 ---
 
 ### [A to Z: What is this?](http://content-style-guide.apps.staging.digital.gov.au/az-guide.html)
-**Removed** `precise and`
+**Removed** 'precise and'
 
 **Why?** Proofing error
 
@@ -15,13 +15,11 @@ published: true
 
 **Added**:
 
-```
-PDFs
+> ### PDFs
+>
+> If you can demonstrate a strong user need to provide a PDF, it must be accessible and made available in another format such as HTML.
 
-If you can demonstrate a strong user need to provide a PDF, it must be accessible and made available in another format such as HTML.
-```
-
-**Why?** User need for accessibility PDF guidance
+**Why?** User need for guidance on accessible PDFs
 
 ### [Apostrophes](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/a.html#apostrophe)
 **Converted** heading styles in text.
@@ -30,19 +28,17 @@ If you can demonstrate a strong user need to provide a PDF, it must be accessibl
 
 ### [Bold](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/b.html#bold)
 
-**Replaced** `Example` with `For example`.
+**Replaced** 'Example' with 'For example'.
 
 **Why?** Proofing error
 
 ### [Capitalisation](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/c.html#capitalisation)
 
-**Added** Department titles example:
+**Added** department titles example:
 
-```
-Read Steps to Enter Residential Aged Care before our workshop.
-```
+> Read Steps to Enter Residential Aged Care before our workshop.
 
-**Added** related link to [Titles](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/t.html#titles)
+**Added** related link to [Titles](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/t.html#titles).
 
 **Why?** Feedback that titles guidance was missing
 
@@ -50,95 +46,83 @@ Read Steps to Enter Residential Aged Care before our workshop.
 
 **Added** related links to [Video](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/v.html#video) and [Photos](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/p.html#photos)
 
-**Why?** For relevance
+**Why?** Discoverability of relevant content
 
 ### [Commas](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/c.html#commas)
 
 **Added**:
 
-```
-Do not use an Oxford comma—eg in a sentence before the final ‘and’ or ‘or’ in a list.
+> Do not use an Oxford comma—eg in a sentence before the final ‘and’ or ‘or’ in a list.
+>
+> **For example**
+>
+> > We share stories from our user research to identify positives, negatives, opportunities, and themes.
+> >
+> Alternatively, shorten the sentence to 1 idea or use a bulleted list.
 
-For example
-
-We share stories from our user research to identify positives, negatives, opportunities, and themes.
-
-Alternatively, shorten the sentence to one idea or use a bulleted list.
-```
-
-**Why?** Response to feedback asking about the use of Oxford commas
+**Why?** Feedback asking about the use of Oxford commas
 
 ### [Documents](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/d.html#documents)
 
 **Changed**:
 
-```
-The Microsoft Word format does not currently conform to WCAG 2.0 when viewed on a mobile.
-```
+> The Microsoft Word format does not currently conform to WCAG 2.0 when viewed on a mobile.
 
 **To**:
 
-```
-Microsoft Word formats (.doc and .docx) do not currently conform to WCAG 2.0 when viewed on mobile devices.
-```
+> Microsoft Word formats (`.doc` and `.docx`) do not currently conform to WCAG 2.0 when viewed on mobile devices.
 
-**Why?** For accuracy
+**Why?** Improve accuracy
 
 ### [Fact sheets](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/f.html#fact-sheets)
 
 **Replaced**:
 
-```
-Fact sheet information should first be offered as an accessible and printable HTML page.
-
-If there is a need to present the information as a PDF, both versions should be offered and the PDF should be made accessible.
-```
+> Fact sheet information should first be offered as an accessible and printable HTML page.
+>
+> If there is a need to present the information as a PDF, both versions should be offered and the PDF should be made accessible.
 
 **With**:
 
-```
-Fact sheet content should be offered in HTML to meet accessibility requirements and allow for printing.
+> Fact sheet content should be offered in HTML to meet accessibility requirements and allow for printing.
+>
+> If there is a need to offer the information as a PDF in addition to HTML, the PDF should be made accessible.
 
-If there is a need to offer the information as a PDF in addition to HTML, the PDF should be made accessible.
-```
-
-**Why?** For accuracy
+**Why?** Improve accuracy
 
 ### [Hyphens & dashes](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/h.html#hyphens-and-dashes)
 
-**Replaced** `Many commonly used words are hyphenated eg log-in.`
+**Replaced** 'Many commonly used words are hyphenated eg log-in.'
 
 **With**:
 
-```
-Some nouns are also hyphenated eg about-face, air-conditioning.
+> Some nouns are also hyphenated eg about-face, air-conditioning.
+>
+> Note login is not hyphenated.
+>
+> **For example**
+>
+> > You need to use your login (noun) to log in (verb) to the site.
 
-Note login is not hyphenated.
-
-For example
-
-You need to use your login (noun) to log in (verb) to the site.
-```
-
-**Why?** To correct and explain the use of `login` and `log in`.
+**Why?** To correct and explain the use of 'login' and 'log in'.
 
 ### [Italics](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/i.html#italics)
 
-**Change** `Screen readers don’t recognise them`
+**Changed** 'Screen readers don’t recognise them'
 
-**To** `Screen readers interpret them in different ways`
+**To**:
 
-**Why?** Needed a more accurate description
+> 'Screen readers interpret them in different ways'
+
+**Why?** User need for more accurate description
 
 ### [PDF](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/p.html#pdfs)
 
 **Added**:
 
-```
-You also need to make the form available in another format such as HTML.
-```
+> You also need to make the form available in another format such as HTML.
 
-**Why?** Corrected typing error and reworked sentence.
+**Why?** Fixed typing error and reworked sentence
 
 ### [Photos](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/p.html#photos)
 
@@ -154,51 +138,48 @@ You also need to make the form available in another format such as HTML.
 
 ### [Time](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/t.html#time)
 
-**Change** `9.00am` to `9:00am`
+**Changed** '9.00am' to '9:00am'.
 
 **Why?** Proofing error
 
 ### [Titles](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/t.html#titles)
 
-**Add**:
+**Added**:
 
-```
-Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs, albums. Capitalise the principal words only.
+> Use title case for titles of books, films, photographs, publications, TV programs, paintings, songs, albums. Capitalise the principal words only.
+>
+> **For example**
+>
+>> War and Peace
+>
+> Exceptions are when a, and, at, for, from, in, of, on, the and to are at the beginning of the title.
+>
+> **For example**
+>
+>> The Sound of Silence
 
-For example
-
-War and Peace
-
-Exceptions are when a, and, at, for, from, in, of, on, the and to are at the beginning of the title.
-
-For example
-
-The Sound of Silence
-```
-
-**Why?** Titles needed further explanation
+**Why?** User need for explaining titles better
 
 ### [Video](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/v.html#video)
 
-**Added**
+**Added**:
 
-```Transcripts
+> ### Transcripts
+>
+> - Add the HTML transcript to the same page as the video. Alternatively, link to a separate page from immediately below or beside the video itself.
+> - Include speaker names. If only 1 speaker it’s generally not necessary to include unless their identity is crucial to the content. If more than 1 speaker, identify each speaker’s contribution.
+> - Include all speech content.
+> - Only include non-verbal information, if relevant, enclosed in square brackets eg ‘...to get to the other side [laughing]’.
+> - End the transcript with the words ‘End of transcript’.
 
-- Add the HTML transcript to the same page as the video. Alternatively, link to a separate page from immediately below or beside the video itself.
-- Include speaker names. If only 1 speaker it’s generally not necessary to include unless their identity is crucial to the content. If more than 1 speaker, identify each speaker’s contribution.
-- Include all speech content.
-- Only include non-verbal information, if relevant, enclosed in square brackets eg ‘...to get to the other side [laughing]’.
-- End the transcript with the words ‘End of transcript’.
-```
-
-**Why?** Valuable information provided as feedback.
+**Why?** User suggested valuable content.
 
 ### [Spelling](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/s.html#spelling)
 
-**Change** `elearning` to `e-learning`.
+**Changed** 'elearning' to 'e-learning'.
 
 **Why?** Proofing error
 
-**Moved** the alphabetical order of `webpage` and its duplicate entry in Common digital terms.
+**Moved** moved 'webpage' to correct position in alphabetical order and removed duplicate entry in Common digital terms.
 
 **Why?** Proofing error
