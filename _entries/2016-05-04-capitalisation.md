@@ -34,7 +34,7 @@ Capital letters are hard to read. Keep them to a minimum.
 
 > Department of Communications and Arts, but then the department.
 
-<a name="Legislation"></a>#### Legislation, publications, policies, programs, titles and reports
+#### Legislation, publications, policies, programs, titles and reports
 
 **For example**
 
