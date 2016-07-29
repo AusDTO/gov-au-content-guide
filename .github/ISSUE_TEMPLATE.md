@@ -7,7 +7,7 @@ Please log a separate GitHub issue for each comment.
 Briefly, what is the problem? What do you need?
 -->
 
-## Which entry / section is this related to?
+## Which entry/section is this related to?
 <!-- For example: Hyperlinks -->
 
 ## Good example
