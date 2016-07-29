@@ -1,46 +1,14 @@
 <!--
-
-# Title Line Templates:
-
-Feature Request - [Name the feature you'd like added]
-
-Bug - [A brief statement describing what's wrong]
-
-Use a title line as the title of your issue, then delete these lines.
-
+Please log a separate GitHub issue for each comment.
 -->
 
+# Issue
+<!--
+Briefly, what is the problem? What do you need?
+-->
 
-# What do you need from the Content Style Guide?
+## Which entry / section is this related to?
+<!-- For example: Hyperlinks -->
 
-## Topic / theme of your
-
-## Which entry / section
-
-## Example
-
-
-
-
-## What I did
-
-Describe the task you were trying to complete, or the steps you carried out before
-you encountered the issue. Include screenshots or any other information that you think might be useful.
-
-### What browser and device I was using
-
-Include the browser and device you were using while trying to complete your task (if relevant to the feedback)
-
-## What I expected to see
-
-If something behaved differently to what you expected, describe how. And if
-something's not working that was before, let us know when it last worked.
-
-## What I saw
-
-Include screenshots if it makes things easier to explain. If you encountered
-an error message, include it here.
-
-### Additional information (optional)
-
-If there's anything else you think might give context, include it here.
+## Good example
+<!-- Have you seen style content elsewhere we should look at? -->
