@@ -11,7 +11,8 @@ published: true
 
 **For example**
 
-> Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
+> - Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
+> - Jess’s start-up (singular name possessive).
 
 ### Is a substitute for ‘is’
 
