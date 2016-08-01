@@ -1,6 +1,6 @@
 ---
 title: Government naming conventions
-related: 
+related:
   - capitalisation
   - titles
 published: true
@@ -36,7 +36,7 @@ When referring to government departments write the department’s name in full o
 
 **For example**
 
-> The Department for Communication and the Arts is the Australian Government’s leading advisor on communications. Our department is based in Canberra.
+> The Department for Communication and the Arts is the Australian Government’s leading adviser on communications. Our department is based in Canberra.
 
 Use first person pronouns through the rest of the text eg we, us.
 
