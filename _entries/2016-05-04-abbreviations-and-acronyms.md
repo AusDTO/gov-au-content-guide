@@ -8,6 +8,7 @@ related:
   - punctuation
   - "symbols-and-characters"
   - "weights-and-measures"
+  - "eg-ie-etc-nb"
 published: true
 ---
 
@@ -16,12 +17,6 @@ Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers.
 **For example**
 
 > 6kg, 6kJ, 6km/h (not 6kph), 6kW
-
-Do not use punctuation for eg ie and etc.
-
-But when starting a sentence use ‘For example … ’ and ‘That is …’
-
-Do not use NB for note well.
 
 For honours, awards and distinctions, write the abbreviation without full stops.
 
@@ -43,7 +38,7 @@ Don’t use an acronym unless the full name has already been said once:
 
 > Digital Transformation Office (DTO).
 
-If an acronym is well known to an Australian audience, eg NSW or ABC, there is no need to spell it out. If you are writing for an international audience spell it out once and then use the acronym.
+If an acronym is well known to an Australian audience, such as NSW or ABC, there is no need to spell it out. If you are writing for an international audience spell it out once and then use the acronym.
 
 Most acronyms for companies or organisations are uppercase with the exception of Anzac.
 

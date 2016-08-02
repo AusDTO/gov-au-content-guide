@@ -38,7 +38,7 @@ When referring to government departments write the department’s name in full o
 
 > The Department for Communication and the Arts is the Australian Government’s leading adviser on communications. Our department is based in Canberra.
 
-Use first person pronouns through the rest of the text eg we, us.
+Use first person pronouns through the rest of the text: we, us.
 
 When naming other departments, use the name in full followed by the acronym in brackets.
 

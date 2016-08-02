@@ -33,7 +33,7 @@ Always choose the shorter plain English word, term, sentence and paragraph over 
 | concerning                                                                                                      | about                                      |
 | consequently                                                                                                    | so                                         |
 | create a dialogue with them                                                                                     | speak to people                            |
-| deliver, drive                                                                                                  | say what you are doing eg increasing ...   |
+| deliver, drive                                                                                                  | say what you are doing, for example 'increasing' ...   |
 | despite the fact that                                                                                           | although, despite                          |
 | disburse                                                                                                        | pay                                        |
 | discontinue                                                                                                     | stop                                       |

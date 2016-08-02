@@ -5,11 +5,11 @@ related:
 published: true
 ---
 
-Use hyphens when 2 or more words form an adjective eg a first-class experience.
+Use hyphens when 2 or more words form an adjective, for example 'a first-class experience'.
 
-Do not use hyphens when joining an adverb to a noun eg highly intelligent.
+Do not use hyphens when joining an adverb to a noun, for example 'highly intelligent'.
 
-Some nouns are also hyphenated eg about-face, air-conditioning. Check the Macquarie Dictionary.
+Some nouns are also hyphenated, for example about-face, air-conditioning. Check the Macquarie Dictionary.
 
 Note login is not hyphenated.
 
@@ -17,9 +17,9 @@ Note login is not hyphenated.
 
 > You need to use your login (noun) to log in (verb) to the site.
 
-Hyphens can be used to differentiate meaning in verbs eg the group is going to re-form, or we need to reform the policy.
+Hyphens can be used to differentiate meaning in verbs. For example 'the group is going to re-form' or 'we need to reform the policy'.
 
-Use when the second word is ‘up’ eg meet-up, or when the first and second word ends with the same letter eg re-engage.
+Use when the second word is ‘up’ (for example meet-up), or when the first and second word ends with the same letter (for example re-engage).
 
 ### Em dashes
 
