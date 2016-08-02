@@ -16,7 +16,7 @@ Use relevant keywords prominently and appropriately in titles and subheadings, a
 
 **For example**
 
-If you were writing about aged health care, you would include keywords such as nursing homes, help at home, homecare, independent living etc. This way you adapt your writing style to the language of the people who you want to read it.
+If you were writing about aged health care, you would include keywords such as 'nursing homes', 'help at home', 'homecare' and 'independent living'. This way you adapt your writing style to the language of the people who you want to read it.
 
 ### Keyword analytics tools
 

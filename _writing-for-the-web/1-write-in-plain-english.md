@@ -52,6 +52,6 @@ Write as your users talk rather than how government speaks internally. Leave out
 
 ### Think about non-native English speakers
 
-Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third, fourth etc language.
+Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third and fourth language.
 
 Consider whether the information should also be provided in appropriate community languages---a good idea if there are compliance requirements.

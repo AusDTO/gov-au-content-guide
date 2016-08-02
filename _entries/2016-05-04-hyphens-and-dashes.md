@@ -38,7 +38,7 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 
 Use em dashes (---) instead of en dashes (--) to break up sentences.
 
-To indicate spans of time or page numbers etc use the word 'to' or 'from' preferably or a hyphen.
+To indicate spans of time or page numbers use the word 'to' or 'from' preferably or a hyphen.
 
 **For example**
 

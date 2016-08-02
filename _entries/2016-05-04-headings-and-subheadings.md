@@ -1,6 +1,6 @@
 ---
 title: "Headings & subheadings"
-related: 
+related:
   - links
 published: true
 ---
@@ -19,7 +19,7 @@ Start headings and subheadings with keywords that help your user make a connecti
 
 Break up a page with useful subheadings that guide the user and help them to know the importance of and relationship between sections of text.
 
-Avoid meaningless words such as more, related information etc. Instead state what you are describing.
+Avoid meaningless words such as 'more' and 'related information'. Instead state what you are describing.
 
 **For example**
 
