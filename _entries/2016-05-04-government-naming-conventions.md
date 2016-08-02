@@ -6,7 +6,9 @@ related:
 published: true
 ---
 
-### Government
+Use 'Australian Government' when talking about the national government of Australia. Don't use 'Government', 'Commonwealth Government' or 'federal government'.
+
+Only use the ‘Commonwealth of Australia’ when talking about the legal entity established by the Constitution.
 
 The words government, group, parliament, state and territory are only capitalised as part of a formal title.
 
@@ -15,12 +17,6 @@ The words government, group, parliament, state and territory are only capitalise
 > The Australian Government welcomed the delegates.
 >
 > The delegates were pleased that the government had welcomed them.
-
-Use this
-
-> Australian Government, not Commonwealth Government or Federal Government
-
-Use the ‘Commonwealth of Australia’ as the legal entity established by the Constitution.
 
 When referring to the Australian Government as part of a group of governments, set it apart.
 
