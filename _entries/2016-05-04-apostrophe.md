@@ -23,7 +23,7 @@ published: true
 
 **For example**
 
-> For ‘us’ (eg let’s go) or for ‘are’ (eg you’re right)
+> For ‘us’ (let’s go) or for ‘are’ (you’re right)
 
 ### Is used for expressions of time
 
