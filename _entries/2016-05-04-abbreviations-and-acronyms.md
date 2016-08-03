@@ -1,11 +1,11 @@
 ---
 title: "Abbreviations & acronyms"
 related:
-  - contractions
+  - "contractions"
   - "dates-and-time-periods"
   - "government-naming-conventions"
-  - numbers
-  - punctuation
+  - "numbers"
+  - "punctuation"
   - "symbols-and-characters"
   - "weights-and-measures"
   - "eg-ie-etc-nb"
