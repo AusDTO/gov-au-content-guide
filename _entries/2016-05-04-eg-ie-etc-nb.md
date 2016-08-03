@@ -1,7 +1,6 @@
 ---
 title: eg, ie, etc & nb
 related:
-  - abbreviations
   - "plain-english"
   - "screen-readers"
   - "abbreviations-and-acronyms"
