@@ -2,7 +2,7 @@ Use the GitHub title line for your issue, then delete these lines.
 
 Please log a separate GitHub issue for each comment.
 
-## Which do you need?
+## What do you need?
 
 What is the problem?
 
