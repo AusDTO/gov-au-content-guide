@@ -38,9 +38,9 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 
 Use em dashes (---) instead of en dashes (--) to break up sentences.
 
-To indicate spans of time or page numbers use the word 'to' or 'from' preferably or a hyphen.
+Use ‘to’ in time and date ranges---not hyphens or en dashes.
 
 **For example**
 
-- from page 64 to 78 or page 64-78
-- from 10am to 11am or 10am-11am.
+- The 2014 to 2015 tax year.
+- We are open Monday to Friday, 9am to 5pm.
