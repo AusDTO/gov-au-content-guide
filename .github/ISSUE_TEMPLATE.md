@@ -1,14 +1,15 @@
-<!--
-Please log a separate GitHub issue for each comment.
--->
+Use the GitHub title line for your issue, then delete these lines.
 
-# Issue
-<!--
-Briefly, what is the problem? What do you need?
--->
+Please log a separate GitHub issue for each comment.
+
+## What do you need?
+
+What is the problem?
 
 ## Which entry/section is this related to?
-<!-- For example: Hyperlinks -->
+
+For example: Hyperlinks
 
 ## Good example
-<!-- Have you seen style content elsewhere we should look at? -->
+
+Have you seen style content elsewhere we should look at?
