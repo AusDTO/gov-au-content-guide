@@ -21,8 +21,13 @@ Use ‘to’ in time and date ranges---not hyphens or en dashes.
 
 **For example**
 
-> - GovHack runs 29 to 31 July 2016.
-> - We are open Monday to Friday, 9am to 5pm.
+> We are open Monday to Friday, 9am to 5pm.
+>
+> This applies to these tax years:
+>
+> - 2013 to 2014
+> - 2014 to 2015
+> - 2015 to 2016.
 
 Use numbers at the beginning of a line, bulleted item or sentence.
 

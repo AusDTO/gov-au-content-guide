@@ -2,6 +2,7 @@
 title: Hyphens & dashes
 related:
   - em-dashes
+  - "dates-and-time-periods"
 published: true
 ---
 
@@ -42,5 +43,5 @@ Use ‘to’ in time and date ranges---not hyphens or en dashes.
 
 **For example**
 
-- The 2014 to 2015 tax year.
-- We are open Monday to Friday, 9am to 5pm.
+> - We are open Monday to Friday, 9am to 5pm.
+> - GovHack runs 29 to 31 July 2016.
