@@ -116,7 +116,7 @@ published: true
 
 **Why?** User need for more accurate description
 
-### [PDF](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/p.html#pdfs)
+### [PDFs](http://content-style-guide.apps.staging.digital.gov.au/az-indexes/p.html#pdfs)
 
 **Added**:
 
