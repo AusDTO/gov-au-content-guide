@@ -17,12 +17,12 @@ Time periods: use numbers.
 
 > 19th century instead of nineteenth century.
 
-To indicate spans of time, use from ... to ... or dashes. From ... to ... is easier to read.
+Use ‘to’ in time and date ranges---not hyphens or en dashes.
 
 **For example**
 
-> - from 10 to 12 October, or 10–12 October
-> - from 10am to 11am, or 10am–11am.
+> - GovHack runs 29 to 31 July 2016.
+> - We are open Monday to Friday, 9am to 5pm.
 
 Use numbers at the beginning of a line, bulleted item or sentence.
 
