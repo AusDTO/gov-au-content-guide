@@ -7,7 +7,7 @@ published: true
 
 ### Consider placement
 
-Add hyperlinks wherever they are most useful to the user. This includes within paragraphs---although be aware of overcrowding paragraphs with too many links as this can affect readability.
+Add hyperlinks wherever they are most useful to the user. This includes within paragraphs --- although be aware of overcrowding paragraphs with too many links as this can affect readability.
 
 Grouping links together at the bottom of a page (and not within the text) can disrupt readability too. Users may skip the text and just read the links.
 

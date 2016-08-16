@@ -17,7 +17,7 @@ Time periods: use numbers.
 
 > 19th century instead of nineteenth century.
 
-Use ‘to’ in time and date ranges---not hyphens or en dashes.
+Use ‘to’ in time and date ranges --- not hyphens or en dashes.
 
 **For example**
 

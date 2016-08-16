@@ -24,11 +24,11 @@ Use when the second word is ‘up’ (for example meet-up), or when the first an
 
 ### Em dashes
 
-Use em dashes without a space on either side (---) when adding an idea to a sentence or instead of starting a new sentence.
+Use em dashes with a space on either side ( --- ) when adding an idea to a sentence or instead of starting a new sentence.
 
 **For example**
 
-> 27% of Australians were born overseas---another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
+> 27% of Australians were born overseas --- another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
 
 - In Microsoft Word: hold down the <kbd>Alt</kbd> key, type <kbd>0151</kbd> on the numeric keypad and then release the <kbd>Alt</kbd> key
 - On Mac: Hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
@@ -39,7 +39,7 @@ Use em dashes without a space on either side (---) when adding an idea to a sent
 
 Use em dashes (---) instead of en dashes (--) to break up sentences.
 
-Use ‘to’ in time and date ranges---not hyphens or en dashes.
+Use ‘to’ in time and date ranges --- not hyphens or en dashes.
 
 **For example**
 
