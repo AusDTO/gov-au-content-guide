@@ -9,10 +9,12 @@ published: true
 
 ### Indicates possession
 
+Use &#8217;s for words that end in s if you pronounce them (for example, personal names).
+
 **For example**
 
-> - Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
-> - Jess’s start-up (singular name possessive).
+> - Jess’s start-up (singular).
+> - The girls’ start-up (plural).
 
 ### Is a substitute for ‘is’
 
