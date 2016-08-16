@@ -1,6 +1,6 @@
 ---
 title: "Aboriginal & Torres Strait Islander peoples"
-related: 
+related:
   - "inclusivity-diversity"
 published: true
 ---
@@ -9,8 +9,8 @@ Aboriginal and Torres Strait Islander peoples represent a diverse range of cultu
 
 Do not use
 
-- Aboriginals, Aborigine---these words are associated with colonisation and assimilation and are distressing to many people
-- ATSI---never use the acronym ATSI as this is considered disrespectful and degrading
+- Aboriginals, Aborigine --- these words are associated with colonisation and assimilation and are distressing to many people
+- ATSI --- never use the acronym ATSI as this is considered disrespectful and degrading
 - Aboriginal and/or Torres Strait Islander Australians.
 
 Instead use
@@ -18,7 +18,7 @@ Instead use
 - Aboriginal and Torres Strait Islander peoples (note the plural)
 - Aboriginal peoples (note the plural)
 - Torres Strait Islander peoples (note the plural)
-- Aboriginal man/woman/child/etc
+- Aboriginal man/woman/child
 - Aboriginal Elder
 - First Australians
 
@@ -30,7 +30,7 @@ Indigenous is the common term when referring to a business entity or business fu
 
 **For example**
 
-> Indigenous Specialist Officer, Indigenous Services Branch, etc.
+> Indigenous Specialist Officer, Indigenous Services Branch.
 
 Indigenous should always be capitalised.
 

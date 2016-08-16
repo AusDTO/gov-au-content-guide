@@ -1,6 +1,6 @@
 ---
 title: Semicolons
-related: 
+related:
   - colons-and-semicolons
   - punctuation
 published: true
@@ -17,14 +17,14 @@ Like this
 Or this
 
 > Make information:
-> 
+>
 > - simpler
 > - clearer
 > - faster.
 
 Or this
 
-> Make information simpler and clearer---and faster.
+> Make information simpler and clearer --- and faster.
 
 Not this
 

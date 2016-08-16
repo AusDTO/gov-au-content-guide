@@ -53,4 +53,4 @@ Capital letters are hard to read. Keep them to a minimum.
 > - the internet, not the Internet
 > - the web, not the Web or World Wide Web
 > - the intranet, not the Intranet
-> - wi-fi---not wifi, WiFi or Wi-fi
+> - wi-fi --- not wifi, WiFi or Wi-fi
