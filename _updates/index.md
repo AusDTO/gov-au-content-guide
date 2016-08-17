@@ -8,12 +8,86 @@ published: true
 
 ## August 2016
 
+### [Dates & time periods](/az-indexes/d.html#dates-and-time-periods), [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes) & [Titles](/az-indexes/t.html#titles)
 
-### [ ]()
+**Replaced**:
 
-** ** ([ ]())
+> To indicate spans of time, use from ... to ... or dashes. From ... to ... is easier to read.
+>
+> **For example**:
+>
+> > - from 10 to 12 October, or 10–12 October
+> > - from 10am to 11am, or 10am–11am.
 
-**Why?**
+**With**:
+
+> Use ‘to’ in time and date ranges — not hyphens or en dashes.
+>
+> **For example**
+>
+> > We are open Monday to Friday, 9am to 5pm.
+> >
+> > This applies to these tax years:
+> >
+> > - 2013 to 2014
+> > - 2014 to 2015
+> > - 2015 to 2016.
+
+Also changed relevant examples used in [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes) and [Titles](/az-indexes/t.html#titles) ([66b24ee](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/66b24eed2dcc388537ee08d1bceb324ddd918383), [586c70e](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/586c70e292be17e4a33047edc8219b6b66b16e0b), [5f1bd64](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/5f1bd64aa966d90c4823149f735f399b9a13b2c5) & [c81e37a](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/c81e37a172de9deccab7107e41528f0cb10be952)).
+
+**Why?** Improve readability
+
+### [Spelling](/az-indexes/s.html#spelling)
+
+**Removed**:
+
+> ### Americanisms
+>
+> Avoid using Americanisms, unless the American spelling or term is the commonly accepted online usage.
+>
+> **For example**
+>
+> > - You fill in a form, not fill out a form.
+> > - Shopping cart is the commonly used term for online shopping, not shopping trolley.
+
+([5f69297](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/5f6929798bb85e5b2085b9266406f80aba03ff99))
+
+**Why?** Already covered by recommendation to follow the Macquarie Dictionary
+
+### [Em dashes](/az-indexes/e.html#em-dashes)
+
+**Replaced** 'Use an em dash (---) without spaces when adding an idea to a sentence instead of using a full stop and new sentence.'
+
+**With** 'Use an em dash ( — ) with spaces when adding an idea to a sentence instead of using a full stop and new sentence.' Also updated examples across guide ([732d44d](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/732d44db9e9d9553c81a65fca4256db9d88758fd)).
+
+### [Apostrophe](/az-indexes/a.html#apostrophe)
+
+**Replaced**:
+
+> Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
+
+**With**:
+
+> Use &#8217;s for words that end in s if you pronounce the s (for example, personal names).
+>
+> If you don't pronounce the s just use an apostrophe.
+>
+> **For example**
+>
+> > - Jess’s start-up (singular).
+> > - The girls’ start-up (plural).
+
+([a709894](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/a709894539b4c15d41f5f61946063c23f0664650) & [1863738](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/1863738366ba83347909fc44934ccbfb351864fb))
+
+**Why?** Clarify guidance
+
+### [eg, ie, etc & nb](/az-indexes/e.html#eg-ie-etc-nb)
+
+**Replaced** 'for nb'
+
+**With** 'as an alternative to ie' ([41773bd](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/41773bd1a4f061be31431a84eda472681f44fcf4)).
+
+**Why?** Proofing error
 
 ## July 2016
 
@@ -51,7 +125,7 @@ published: true
 
 ### [Captions]()
 
-**Added**
+**Added**:
 
 > For images add 'Caption: description of the image...' below the image. Don't duplicate the alt text.
 
@@ -107,7 +181,7 @@ published: true
 
 **Added** 'wi-fi' ([60c92b0](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/60c92b0cbf5f519cdc3fb2306dd00864dc33835f))
 
-**Why?** ???
+**Why?** Frequently used phrase
 
 ### [Capitalisation](/az-indexes/c.html#capitalisation)
 
