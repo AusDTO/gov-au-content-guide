@@ -1,6 +1,6 @@
 ---
 title: "Inclusivity & diversity"
-related: 
+related:
   - "aboriginal-and-torres-strait-islander-peoples"
   - accessibility
   - languages
@@ -9,7 +9,7 @@ related:
 published: true
 ---
 
-When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs---while not stereotyping or making assumptions.
+When preparing content for people who do not have English as their first language, you should recognise cultural diversity and specific needs --- while not stereotyping or making assumptions.
 
 Avoid jargon and limit contractions.
 
@@ -41,9 +41,9 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 - religious affiliations
 - values or philosophical differences.
 
-**Other links**
+**Resources**
 
-- [DTO Design guides---Inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
-- [Australian Network On Disability---Inclusive Language](http://www.and.org.au/pages/inclusive-language.html)
-- [People with disability---Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
-- [Arts Access Australia---Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)
+- [DTO Design guides --- Inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
+- [Australian Network On Disability --- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html)
+- [People with disability --- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
+- [Arts Access Australia --- Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)

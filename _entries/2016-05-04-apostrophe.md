@@ -9,9 +9,14 @@ published: true
 
 ### Indicates possession
 
+Use &#8217;s for words that end in s if you pronounce the s (for example, personal names).
+
+If you don't pronounce the s just use an apostrophe.
+
 **For example**
 
-> Helena and Jess’ start-up (singular) or the girls’ start-up (plural).
+> - Jess’s start-up (singular).
+> - The girls’ start-up (plural).
 
 ### Is a substitute for ‘is’
 
@@ -22,7 +27,7 @@ published: true
 
 **For example**
 
-> For ‘us’ (eg let’s go) or for ‘are’ (eg you’re right)
+> For ‘us’ (let’s go) or for ‘are’ (you’re right)
 
 ### Is used for expressions of time
 
