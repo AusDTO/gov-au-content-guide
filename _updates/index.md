@@ -188,7 +188,7 @@ Also replaced 'advisor' with 'adviser' in example. ([4e62c9f](https://github.com
 
 **Added** program entry recommending using 'program' not 'programme' ([4f2221f](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/4f2221f2dcf19332770f4eb9a6768bd5b0cec9d1)).
 
-**Why?** User recognition of 'program'
+**Why?** User feedback and Macquarie Dictionary spelling
 
 ### [Spelling](/az-indexes/s.html#spelling)
 
