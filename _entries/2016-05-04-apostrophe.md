@@ -9,7 +9,9 @@ published: true
 
 ### Indicates possession
 
-Use &#8217;s for words that end in s if you pronounce them (for example, personal names).
+Use &#8217;s for words that end in s if you pronounce the s (for example, personal names).
+
+If you don't pronounce the s just use an apostrophe.
 
 **For example**
 
