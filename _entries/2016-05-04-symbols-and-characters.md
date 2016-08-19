@@ -1,7 +1,7 @@
 ---
 title: "Symbols & characters"
-related: 
-  - "abbreviations-acronyms"
+related:
+  - "abbreviations-and-acronyms"
   - ampersands
   - "per-cent"
   - temperature
@@ -12,6 +12,6 @@ For ampersands, don’t use an & in the place of and or in a sentence or organis
 
 Use & in headings, subheadings, navigation labels and graphics.
 
-For percentage use % with numbers, eg 3%, and in headers, tables and graphics. Otherwise use per cent, not percent. Percentage is one word.
+For percentage use % with numbers (for example 3%) and in headers, tables and graphics. Otherwise use per cent, not percent. Percentage is one word.
 
 Use the @ symbol in email addresses and social media handles only.

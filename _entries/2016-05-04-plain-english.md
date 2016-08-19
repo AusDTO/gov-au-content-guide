@@ -15,7 +15,7 @@ Always choose the shorter plain English word, term, sentence and paragraph over 
 |-----------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | State and Territory and Local Governments                                                                       | state and territory, and local governments |
 | a number of                                                                                                     | some, many, few                            |
-| address this issue                                                                                              | look for solutions; solve this problem     |
+| address this issue                                                                                              | look for solutions, solve this problem     |
 | approximately                                                                                                   | about                                      |
 | adequate number of                                                                                              | enough                                     |
 | aggregated                                                                                                      | total                                      |
@@ -33,7 +33,7 @@ Always choose the shorter plain English word, term, sentence and paragraph over 
 | concerning                                                                                                      | about                                      |
 | consequently                                                                                                    | so                                         |
 | create a dialogue with them                                                                                     | speak to people                            |
-| deliver, drive                                                                                                  | say what you are doing eg increasing ...   |
+| deliver, drive                                                                                                  | say what you are doing, for example 'increasing' ...   |
 | despite the fact that                                                                                           | although, despite                          |
 | disburse                                                                                                        | pay                                        |
 | discontinue                                                                                                     | stop                                       |
@@ -45,7 +45,7 @@ Always choose the shorter plain English word, term, sentence and paragraph over 
 | examine                                                                                                         | look at, check, discuss                    |
 | facilitate                                                                                                      | help                                       |
 | Federal Government                                                                                              | Australian Government                      |
-| give consideration to                                                                                           | think about/consider                       |
+| give consideration to                                                                                           | think about, consider                       |
 | going forward                                                                                                   | future                                     |
 | have the capacity to                                                                                            | can                                        |
 | identify                                                                                                        | set, create, decide on, know, recognise    |

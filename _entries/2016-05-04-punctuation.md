@@ -1,7 +1,7 @@
 ---
 title: Punctuation
 related: 
-  - "abbreviations-acronyms"
+  - "abbreviations-and-acronyms"
   - apostrophe
   - ampersands
   - contractions

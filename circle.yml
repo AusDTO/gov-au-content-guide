@@ -13,9 +13,8 @@ test:
   override:
     - ./bin/cibuild.sh
   post:
-    - cf login -a $CF_API_STAGING --skip-ssl-validation -u $CF_USER_STAGING -p $CF_PASSWORD_STAGING
+    - cf login -a $CF_API_STAGING -u $CF_USER_STAGING -p $CF_PASSWORD_STAGING
     - cf target -o design-guides -s development
-    - cf a
 
 deployment:
   development:

@@ -44,6 +44,7 @@ $core-black: #000000;
 //   todo: We also have from ui-core: $desktop, $tablet, and $mobile...
 $large-screen: em(860);
 $medium-screen: em(769);
+$small-screen: em(426);
 $tiny-screen: em(320);
 
 body {
@@ -63,10 +64,31 @@ header {
     z-index: 100;
     top: 0;
 
+    div.guide-title {
+      @include span-columns(10 of 12);
+      @include shift(1);
+      a {
+        border-bottom: none;
+        color: $core-white;
+        text-shadow: darken($dto-desat-blue, 50%);
+
+        &:hover,
+        &:focus {
+          background-color: $dto-desat-blue;
+          color: lighten($dto-desat-blue, 50%);
+          text-shadow: darken($dto-desat-blue, 75%);
+        }
+      }
+    }
+
     p {
       font-weight: 200;
       font-size: 2.4em;
       margin: 0;
+
+      @include media(max-width $medium-screen) {
+        font-size: 1.9em;
+      }
     }
     span.badge {
       background-color: $dto-guide-desat-light-blue;
@@ -86,10 +108,9 @@ header {
     //height: 100vh;
     //width: 100vw;
     color: $core-black;
-    padding-top: 8em;
-    padding-bottom: 5em;
-    border-bottom: 2px solid darken($dto-light-gray, 10%);
-    margin-bottom: 5em;
+    padding-top: 9em;
+    padding-bottom: $base-spacing;
+    margin-top: 6em;
 
     h1 {
       font-weight: 700;
@@ -102,26 +123,69 @@ header {
   }
 }
 
-footer { }
-
 main {
   display: block;
   // Because some browsers don't set this as a block element --
   // html5shiv should take care of this for IE.
   margin-top: 0;
 
-  &#home section,
-  &#home header {
-    @include span-columns(8 of 12);
-    @include shift(2);
+  &#home header#hero div div.site-banner,
+  &#home section#overview header.page-title,
+  &#home section#overview aside.guide-features,
+  &#home section#about section {
+    @include span-columns(10 of 12);
+    @include shift(1);
+  }
+
+  &#home header#hero div div.site-banner {
+    border-bottom: 2px solid darken($dto-light-gray, 7%);
+    padding-bottom: ($base-spacing * 4);
+  }
+
+  &#home section#about section {
+    @include media(min-width $medium-screen) {
+      -webkit-column-count: 2; /* Chrome, Safari, Opera */
+      -moz-column-count: 2; /* Firefox */
+      column-count: 2;
+      -webkit-column-gap: ($base-spacing * 5); /* Chrome, Safari, Opera */
+      -moz-column-gap: ($base-spacing * 5); /* Firefox */
+      column-gap: ($base-spacing * 5);
+    }
+
+    h2 {
+      font-size: 2.4em;
+    }
+
+    p {
+
+    }
+  }
+
+  &#home section#overview {
+    @include outer-container(100%);
+
+    border-bottom: 2px solid darken($dto-light-gray, 7%);
+    margin-bottom: ($base-spacing * 2);
+    padding-bottom: 0;
+
+    header.page-title h2 {
+      font-size: 3.2em;
+    }
+  }
+
+  header#hero,
+  &#home section#overview {
+    width: 100%;
+    background-color: $dto-light-gray;
   }
 }
 
-section { }
-
 article {
   @include span-columns(9 of 12);
-  margin-top: 120px;
+  @media (min-width: $small-screen) {
+    margin-top: 120px;
+  }
+  margin-top: 0px;
 
   li {
     margin-left: $base-spacing;
@@ -130,17 +194,25 @@ article {
 
 aside.sidebar {
   @include span-columns(3 of 12);
+  @media (max-width: $small-screen) {
+    @include span-columns(12);
+  }
 }
 
 .wrapper {
   @include outer-container();
   text-align: left;
-  margin: 0 auto;
 }
 
 .main-content {
-  //@include span-columns(9);
-  margin-top: 120px;
+  @media (max-width: $small-screen) {
+    @include span-columns(12);
+    @include pad(15px);
+
+    &:last-child {
+      margin-right: 15px;
+    }
+  }
 
   h2:before {
     display: block;
@@ -149,15 +221,7 @@ aside.sidebar {
     height: 150px;
     visibility: hidden;
 
-    @media (max-width: 999px) {
-      @include span-columns(12);
-      margin-left: 15px;
-      margin-right: 15px;
 
-      &:last-child {
-        margin-right: 15px;
-      }
-    }
   }
 }
 
@@ -187,6 +251,10 @@ h1.page-heading {
     background-color: darken($dto-guide-desat-light-blue, 15%);
     color: white;
     border: none;
+  }
+  @include media(max-width $small-screen) {
+    width: 100%;
+    display: block;
   }
 }
 
@@ -235,7 +303,9 @@ nav.primary {
   top: 6.5em;
   width: 100%;
   z-index: 100;
-
+  @include media(max-width $small-screen) {
+    display: none;
+  }
   @include media(max-width $large-screen) {
     background: transparent;
   }
@@ -360,22 +430,20 @@ aside.navigation-wrapper {
 // style guide secondary navigation
 
 nav.secondary {
+
   margin-top: $base-spacing * 15.5;
-
-  @media (max-width: 999px) {
-    display: none;
+  @media (max-width: $small-screen) {
+    margin-top: $base-spacing * 3.4;
   }
-
   ul {
     list-style: none;
     padding-left: 0;
-    margin-bottom: 0;
+    margin-bottom: -1px;
 
     li.nav-item {
       border-top: 1px solid darken($dto-light-gray, 15%);
       margin-bottom: 0;
       border-left: 2px solid transparent;
-
       &:not(.is-expanded ) {
         &:hover,
         &:active {
@@ -405,7 +473,7 @@ nav.secondary {
         }
 
         &.js-accordion-trigger {
-          font-size: 1.9em;
+          font-size: 1em;
           padding: $small-spacing / 2 4px $small-spacing / 2  $small-spacing / 2;
 
         }
@@ -415,12 +483,13 @@ nav.secondary {
         font-size: 1em;
 
         li.nav-item a {
-          &:not(.active ) {
-            border-left: none;
-          }
           border-top: none;
           padding: $small-spacing 4px $small-spacing $small-spacing / 4;
           padding-left: $small-spacing * 3;
+
+          &:not(.active ) {
+            border-left: none;
+          }
         }
 
         li.nav-item:hover,
@@ -433,10 +502,6 @@ nav.secondary {
 
   ul.sub-nav {
     padding-left: 0;
-
-    &:last-child {
-      border-bottom: 1px solid rgba(34,44,53,0.20);
-    }
   }
 
   a {
@@ -473,18 +538,13 @@ nav.secondary {
 
 // style guide info panel
 .accordion {
-  $base-line-height: 1.5em !default;
-  $base-spacing: 1.5em !default;
-  $base-font-color: white !default;
-  $accordion-menu-background: #232D35;
-  $accordion-menu-sub-background: $dto-light-gray;
-  $accordion-menu-list-padding: ($base-spacing / 2) $gutter;
 
-  background-color: $accordion-menu-background;
   margin: 0 0 $base-spacing 0;
   padding: 0;
   position: relative;
-
+  @media (min-width: $small-screen) {
+    display: none;
+  }
   ul {
     margin: 0;
     padding: 0;
@@ -495,42 +555,21 @@ nav.secondary {
 
     &.accordion-heading {
       padding-bottom: 0;
+      border-left: 4px solid black;
+      border-bottom: 1px solid #c2ced6;
+      border-top: 1px solid #c2ced6;
+      min-height: 46px;
+      @include pad(10px);
     }
 
     &.accordion-heading:after {
-      color: white;
+      color: black;
       content: '\f078';
       font-family: 'FontAwesome';
       font-size: 15px;
       right: 15px;
-      top: 14px;
+      top: 11px;
       position: absolute;
-    }
-
-    > a {
-      color: #FFFFFF;
-      display: block;
-      font-family: OpenSans-Bold;
-      font-size: 20px;
-      padding: $accordion-menu-list-padding;
-      text-decoration: none;
-    }
-
-    &:last-child {
-      border: none;
-    }
-
-    p {
-      margin: 0;
-    }
-  }
-
-  ul.submenu {
-    display: none;
-
-    li {
-      background-color: $accordion-menu-sub-background;
-      padding: 20px;
     }
   }
 
@@ -541,6 +580,11 @@ nav.secondary {
     &:after {
       transform: rotate(-180deg);
     }
+  }
+}
+.secondary-menu {
+  @media (max-width: $small-screen) {
+    display: none;
   }
 }
 // end style guide info panel
@@ -609,10 +653,36 @@ footer a {
   padding-bottom: $base-spacing * 2.5;
   border-bottom: 2px solid darken($dto-light-gray, 10%);
 
-  aside.entry-meta a.button {
-    display: inline-block;
-    margin-top: $base-spacing * 2;
-    font-size: 1.6em;
+  aside.entry-meta {
+    margin-top: ($base-spacing * 2);
+    div.related-entries {
+      font-size: 1.7em;
+
+      h3 {
+        font-size: 1.235em; // 21
+        margin-bottom: 1em;
+        color: darken($dto-light-gray, 75%);
+      }
+
+      a {
+        display: list-item;
+        margin-left: $base-spacing;
+        margin-bottom: ($small-spacing / 2);
+        border-bottom: none;
+
+        &:hover,
+        &:focus {
+          border-bottom: none;
+          background-color: white;
+        }
+      }
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: $base-spacing;
+      font-size: 1.6em;
+    }
   }
 }
 
@@ -747,28 +817,31 @@ $color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-
 //   This needs cleaning up.
 
 .footer {
-  $medium-screen: 40em !default;
-  $large-screen: 53.75em !default;
-  $footer-background: $light-gray;
+  width: 100%;
+  $footer-background: $dto-light-gray;
   $footer-color: black;
   $footer-link-color: #244A61;
   $footer-disclaimer-color: transparentize($footer-color, 0.3);
 
   background: $footer-background;
-  margin-top: ($base-spacing * 6);
-  padding: ($base-spacing * 2) $gutter ($base-spacing * 4) $gutter;
-  width: 100%;
+  margin-top: ($base-spacing * 4);
+  padding-bottom: ($base-spacing * 6);
 
-  .footer-links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  nav.footer-links {
+    @include span-columns(10 of 12);
+    @include shift(1);
+
+    @include display(flex);
+    @include flex-wrap(wrap);
+
     margin-bottom: $base-spacing;
+    border-bottom: 2px solid darken($dto-light-gray, 7%);
   }
 
   ul {
-    flex-basis: 20%;
-    flex-shrink: 0;
+    @include flex-basis(14em);
+    @include flex-grow(1);
+
     margin-bottom: $base-spacing * 2;
     padding: 0;
   }
@@ -794,12 +867,6 @@ $color_vars: $primary-colour, $secondary-colour ,$low-light-colour, $high-light-
     font-weight: 700;
   }
 
-  hr {
-    border: 1px solid transparentize($footer-disclaimer-color, 0.3);
-    margin: 0 auto $base-spacing;
-    width: 60%;
-  }
-
   p {
     font-size: 1.5m;
     margin: auto;
@@ -817,55 +884,39 @@ nav#homepage-feature {
 }
 
 .bullets {
+  @include display(flex);
+  @include flex-wrap(wrap);
+  @include justify-content(space-between);
+
   $action-color: #477DCA !default;
   $dark-gray: #333 !default;
   $base-font-color: $dark-gray !default;
-  $icon-bullet-size: 3.2em;
 
-  display: flex;
-  flex-wrap: wrap;
-  margin: 1em;
+  //margin: 1em;
   margin-bottom: $base-leading;
   overflow: auto;
   padding: 0;
 
   .bullet {
-    flex-basis: 18em;
-    flex-grow: 1;
+    @include flex-basis(20em);
+    @include flex-grow(1);
+
     margin-bottom: ($base-spacing * 2);
-  }
-
-  .bullet-icon {
-    background: $action-color;
-    border-radius: 50%;
-    float: left;
-    height: $icon-bullet-size;
-    padding: $icon-bullet-size / 4;
-    width: $icon-bullet-size;
-  }
-
-  .bullet-icon-1 {
-    background: $action-color;
-  }
-
-  .bullet-icon-2 {
-    background: adjust-hue($action-color, -50%);
-  }
-
-  .bullet-icon-3 {
-    background: adjust-hue($action-color, -140%);
+    @include media(min-width $small-screen) {
+      &:nth-child(odd) {
+        margin-right: ($base-spacing * 3);
+      }
+    }
   }
 
   .bullet-content {
     margin-bottom: 2em;
-    margin-left: $icon-bullet-size * 1.4;
   }
 
   h2 {
     display: inline-block;
-    font-size: $icon-bullet-size / 2.5;
-    margin: 0 0 ($icon-bullet-size / 6) 0;
-    padding-top: $icon-bullet-size / 7;
+    font-weight: 700;
+    font-size: 1.235em; // 21
   }
 
   li {
@@ -873,15 +924,11 @@ nav#homepage-feature {
   }
 
   p {
-    font-size: 1em; // 19
+    font-size: 1em;
   }
 
   span {
     display: block;
     margin: $base-spacing 0;
-  }
-
-  img {
-    max-width: 100%;
   }
 }

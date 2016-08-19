@@ -1,27 +1,31 @@
 ---
 title: Semicolons
-related: 
-  - colons
+related:
+  - colons-and-semicolons
   - punctuation
 published: true
 ---
 
-Don’t use them. Start a new sentence, create a list of similar ideas or topics, or use ie instead.
+Use shorter sentences, em dashes or lists rather than semicolons.
 
 **For example**
 
 Like this
 
-> We want to make information:
-> 
+> Make simpler, clearer and faster information.
+
+Or this
+
+> Make information:
+>
 > - simpler
 > - clearer
 > - faster.
 
 Or this
 
-> We want to make information simpler, clearer and faster.
+> Make information simpler and clearer --- and faster.
 
 Not this
 
-> We want to make information simpler; clearer; and faster.
+> Make information that is simpler and clearer; and also faster.

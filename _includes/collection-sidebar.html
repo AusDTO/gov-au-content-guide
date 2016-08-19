@@ -1,8 +1,11 @@
 <nav class="secondary">
-  <ul>
-    {% assign the-collection = page.collection %}
-    {% assign c = site.collections | where:'label',the-collection | first %}
-
+  {% assign the-collection = page.collection %}
+  {% assign c = site.collections | where:'label',the-collection | first %}
+  {% if c.docs.size > 1 %}
+  <ul class="accordion">
+    <li class="accordion-heading"><a href="javascript:void(0)" class="js-accordion-trigger">In this section...</a></li>
+  </ul>
+  <ul class="secondary-menu">
     {% for doc in c.docs %}
     {% if doc.layout == "collection-index" %}
     <li class="nav-item">
@@ -23,6 +26,6 @@
     </li>
     {% endif %}
     {% endfor %}
-
   </ul>
+  {% endif %}
 </nav>

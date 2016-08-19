@@ -36,7 +36,7 @@ Use ‘they’ when talking about, rather than to someone or something.
 
 For example:
 
-> The team will do user research so they understand the needs of users.
+> The team will do user research to help them understand the needs of users.
 
 ### Use fewer words
 
@@ -52,6 +52,6 @@ Write as your users talk rather than how government speaks internally. Leave out
 
 ### Think about non-native English speakers
 
-Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third, fourth etc language.
+Read back what you’ve written to check that it could be understood by someone who speaks English as a second, third and fourth language.
 
-Consider whether the information should also be provided in appropriate community languages---a good idea if there are compliance requirements.
+Consider whether the information should also be provided in appropriate community languages --- a good idea if there are compliance requirements.

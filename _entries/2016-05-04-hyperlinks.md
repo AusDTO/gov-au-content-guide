@@ -17,7 +17,7 @@ As always, think about your users and their context when reading the information
 
 Users scan links on web pages looking for the pieces of information they need.
 
-To be useful and accessible, embed the link text and make sure the words are precise and can help the user predict where the link leads.
+To be useful and accessible, embed the link and make sure the words are precise and can help the user predict where the link leads.
 
 **For example**
 
@@ -47,4 +47,4 @@ Include a hyperlink with any emails, without including the `mailto:` prefix.
 
 **For example**
 
-> [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au)
+> [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au), not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).

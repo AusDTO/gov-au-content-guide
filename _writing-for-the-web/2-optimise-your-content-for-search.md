@@ -6,7 +6,7 @@ permalink: /:collection/:title
 published: true
 ---
 
-**Making sure your content is optimised for search engine (search engine optimisation or SEO) results is an important way of helping users find your information.**
+**Making sure your content is optimised for search engine results (search engine optimisation or SEO) is an important way of helping users find your information.**
 
 ### Develop a list of authentic keywords
 
@@ -16,13 +16,13 @@ Use relevant keywords prominently and appropriately in titles and subheadings, a
 
 **For example**
 
-If you were writing about aged health care, you would include keywords such as nursing homes, help at home, homecare, independent living etc. This way you adapt your writing style to the language of the people who you want to read it.
+If you were writing about aged health care, you would include keywords such as 'nursing homes', 'help at home', 'homecare' and 'independent living'. This way you adapt your writing style to the language of the people who you want to read it.
 
 ### Keyword analytics tools
 
 You can gain insight into search terms by using analytics such as [Google Analytics](https://analytics.google.com/) and then use this insight to optimise your content and metadata. Visit the [Google Analytics Academy](https://analyticsacademy.withgoogle.com/).
 
-The [AdWords Keyword Planner tool](https://adwords.google.com/KeywordPlanner) provides great insight and analytics into keywords that are popular and relevant for your web page---even if you’re not using it for AdWords campaigns. Use the keywords as a solid foundation for content to connect with your users and direct them to your site.
+The [AdWords Keyword Planner tool](https://adwords.google.com/KeywordPlanner) provides great insight and analytics into keywords that are popular and relevant for your web page --- even if you’re not using it for AdWords campaigns. Use the keywords as a solid foundation for content to connect with your users and direct them to your site.
 
 [Google Trends](https://www.google.com/trends/ "Google Trends") provides guidance in identifying and selecting keywords. It is a public web facility based on Google Search. It shows how often a particular search term is entered relative to the total search volume across various regions of the world, and in various languages.
 
@@ -33,8 +33,8 @@ Your meta description displays in a search result. Use 160 characters to be spec
 The description should:
 
 - contain the main and unique points of the page to help users decide whether to click
-- clearly cover the context of the web page and the intended audience–--to allow a non-expert to understand what the page is about and if it’s what they’re looking for
-- include keywords close to the start of the description---this is better for users and search engines
+- clearly cover the context of the web page and the intended audience --- to allow a non-expert to understand what the page is about and if it’s what they’re looking for
+- include keywords close to the start of the description --- this is better for users and search engines
 - use full sentences whenever possible to aid usability and readability.
 
 **For example**
@@ -45,7 +45,7 @@ This description of the Digital Transformation Office’s website succinctly des
 <meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">
 ```
 
-![Digital Transformation Office search result](../images/DTO-search.png)
+![Digital Transformation Office search result](../images/dto-search.png)
 
 Caption: Meta title and description as they display in a search result.
 
@@ -53,9 +53,9 @@ The Google Webmaster Central Blog has more [tips on writing good descriptions](h
 
 ## Write naturally for your users
 
-To improve the usefulness of your content
+To improve the usefulness of your content:
 
-- create content including keywords that your users are searching for
+- create content, including keywords, that your users are searching for
 - ensure your most important content is in HTML so search engines can find it and index it
 - use your keywords at least once, prominently near the top of the page
 - take a considered approach to repeating your keywords throughout your content. Only repeat where it makes sense and is in context.
