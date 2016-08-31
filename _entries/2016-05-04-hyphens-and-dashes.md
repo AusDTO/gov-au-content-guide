@@ -31,8 +31,9 @@ Use em dashes with a space on either side ( --- ) when adding an idea to a sente
 > 27% of Australians were born overseas --- another 2.5% identify as being Aboriginal and Torres Strait Islander peoples.
 
 - In Microsoft Word: hold down the <kbd>Alt</kbd> key, type <kbd>0151</kbd> on the numeric keypad and then release the <kbd>Alt</kbd> key
-- On Mac: Hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
+- On Mac: hold <kbd>Option</kbd> + <kbd>Shift</kbd> keys and type <kbd>-</kbd>
 - In [kramdown Markdown](http://kramdown.gettalong.org/) notation: use 3 hyphens (<kbd>---</kbd>)
+- In HTML: `&mdash;`
 - Google Docs: go to Insert then Special characters.
 
 ### En dashes
