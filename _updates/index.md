@@ -103,7 +103,7 @@ Also changed related examples in [Hyphens & dashes](/az-indexes/h.html#hyphens-a
 
 **Added** entry ([60c92b0](https://github.com/AusDTO/gov-au-content-guide/pull/122/commits/60c92b0cbf5f519cdc3fb2306dd00864dc33835f)).
 
-**Why?** User query
+**Why?** Feedback from user
 
 ### [Americanisms](/az-indexes/a.html#americanisms)
 
