@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## September 2016
+
+### [Em dashes](/az-indexes/e.html#em-dashes) & [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes)
+
+**Added**: HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
+
+**Why?** Enhance guidance
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
