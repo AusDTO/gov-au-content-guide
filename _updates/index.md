@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## September 2016
+
+### [Screen readers](/az-indexes/s.html#screen-readers)
+
+**Added** inline links ([170](https://github.com/AusDTO/gov-au-content-guide/pull/170)).
+
+**Why?** Discoverability of relevant content
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
@@ -236,7 +244,7 @@ Also replaced 'advisor' with 'adviser' in example. ([4e62c9f](https://github.com
 
 ### [Captions](/az-indexes/c.html#captions)
 
-**Added** related links to [Video](/az-indexes/v.html#video) and [Photos](/az-indexes/p.html#photos)
+**Added** related links to [Video](/az-indexes/v.html#video) and [Photos](/az-indexes/p.html#photos).
 
 **Why?** Discoverability of relevant content
 
