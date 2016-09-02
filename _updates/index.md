@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## September 2016
+
+### [Questionnaires](/az-indexes/q.html#questionnaires)
+
+**Added** entry ([166](https://github.com/AusDTO/gov-au-content-guide/pull/166)).
+
+**Why?** User search patterns
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
