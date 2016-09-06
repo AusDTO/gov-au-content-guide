@@ -20,8 +20,8 @@ All government information must be available to all online users.
 ### Accessibility tips
 
 - Use hierarchical headings `H1`, `H2`, `H3`, `H4` for page structure with meaningful text.
-- Use bullet point lists where possible.
-- Write link text that makes sense out of context.
+- Use [bullet point lists](/az-indexes/b.html#bullet-point-lists) where possible.
+- Write [link text](/az-indexes/h.html#hyperlinks) that makes sense out of context.
 - Make sure there is sufficient contrast between any text and the background.
 - Use dot, dashes and patterns in graphs in addition to colour for differentiating different data.
 - Provide alt text for images.

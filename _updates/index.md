@@ -8,6 +8,24 @@ published: true
 
 ## September 2016
 
+### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
+
+**Added**: inline links to [bullet point lists](/az-indexes/b.html#bullet-point-lists) and  [hyperlinks](/az-indexes/h.html#hyperlinks) ([157](https://github.com/AusDTO/gov-au-content-guide/pull/157)).
+
+**Why?** Discoverability of relevant content
+
+### [Ellipses](/az-indexes/e.html#ellipses)
+
+**Removed**: 'immediately' ([158](https://github.com/AusDTO/gov-au-content-guide/pull/158)).
+
+**Why?** Clarify guidance
+
+### [Em dashes](/az-indexes/e.html#em-dashes) & [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes)
+
+**Added**: HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
+
+**Why?** Enhance guidance
+
 ### [Questionnaires](/az-indexes/q.html#questionnaires)
 
 **Added** entry ([166](https://github.com/AusDTO/gov-au-content-guide/pull/166)).
