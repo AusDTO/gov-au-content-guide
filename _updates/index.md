@@ -14,6 +14,12 @@ published: true
 
 **Why?** Discoverability of relevant content
 
+### [Ellipses](/az-indexes/e.html#ellipses)
+
+**Removed**: 'immediately' ([158](https://github.com/AusDTO/gov-au-content-guide/pull/158)).
+
+**Why?** Clarify guidance
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
