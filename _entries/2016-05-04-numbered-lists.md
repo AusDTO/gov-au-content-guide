@@ -1,8 +1,8 @@
 ---
 title: Numbered lists
-related: 
+related:
   - "bullet-point-lists"
 published: true
 ---
 
-Use bullet point lists instead of numbered lists.
+Use [bullet point lists](/az-indexes/b.html#bullet-point-lists) instead of numbered lists.

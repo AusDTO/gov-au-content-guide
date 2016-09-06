@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## September 2016
+
+### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
+
+**Added**: inline links to [bullet point lists](/az-indexes/b.html#bullet-point-lists) and  [hyperlinks](/az-indexes/h.html#hyperlinks) ([157](https://github.com/AusDTO/gov-au-content-guide/pull/157)).
+
+**Why?** Discoverability of relevant content
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
