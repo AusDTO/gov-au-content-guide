@@ -6,14 +6,14 @@ Use the GitHub title line for your pull request, then delete these lines.
 
 ## Description
 
-Include a high-level description for what the pull request fixes and links to Github issues it resolves.
+* High-level description of what the pull request fixes
+* Links to GitHub issues resolved
 
 ## Additional information
 
-* Relevant research and support documents
-* Screen shot images
+* Research and support documents
+* Screenshots
 * Notes
-* etc.
 
 ## Definition of Done
 
