@@ -19,5 +19,5 @@ Use the GitHub title line for your pull request, then delete these lines.
 
 - [ ] Acceptance testing (for code changes - TBD)
 - [ ] PR approved by Libby
-- [ ] Related [Waffle tickets](https://waffle.io/AusDTO/gov-au-content-guide) closed
+- [ ] Related [GitHub issues](https://waffle.io/AusDTO/gov-au-content-guide) closed
 - [ ] Update to [Updates page](http://content-style-guide.apps.staging.digital.gov.au/updates/)
