@@ -1,7 +1,7 @@
 ---
 title: "Headings & subheadings"
 related:
-  - links
+  - hyperlinks
   - voice
 published: true
 ---
@@ -35,12 +35,3 @@ Not this
 Use an initial capital then lower case (sentence casing), for example 'Common tax mistakes', except when using proper nouns.
 
 Content should only have 1 top level (H1) heading. Be careful with the number of headings beyond this. Readers will lose track if there are too many heading levels. Short content should only use 2 extra subheading levels (H2 and H3).
-
-### Gerunds in subheadings
-You can use a gerunds (-ing verb) in a subheading to show the content is guidance.
-
-If the subheading is about taking an action you should use more direct language.
-
-Avoid using a gerund in the titles of pages.
-
-For example
