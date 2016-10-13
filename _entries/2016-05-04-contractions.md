@@ -5,23 +5,11 @@ related:
 published: true
 ---
 
-When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
+Use contractions carefully to make your voice and tone more conversational. Remember that low-literacy users and people with English as another language may find contractions difficult to understand.
 
-Be aware that low-literacy users, or people from non-English speaking backgrounds may find contractions difficult to understand.
+Avoid less common coloquial contractions, like you'd.
 
-Always consider the context, for example don’t use contractions in forms.
-
-**For example**
-
-> - don’t (do not)
-> - it’s (it is)
-> - let’s (let us)
-> - they’re (they are)
-> - they’ve (they have)
-> - we’ll (we will)
-> - we’re (we are)
-
-Contractions that include the first and last letter of a word don’t need a full stop
+Contractions that include the first and last letter of a word don’t need a full stop.
 
 **For example**
 
