@@ -56,9 +56,9 @@ Don’t use an acronym unless the full name has already been said once.
 
 If an acronym is well known to an Australian audience, such as NSW or ABC, there is no need to spell it out. If you are writing for an international audience spell it out once and then use the acronym.
 
-Most acronyms for companies or organisations are uppercase with the exception of Anzac.
+Most acronyms for companies or organisations are uppercase with the exception of Qantas and Anzac.
 
-Don’t use full stops in acronyms:
+Don’t use full stops in acronyms. 
 
 **For example**
 
