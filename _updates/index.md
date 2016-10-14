@@ -6,6 +6,20 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## October 2016
+
+### [Numbers](/az-indexes/n.html#numbers)
+
+Added 'Use a comma for every third digit from the right upwards from 10,000.' and corrected examples ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Improve readability
+
+### [Commas](/az-indexes/c.html#commas)
+
+**Added** related link to [Numbers](/az-indexes/n.html#numbers) ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Discoverability of relevant content
+
 ## September 2016
 
 ### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
