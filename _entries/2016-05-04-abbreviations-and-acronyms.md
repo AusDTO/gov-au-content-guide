@@ -12,8 +12,6 @@ related:
 published: true
 ---
 
-Abbreviations
-
 Only use abbreviations of general terms when the abbreviation is the clearer and more common form. 
 
 **For example**
@@ -45,8 +43,6 @@ For temperatures use °C and °F.
 **For example**
 
 > A temperature of 2°C is about the same as 36°F.
-
-Acronymns
 
 Don’t use an acronym unless the full name has already been said once.
 
