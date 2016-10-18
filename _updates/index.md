@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## October 2016
+
+### [Apostrophe](/az-indexes/a.html#apostrophe)
+
+**Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
+
+**Why?** Proofing error
+
 ## September 2016
 
 ### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
