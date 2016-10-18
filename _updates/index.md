@@ -10,7 +10,7 @@ published: true
 
 ### [Numbers](/az-indexes/n.html#numbers)
 
-Added 'Use a comma for every third digit from the right upwards from 10,000.' and corrected examples ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
 
 **Why?** Improve readability
 
