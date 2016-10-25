@@ -8,6 +8,12 @@ published: true
 
 ## October 2016
 
+### [Apostrophe](/az-indexes/a.html#apostrophe)
+
+**Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
+
+**Why?** Proofing error
+
 ### [Numbers](/az-indexes/n.html#numbers)
 
 Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
