@@ -8,6 +8,12 @@ published: true
 
 Capital letters are hard to read. Keep them to a minimum.
 
+Use sentence case for most things. Use title case for proper nouns.
+
+**For example**
+
+> The city is in south-east New South Wales.
+
 ### When to use capital letters
 
 #### First letter in headings and subheadings
@@ -38,17 +44,10 @@ Capital letters are hard to read. Keep them to a minimum.
 
 **For example**
 
-> the Government Information Public Access Act, then the Act
+> - the Government Information Public Access Act, then the Act
+> - Read Steps to Enter Residential Aged Care before our workshop.
 
-> Read Steps to Enter Residential Aged Care before our workshop.
-
-#### Places that are descriptive
-
-**For example**
-
-> south-east NSW
-
-**Further examples**
+### More examples
 
 > - the internet, not the Internet
 > - the web, not the Web or World Wide Web

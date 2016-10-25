@@ -18,6 +18,7 @@ Use the GitHub title line for your pull request, then delete these lines.
 ## Definition of Done
 
 - [ ] Acceptance testing (for code changes - TBD)
+- [ ] Draft reviewed by other Content Designer
+- [ ] Update to [Updates page](http://content-style-guide.apps.staging.digital.gov.au/updates/)
 - [ ] PR approved by Libby
 - [ ] Related [GitHub issues](https://waffle.io/AusDTO/gov-au-content-guide) closed
-- [ ] Update to [Updates page](http://content-style-guide.apps.staging.digital.gov.au/updates/)

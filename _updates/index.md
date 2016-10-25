@@ -14,6 +14,11 @@ published: true
 
 **Why?** Proofing error
 
+### [Capitalisation](/az-indexes/c.html#capitalisation)
+Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
+
+**Why?** Clarify guidance and fix proofing error
+
 ## September 2016
 
 ### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
