@@ -20,6 +20,8 @@ Added 'Use a comma for every third digit from the right upwards from 10,000.' Al
 
 **Why?** Discoverability of relevant content
 
+### Capitalisation
+
 ## September 2016
 
 ### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
