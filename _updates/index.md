@@ -14,6 +14,18 @@ published: true
 
 **Why?** Proofing error
 
+### [Numbers](/az-indexes/n.html#numbers)
+
+Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Improve readability
+
+### [Commas](/az-indexes/c.html#commas)
+
+**Added** related link to [Numbers](/az-indexes/n.html#numbers) ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Discoverability of relevant content
+
 ### [Capitalisation](/az-indexes/c.html#capitalisation)
 Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
 
