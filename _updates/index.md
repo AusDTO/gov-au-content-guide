@@ -8,15 +8,43 @@ published: true
 
 ## October 2016
 
+### Updates
+
+**Corrected** some formatting issues ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187)).
+
+**Why?** Proofing error
+
+### [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms) & [Contractions](/az-indexes/c.html#contractions)
+
+**Added** 'Only use abbreviations of general terms when the abbreviation is the clearer and more common form' to [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms).
+
+**Moved** examples from Contractions page to Abbreviations & acronyms. Also added other examples and tidied up formatting.
+
+**Replaced** [Contractions](/az-indexes/c.html#contractions) entry:
+
+> When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
+>
+> Be aware that low-literacy users, or people from non-English speaking backgrounds may find contractions difficult to understand.
+>
+> Always consider the context, for example don’t use contractions in forms.
+
+**With**:
+
+> TBC
+
+([187](https://github.com/AusDTO/gov-au-content-guide/pull/187))
+
+**Why?** Proofing error and enhancement of guidance
+
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
-**Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
+**Added** correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
 
 **Why?** Proofing error
 
 ### [Numbers](/az-indexes/n.html#numbers)
 
-Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+**Added** 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/))
 
 **Why?** Improve readability
 
@@ -27,7 +55,8 @@ Added 'Use a comma for every third digit from the right upwards from 10,000.' Al
 **Why?** Discoverability of relevant content
 
 ### [Capitalisation](/az-indexes/c.html#capitalisation)
-Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
+
+**Added** 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
 
 **Why?** Clarify guidance and fix proofing error
 
@@ -47,7 +76,7 @@ Added 'Use sentence case for most things. Use title case for proper nouns.' Also
 
 ### [Em dashes](/az-indexes/e.html#em-dashes) & [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes)
 
-**Added**: HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
+**Added** HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
 
 **Why?** Enhance guidance
 
