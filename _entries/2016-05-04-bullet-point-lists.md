@@ -27,25 +27,42 @@ For full sentences, use a capital letter at the start of each point and end with
 > - The director will host a community morning tea.
 > - The awareness week booklet will be launched.
 
-Rewrite content to avoid second level bullet points.
+Rewrite content to avoid second and third level bullet points.
 
 **For example**
 
 Like this
 
-> To register you need proof of
-> To register you need to prove your identity and address.
+> To register you need to show your referral document to the registrar.
 >
-> - identity --- for example your driver's license or marriage certificate
-> - address --- for example a bank statement or bill.
+> You also need to show 2 forms of identification:
+>
+> - proof of your name
+> - proof of your address.
+>
+> You can't use the same form of identification for name and address.
+>
+> Proof of name:
+>
+> - driver’s license
+> - marriage certificate.
+>
+> Proof of address:
+>
+> - driver’s license
+> - bank statement
+> - bill.
 
 Not this
 
-> To register you need:
+> To register you need to show to the registrar:
 >
-> - proof of identity, such as
->   - driver's license
->   - marriage certificate
-> - proof of address, such as
->   - bank statement
->   - bill.
+> - your referral document
+> - 2 forms of identification to prove who you are and where you live (you can’t use the same form for both name and address):
+>   - proof of name:
+>     - driver’s license
+>     - marriage certificate
+>   - proof of address:
+>     - driver’s license
+>     - bank statement
+>     - bill.
