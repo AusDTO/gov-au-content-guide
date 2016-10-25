@@ -20,7 +20,10 @@ Added 'Use a comma for every third digit from the right upwards from 10,000.' Al
 
 **Why?** Discoverability of relevant content
 
-### Capitalisation
+### [Capitalisation](/az-indexes/c.html#capitalisation)
+Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
+
+**Why?** Clarify guidance and fix proofing error
 
 ## September 2016
 
