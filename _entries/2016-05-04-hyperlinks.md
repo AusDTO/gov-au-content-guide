@@ -35,13 +35,13 @@ Not this
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
-### Drop the http://
+### Drop the http://www
 
-When referencing a website, drop the `http://` prefix.
+When referencing a website, drop the `http://www` prefix.
 
 **For example**
 
-> The Digital Transformation Office’s website is [www.dto.gov.au](https://www.dto.gov.au/).
+> The Digital Transformation Office’s website is [dto.gov.au](https://www.dto.gov.au/).
 
 Include a hyperlink with any emails, without including the `mailto:` prefix.
 

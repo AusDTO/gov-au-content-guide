@@ -8,6 +8,12 @@ published: true
 
 ## October 2016
 
+### [Hyperlinks](/az-indexes/h.html#hyperlinks)
+
+**Changed** 'Drop the http://' to 'Drop the http://www' ([204](https://github.com/AusDTO/gov-au-content-guide/pull/204)).
+
+**Why?** Following contemporary practice
+
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
 **Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
