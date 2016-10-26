@@ -8,6 +8,12 @@ published: true
 
 ## October 2016
 
+### [Alt text](/az-indexes/a.html#alt-text)
+
+**Added** guidance on decorative, informative and complex images. Also improved formatting. ([195](https://github.com/AusDTO/gov-au-content-guide/pull/161/))
+
+**Why?** Enhance guidance
+
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
 **Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
