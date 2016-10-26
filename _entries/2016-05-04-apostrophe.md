@@ -25,9 +25,12 @@ If you don't pronounce the s just use an apostrophe.
 > - It’s difficult.
 > - Who’s the right person?
 
+### Is a substitute for ‘us’ or ‘are’
+
 **For example**
 
-> For ‘us’ (let’s go) or for ‘are’ (you’re right)
+> - Let’s go.
+> - You’re right.
 
 ### Is used for expressions of time
 

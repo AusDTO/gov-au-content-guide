@@ -6,6 +6,63 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## October 2016
+
+### [Apostrophe](/az-indexes/a.html#apostrophe)
+
+**Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
+
+**Why?** Proofing error
+
+### [Numbers](/az-indexes/n.html#numbers)
+
+Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Improve readability
+
+### [Commas](/az-indexes/c.html#commas)
+
+**Added** related link to [Numbers](/az-indexes/n.html#numbers) ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+
+**Why?** Discoverability of relevant content
+
+### [Capitalisation](/az-indexes/c.html#capitalisation)
+Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
+
+**Why?** Clarify guidance and fix proofing error
+
+## September 2016
+
+### [Accessibility](/az-indexes/a.html#accessibility), [mobiles](/az-indexes/m.html#mobiles) & [numbered lists](/az-indexes/n.html#numbered-lists)
+
+**Added**: inline links to [bullet point lists](/az-indexes/b.html#bullet-point-lists) and  [hyperlinks](/az-indexes/h.html#hyperlinks) ([157](https://github.com/AusDTO/gov-au-content-guide/pull/157)).
+
+**Why?** Discoverability of relevant content
+
+### [Ellipses](/az-indexes/e.html#ellipses)
+
+**Removed**: 'immediately' ([158](https://github.com/AusDTO/gov-au-content-guide/pull/158)).
+
+**Why?** Clarify guidance
+
+### [Em dashes](/az-indexes/e.html#em-dashes) & [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes)
+
+**Added**: HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
+
+**Why?** Enhance guidance
+
+### [Questionnaires](/az-indexes/q.html#questionnaires)
+
+**Added** entry ([166](https://github.com/AusDTO/gov-au-content-guide/pull/166)).
+
+**Why?** User search patterns
+
+### [Screen readers](/az-indexes/s.html#screen-readers)
+
+**Added** inline links ([170](https://github.com/AusDTO/gov-au-content-guide/pull/170)).
+
+**Why?** Discoverability of relevant content
+
 ## August 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
@@ -236,7 +293,7 @@ Also replaced 'advisor' with 'adviser' in example. ([4e62c9f](https://github.com
 
 ### [Captions](/az-indexes/c.html#captions)
 
-**Added** related links to [Video](/az-indexes/v.html#video) and [Photos](/az-indexes/p.html#photos)
+**Added** related links to [Video](/az-indexes/v.html#video) and [Photos](/az-indexes/p.html#photos).
 
 **Why?** Discoverability of relevant content
 
