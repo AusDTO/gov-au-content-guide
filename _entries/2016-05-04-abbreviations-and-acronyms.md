@@ -19,8 +19,6 @@ Only use abbreviations of general terms when the abbreviation is the clearer and
 > - Ms instead of Miss/Mistress or Mrs/Misses
 > - Mr instead of Mister
 > - Pty Ltd instead of Proprietary Limited
-> - Abbreviation instead of abbrev.
-> - Department instead of dept.
 
 Abbreviate kilograms, kilojoules, kilometres, kilowatts when using numbers.
 
