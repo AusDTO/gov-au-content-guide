@@ -58,5 +58,8 @@ DEPENDENCIES
   rack-ssl (= 1.4.1)
   titleize
 
+RUBY VERSION
+   ruby 2.3.0p0
+
 BUNDLED WITH
-   1.12.1
+   1.13.1
