@@ -6,7 +6,7 @@ related:
 published: true
 ---
 
-Spell out when not using a number
+Spell out when not using a number.
 
 **For example**
 
