@@ -10,9 +10,17 @@ published: true
 
 ### [Hyperlinks](/az-indexes/h.html#hyperlinks)
 
-**Changed** 'Drop the http://' to 'Drop the http://www' ([204](https://github.com/AusDTO/gov-au-content-guide/pull/204)).
+**Changed** 'Drop the http://' to 'Drop the http://www'.
 
-**Why?** Following contemporary practice
+**Added**:
+
+> Verify the website doesn’t need `www` to reach it.
+>
+> Use the full URL when you create a hyperlink.
+
+([204](https://github.com/AusDTO/gov-au-content-guide/pull/204))
+
+**Why?** Following contemporary practice and enhancing guidance
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
