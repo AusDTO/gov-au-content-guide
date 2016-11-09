@@ -6,6 +6,14 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
+## November 2016
+
+### [Alt text](/az-indexes/a.html#alt-text)
+
+**Added** guidance on decorative, informative and complex images. Also improved formatting. ([161](https://github.com/AusDTO/gov-au-content-guide/pull/161/))
+
+**Why?** Enhance guidance
+
 ## October 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
