@@ -8,6 +8,12 @@ published: true
 
 ## November 2016
 
+### [Per cent](/az-indexes/p.html#per-cent), [Symbols & characters](/az-indexes/s.html#symbols-and-characters) & [Weights & measures](/az-indexes/w.html#weights-and-measures)
+
+**Changed**: 'Always use % with a number' to 'Use % when using a number' and deleted guidance on spelling. Also added related link to [Weights & measures](/az-indexes/w.html#weights-and-measures). ([203](https://github.com/AusDTO/gov-au-content-guide/pull/203/))
+
+**Why?** Simplifying guidance
+
 ### [Alt text](/az-indexes/a.html#alt-text)
 
 **Added** guidance on decorative, informative and complex images. Also improved formatting. ([161](https://github.com/AusDTO/gov-au-content-guide/pull/161/))
