@@ -6,7 +6,7 @@ abstract: Recent changes to this guide.
 published: true
 ---
 
-## October 2016
+## November 2016
 
 ### Updates
 
@@ -41,6 +41,8 @@ published: true
 ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187))
 
 **Why?** Proofing error and enhancement of guidance
+
+## October 2016
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
