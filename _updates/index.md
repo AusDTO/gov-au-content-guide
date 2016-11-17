@@ -8,12 +8,6 @@ published: true
 
 ## November 2016
 
-### Updates
-
-**Corrected** some formatting issues ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187)).
-
-**Why?** Proofing error
-
 ### [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms) & [Contractions](/az-indexes/c.html#contractions)
 
 **Added** 'Only use abbreviations of general terms when the abbreviation is the clearer and more common form' to [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms).
@@ -41,6 +35,18 @@ published: true
 ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187))
 
 **Why?** Proofing error and enhancement of guidance
+
+### Updates
+
+**Corrected** some formatting issues ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187)).
+
+**Why?** Proofing error
+
+### [Per cent](/az-indexes/p.html#per-cent), [Symbols & characters](/az-indexes/s.html#symbols-and-characters) & [Weights & measures](/az-indexes/w.html#weights-and-measures)
+
+**Changed**: 'Always use % with a number' to 'Use % when using a number' and deleted guidance on spelling. Also added related link to [Weights & measures](/az-indexes/w.html#weights-and-measures). ([203](https://github.com/AusDTO/gov-au-content-guide/pull/203/))
+
+**Why?** Simplifying guidance
 
 ### [Alt text](/az-indexes/a.html#alt-text)
 

@@ -12,6 +12,6 @@ For ampersands, don’t use an & in the place of and or in a sentence or organis
 
 Use & in headings, subheadings, navigation labels and graphics.
 
-For percentage use % with numbers (for example 3%) and in headers, tables and graphics. Otherwise use per cent, not percent. Percentage is one word.
+Use % when using a number (for example 3%).
 
 Use the @ symbol in email addresses and social media handles only.
