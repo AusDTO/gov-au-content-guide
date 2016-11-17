@@ -8,6 +8,40 @@ published: true
 
 ## November 2016
 
+### [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms) & [Contractions](/az-indexes/c.html#contractions)
+
+**Added** 'Only use abbreviations of general terms when the abbreviation is the clearer and more common form' to [Abbreviations & acronyms](/az-indexes/a.html#abbreviations-and-acronyms).
+
+**Moved** examples from Contractions page to Abbreviations & acronyms. Also added other examples and tidied up formatting.
+
+**Replaced** [Contractions](/az-indexes/c.html#contractions) entry:
+
+> When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
+>
+> Be aware that low-literacy users, or people from non-English speaking backgrounds may find contractions difficult to understand.
+>
+> Always consider the context, for example don’t use contractions in forms.
+
+**With**:
+
+> Use contractions carefully to make your voice and tone more conversational.
+>
+> Remember that low-literacy users and people with English as another language may find contractions difficult to understand.
+>
+> Avoid less common colloquial contractions, like you’d.
+>
+> Always consider the context. Avoid using contractions where a user may misunderstand what they are being asked to do, for example in a form.
+
+([187](https://github.com/AusDTO/gov-au-content-guide/pull/187))
+
+**Why?** Proofing error and enhancement of guidance
+
+### Updates
+
+**Corrected** some formatting issues ([187](https://github.com/AusDTO/gov-au-content-guide/pull/187)).
+
+**Why?** Proofing error
+
 ### [Per cent](/az-indexes/p.html#per-cent), [Symbols & characters](/az-indexes/s.html#symbols-and-characters) & [Weights & measures](/az-indexes/w.html#weights-and-measures)
 
 **Changed**: 'Always use % with a number' to 'Use % when using a number' and deleted guidance on spelling. Also added related link to [Weights & measures](/az-indexes/w.html#weights-and-measures). ([203](https://github.com/AusDTO/gov-au-content-guide/pull/203/))
@@ -24,13 +58,13 @@ published: true
 
 ### [Apostrophe](/az-indexes/a.html#apostrophe)
 
-**Added**: correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
+**Added** correct example heading ([195](https://github.com/AusDTO/gov-au-content-guide/pull/195/)).
 
 **Why?** Proofing error
 
 ### [Numbers](/az-indexes/n.html#numbers)
 
-Added 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/)).
+**Added** 'Use a comma for every third digit from the right upwards from 10,000.' Also corrected guidance on millions and examples. ([186](https://github.com/AusDTO/gov-au-content-guide/pull/186/))
 
 **Why?** Improve readability
 
@@ -41,7 +75,8 @@ Added 'Use a comma for every third digit from the right upwards from 10,000.' Al
 **Why?** Discoverability of relevant content
 
 ### [Capitalisation](/az-indexes/c.html#capitalisation)
-Added 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
+
+**Added** 'Use sentence case for most things. Use title case for proper nouns.' Also removed heading. ([185](https://github.com/AusDTO/gov-au-content-guide/pull/185))
 
 **Why?** Clarify guidance and fix proofing error
 
@@ -61,7 +96,7 @@ Added 'Use sentence case for most things. Use title case for proper nouns.' Also
 
 ### [Em dashes](/az-indexes/e.html#em-dashes) & [Hyphens & dashes](/az-indexes/h.html#hyphens-and-dashes)
 
-**Added**: HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
+**Added** HTML entity for em dash ([159](https://github.com/AusDTO/gov-au-content-guide/pull/159)).
 
 **Why?** Enhance guidance
 

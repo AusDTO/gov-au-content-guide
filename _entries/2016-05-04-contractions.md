@@ -1,28 +1,16 @@
 ---
 title: Contractions
 related:
+  - "abbreviations-and-acronyms"
   - "government-naming-conventions"
+  - "apostrophe"
 published: true
 ---
 
-When 2 adjacent words are contracted into 1, an apostrophe is used to show that letters have been left out.
+Use contractions carefully to make your voice and tone more conversational.
 
-Be aware that low-literacy users, or people from non-English speaking backgrounds may find contractions difficult to understand.
+Remember that low-literacy users and people with English as another language may find contractions difficult to understand.
 
-Always consider the context, for example don’t use contractions in forms.
+Avoid less common colloquial contractions, like you'd.
 
-**For example**
-
-> - don’t (do not)
-> - it’s (it is)
-> - let’s (let us)
-> - they’re (they are)
-> - they’ve (they have)
-> - we’ll (we will)
-> - we’re (we are)
-
-Contractions that include the first and last letter of a word don’t need a full stop
-
-**For example**
-
-> Ms, Pty Ltd, Dr
+Always consider the context. Avoid using contractions where a user may misunderstand what they are being asked to do, for example in a form.
