@@ -35,15 +35,17 @@ Not this
 
 Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘useful links’.
 
-### Drop the http://www
+### Drop the https://
 
-When referencing a website, drop the `http://www` prefix. Verify the website doesn't need `www` to reach it.
+You don't need to write `http://` or `https://` when referencing a website.
 
-Use the full URL when you create a hyperlink.
+If the site's actual URL doesn't use `www` you don't need to write it when you reference it. Many 
+
+You need to use the full URL when you create a hyperlink.
 
 **For example**
 
-> The Digital Transformation Agency’s website is [dta.gov.au](https://www.dta.gov.au/).
+> The Digital Transformation Agency’s website is [www.dta.gov.au](https://www.dta.gov.au/).
 
 Include a hyperlink with any emails, without including the `mailto:` prefix.
 
