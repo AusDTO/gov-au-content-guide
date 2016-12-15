@@ -39,9 +39,9 @@ Don’t use meaningless terms such as ‘click here’, ‘read more’ or ‘us
 
 You don't need to write `http://` or `https://` when referencing a website.
 
-If the site's actual URL doesn't use `www` you don't need to write it when you reference it. Many 
+If the site has a URL route without `www` you don't need to write it when you reference it. But keep the `www` if there is only a redirect in place.
 
-You need to use the full URL when you create a hyperlink.
+You still need to use the full URL when you create a hyperlink.
 
 **For example**
 
