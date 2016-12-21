@@ -1,7 +1,8 @@
 ---
 title: "Headings & subheadings"
 related:
-  - links
+  - hyperlinks
+  - voice
 published: true
 ---
 

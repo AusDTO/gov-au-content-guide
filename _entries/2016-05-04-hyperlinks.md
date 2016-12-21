@@ -1,7 +1,6 @@
 ---
 title: Hyperlinks
-related:
-  - links
+related: null
 published: true
 ---
 
