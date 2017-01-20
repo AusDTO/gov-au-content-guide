@@ -41,10 +41,10 @@ When referencing a website, drop the `http://` prefix.
 
 **For example**
 
-> The Digital Transformation Office’s website is [www.dto.gov.au](https://www.dto.gov.au/).
+> The Digital Transformation Agency’s website is [www.dta.gov.au](https://www.dta.gov.au/).
 
 Include a hyperlink with any emails, without including the `mailto:` prefix.
 
 **For example**
 
-> [belinda.blogs@dto.gov.au](mailto:belinda.blogs@dto.gov.au), not [email Belinda, Head of Social Media](mailto:belinda.blogs@dto.gov.au).
+> [belinda.blogs@dta.gov.au](mailto:belinda.blogs@dta.gov.au), not [email Belinda, Head of Social Media](mailto:belinda.blogs@dta.gov.au).

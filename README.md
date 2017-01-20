@@ -76,10 +76,10 @@ If you still have troubles contact a dev!
 
 ## Copyright & License
 
-Copyright Digital Transformation Office. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
+Copyright Digital Transformation Agency. Licensed under the Creative Commons Attribution 4.0 International Public License. See [LICENSE file](https://github.com/AusDTO/gov-au-content-guide/blob/master/LICENSE) for more details.
 
-## About the DTO
+## About the DTA
 
-![](https://www.dto.gov.au/images/govt-crest.png "Australian Government crest and Digital Transformation Office title")
+![](https://www.dta.gov.au/images/logo_dta_inline.png "Australian Government crest and Digital Transformation Agency title")
 
-The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Office](https://www.dto.gov.au/).
+The GOV.AU Content Guide is maintained and funded by the [Digital Transformation Agency](https://www.dta.gov.au/).

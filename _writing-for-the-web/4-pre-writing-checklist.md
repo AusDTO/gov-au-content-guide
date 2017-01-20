@@ -14,7 +14,7 @@ User needs can be functional or emotional --- we care about both. Sometimes they
 
 Content always needs to address the user's main needs so they can act on what we're asking them to do so they can solve their problem quickly and efficiently.
 
-In order to understand user needs it helps to actually meet users and observe in the real environment how they are currently solving the problem your information intends to improve. Read about the [Discovery stage](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/).
+In order to understand user needs it helps to actually meet users and observe in the real environment how they are currently solving the problem your information intends to improve. Read about the [Discovery stage](https://www.dta.gov.au/standard/service-design-and-delivery-process/discovery/).
 
 ### What is the aim of the content?
 

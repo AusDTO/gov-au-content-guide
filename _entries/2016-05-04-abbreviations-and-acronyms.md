@@ -48,7 +48,7 @@ Don’t use an acronym unless the full name has already been said once.
 
 **For example**
 
-> Digital Transformation Office (DTO).
+> Digital Transformation Agency (DTA).
 
 If an acronym is well known to an Australian audience, such as NSW or ABC, there is no need to spell it out. If you are writing for an international audience spell it out once and then use the acronym.
 

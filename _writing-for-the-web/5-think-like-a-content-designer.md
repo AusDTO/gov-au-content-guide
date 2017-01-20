@@ -28,7 +28,7 @@ Our writing and editing skills are still critical, and play a strong role in the
 
 ### Embrace user research (the Discovery stage)
 
-The creation of good content ideally begins at [Discovery](https://www.dto.gov.au/standard/service-design-and-delivery-process/discovery/) at the very first user research session where the content designer takes on the role of observer.
+The creation of good content ideally begins at [Discovery](https://www.dta.gov.au/standard/service-design-and-delivery-process/discovery/) at the very first user research session where the content designer takes on the role of observer.
 
 The insights gained from listening and reflecting on what real people say, think and do in relation to the topics that we end up researching and writing about, is invaluable.
 
@@ -46,4 +46,4 @@ This is fantastic in that content people get to be part of the conversation and 
 
 And when it comes to the final stages of editing there is more efficiency and co-operation around our changes because we have been part of the conversations and ensuring consensus along the way.
 
-Learn more about [agile teams](https://www.dto.gov.au/standard/design-guides/the-team/).
+Learn more about [agile teams](https://www.dta.gov.au/standard/design-guides/the-team/).
