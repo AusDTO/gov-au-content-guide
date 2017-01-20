@@ -15,13 +15,13 @@ The content in this guide will be extended and new topics added based on your ne
 
 ## Who is it for?
 
-The guide is for all content creators and transformation teams working with the Digital Transformation Office.
+The guide is for all content creators and transformation teams working with the Digital Transformation Agency.
 
 We welcome this guide being adopted across government and hope that it is a starting point for further conversations, new content processes and ways to work together.
 
 ## Why is this guide being released as a draft?
 
-We believe that making things open makes them better. It’s one of the [Digital Transformation Office design principles](https://www.dto.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
+We believe that making things open makes them better. It’s one of the [Digital Transformation Agency design principles](https://www.dta.gov.au/standard/design-principles/). We plan to test this draft version of the guide, incorporate feedback and iterate regularly.
 
 ## Give feedback
 

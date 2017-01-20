@@ -39,13 +39,13 @@ The description should:
 
 **For example**
 
-This description of the Digital Transformation Office’s website succinctly describes the agency’s key role in active voice.
+This description of the Digital Transformation Agency’s website succinctly describes the agency’s key role in active voice.
 
 ```
 <meta name="description" content="Driving the digital transformation of government information and services, making them simpler, clearer, faster.">
 ```
 
-![Digital Transformation Office search result](../images/dto-search.png)
+![Digital Transformation Agency search result](../images/dto-search.png)
 
 Caption: Meta title and description as they display in a search result.
 

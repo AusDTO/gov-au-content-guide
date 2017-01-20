@@ -43,7 +43,7 @@ Speak to the person (in plain English, without jargon) rather than speaking to t
 
 **Resources**
 
-- [DTO Design guides --- Inclusive services](https://www.dto.gov.au/standard/design-guides/inclusive-services/)
+- [DTA Design guides --- Inclusive services](https://www.dta.gov.au/standard/design-guides/inclusive-services/)
 - [Australian Network On Disability --- Inclusive Language](http://www.and.org.au/pages/inclusive-language.html)
 - [People with disability --- Guide to Reporting Disability](http://pwd.org.au/library/guide-to-reporting-disability.html)
 - [Arts Access Australia --- Advice on Disability Language](http://www.artsaccessaustralia.org/resources/advice-sheets/63-aaa-advice-on-disability-language)
